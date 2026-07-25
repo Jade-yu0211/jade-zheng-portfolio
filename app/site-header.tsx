@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from "react";
 
+const THEME_STORAGE_KEY = "jade-zheng-theme";
+
 type SiteHeaderProps = {
   activePage?: "home" | "articles" | "videos" | "about";
 };
@@ -14,8 +16,8 @@ export default function SiteHeader({ activePage = "home" }: SiteHeaderProps) {
   const [activeNav, setActiveNav] = useState<ActiveNav>(activePage);
 
   useEffect(() => {
-    document.documentElement.dataset.theme = dark ? "dark" : "light";
-  }, [dark]);
+    setDark(document.documentElement.dataset.theme === "dark");
+  }, []);
 
   useEffect(() => {
     if (activePage !== "home") {
@@ -40,6 +42,21 @@ export default function SiteHeader({ activePage = "home" }: SiteHeaderProps) {
   }, [activePage]);
 
   const closeMenu = () => setMenuOpen(false);
+  const toggleTheme = () => {
+    setDark((currentDark) => {
+      const nextDark = !currentDark;
+      const nextTheme = nextDark ? "dark" : "light";
+
+      document.documentElement.dataset.theme = nextTheme;
+      try {
+        window.localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
+      } catch {
+        // The selected theme still applies for this page if storage is unavailable.
+      }
+
+      return nextDark;
+    });
+  };
 
   return (
     <header className="site-header">
@@ -103,7 +120,7 @@ export default function SiteHeader({ activePage = "home" }: SiteHeaderProps) {
         className="theme-button"
         type="button"
         aria-label={dark ? "切换至浅色模式" : "切换至深色模式"}
-        onClick={() => setDark((value) => !value)}
+        onClick={toggleTheme}
       >
         {dark ? (
           <svg className="theme-icon theme-icon-moon" aria-hidden="true" viewBox="0 0 15 15">
