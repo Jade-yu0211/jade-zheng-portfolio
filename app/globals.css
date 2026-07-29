@@ -113,28 +113,34 @@ select {
   display: flex;
   align-items: center;
   gap: 24px;
-  color: var(--muted);
+  color: #111814;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 800;
   line-height: 24px;
 }
 
 .site-nav a {
   position: relative;
   padding: 8px;
+  color: inherit;
+  font-weight: inherit;
   transition:
     color 150ms cubic-bezier(0.4, 0, 0.2, 1),
     text-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .site-nav a:hover {
-  color: #6ce9b7;
+  color: inherit;
 }
 
 .site-nav a.active {
   color: #0dbc82;
-  font-weight: 700;
+  font-weight: 800;
   text-shadow: 1px 1px 11px rgba(208, 251, 229, 0.7);
+}
+
+:root[data-theme="dark"] .site-nav {
+  color: var(--foreground);
 }
 
 .site-nav a.active::after {
