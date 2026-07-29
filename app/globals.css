@@ -12,6 +12,9 @@
   --mint-soft: #dff9ef;
   --shadow: 0 16px 50px rgba(31, 90, 70, 0.11);
   --grid: rgba(13, 188, 130, 0.05);
+  --scrollbar-track: #e1f8ee;
+  --scrollbar-thumb: #67e7b9;
+  --scrollbar-thumb-hover: #31cf99;
 }
 
 :root[data-theme="dark"] {
@@ -26,15 +29,52 @@
   --mint-soft: #173a2f;
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.26);
   --grid: rgba(118, 188, 159, 0.055);
+  --scrollbar-track: #173c31;
+  --scrollbar-thumb: #64e2bb;
+  --scrollbar-thumb-hover: #82efcb;
 }
 
 * {
   box-sizing: border-box;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+  scrollbar-width: thin;
 }
 
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 110px;
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+*::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+  box-shadow: inset 1px 0 color-mix(in srgb, var(--mint-strong) 18%, transparent);
+}
+
+*::-webkit-scrollbar-thumb {
+  min-height: 72px;
+  border: 3px solid var(--scrollbar-track);
+  border-radius: 999px;
+  background: linear-gradient(180deg, #86f0ca 0%, var(--scrollbar-thumb) 100%);
+  background-clip: padding-box;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover);
+  background-clip: padding-box;
+}
+
+*::-webkit-scrollbar-corner {
+  background: var(--scrollbar-track);
 }
 
 body {
@@ -113,34 +153,42 @@ select {
   display: flex;
   align-items: center;
   gap: 24px;
-  color: #111814;
+  color: var(--foreground);
   font-size: 16px;
-  font-weight: 800;
+  font-weight: 700;
   line-height: 24px;
 }
 
 .site-nav a {
   position: relative;
   padding: 8px;
-  color: inherit;
-  font-weight: inherit;
+  color: #111814;
+  font-weight: 800;
   transition:
     color 150ms cubic-bezier(0.4, 0, 0.2, 1),
     text-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.site-nav a:hover {
-  color: inherit;
+.site-nav a:hover,
+.site-nav a:focus-visible {
+  color: var(--mint-strong);
+  font-weight: 800;
 }
 
 .site-nav a.active {
-  color: #0dbc82;
+  color: var(--mint-strong);
   font-weight: 800;
   text-shadow: 1px 1px 11px rgba(208, 251, 229, 0.7);
 }
 
-:root[data-theme="dark"] .site-nav {
-  color: var(--foreground);
+:root[data-theme="dark"] .site-nav a {
+  color: #f4fbf7;
+}
+
+:root[data-theme="dark"] .site-nav a:hover,
+:root[data-theme="dark"] .site-nav a:focus-visible,
+:root[data-theme="dark"] .site-nav a.active {
+  color: var(--mint-strong);
 }
 
 .site-nav a.active::after {
