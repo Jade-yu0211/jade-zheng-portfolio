@@ -5,10 +5,16 @@ import { useEffect, useState } from "react";
 const THEME_STORAGE_KEY = "jade-zheng-theme";
 
 type SiteHeaderProps = {
-  activePage?: "home" | "articles" | "videos" | "about";
+  activePage?: "home" | "products" | "articles" | "videos" | "about";
 };
 
-type ActiveNav = "home" | "experience" | "articles" | "videos" | "about";
+type ActiveNav =
+  | "home"
+  | "products"
+  | "experience"
+  | "articles"
+  | "videos"
+  | "about";
 
 export default function SiteHeader({ activePage = "home" }: SiteHeaderProps) {
   const [dark, setDark] = useState(false);
