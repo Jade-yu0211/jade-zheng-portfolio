@@ -9,12 +9,15 @@ type ChatMessage = {
   isIntro?: boolean;
 };
 
-type OpenAIStreamEvent = {
+type ModelStreamEvent = {
   type?: string;
   delta?: string;
   message?: string;
   error?: { message?: string } | string;
   response?: { error?: { message?: string } | null };
+  choices?: Array<{
+    delta?: { content?: string | null };
+  }>;
 };
 
 const MAX_CONTEXT_MESSAGES = 6;
@@ -35,7 +38,7 @@ const suggestions = ["深蹲膝盖内扣怎么调整", "增肌期怎么安排蛋
 function getErrorMessage(payload: unknown, fallback = FALLBACK_ERROR_MESSAGE) {
   if (!payload || typeof payload !== "object") return fallback;
 
-  const data = payload as OpenAIStreamEvent;
+  const data = payload as ModelStreamEvent;
   if (typeof data.error === "string" && data.error.trim()) return data.error.trim();
   if (data.error && typeof data.error === "object" && data.error.message?.trim()) {
     return data.error.message.trim();
@@ -85,9 +88,9 @@ export async function consumeOpenAIStream(
     const rawData = dataLines.join("\n").trim();
     if (!rawData || rawData === "[DONE]") return;
 
-    let event: OpenAIStreamEvent;
+    let event: ModelStreamEvent;
     try {
-      event = JSON.parse(rawData) as OpenAIStreamEvent;
+      event = JSON.parse(rawData) as ModelStreamEvent;
     } catch {
       throw new Error("模型返回了无法识别的流式数据。");
     }
@@ -99,6 +102,12 @@ export async function consumeOpenAIStream(
       typeof event.delta === "string"
     ) {
       onDelta(event.delta);
+      return;
+    }
+
+    const deepSeekDelta = event.choices?.[0]?.delta?.content;
+    if (typeof deepSeekDelta === "string" && deepSeekDelta) {
+      onDelta(deepSeekDelta);
       return;
     }
 
