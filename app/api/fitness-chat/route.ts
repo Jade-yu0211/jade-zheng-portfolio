@@ -7,7 +7,10 @@ import {
 } from "../../fitness/router";
 import type { ChatMessage } from "../../fitness/types";
 
-// EdgeOne Pages deploys Next.js route handlers as Node.js cloud functions.\n// Keep this route on that runtime so server-only environment variables and\n// outbound streaming requests are available consistently in production.\nexport const runtime = "nodejs";
+// EdgeOne Pages deploys Next.js route handlers as Node.js cloud functions.
+// Keep this route on that runtime so server-only environment variables and
+// outbound streaming requests are available consistently in production.
+export const runtime = "nodejs";
 
 const MAX_MESSAGES = 6;
 const MAX_MESSAGE_LENGTH = 1_200;
@@ -50,11 +53,11 @@ function plainTextResponse(content: string, status = 200) {
 }
 
 export async function POST(request: Request) {
-  const apiKey = process.env.OPENAI_API_KEY;
+  const apiKey = process.env.DEEPSEEK_API_KEY;
   if (!apiKey) {
     return NextResponse.json(
       {
-        error: "Fitness Chat 尚未配置 OPENAI_API_KEY，请先在部署平台添加环境变量。",
+        error: "Fitness Chat 尚未配置 DEEPSEEK_API_KEY，请先在部署平台添加环境变量。",
       },
       { status: 503 },
     );
@@ -110,21 +113,21 @@ export async function POST(request: Request) {
     .join("\n\n");
 
   const safetyIdentifier = await createSafetyIdentifier(request);
-  const upstream = await fetch("https://api.openai.com/v1/responses", {
+  const upstream = await fetch("https://api.deepseek.com/chat/completions", {
     method: "POST",
     headers: {
       Authorization: `Bearer ${apiKey}`,
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: process.env.FITNESS_MODEL ?? "gpt-5.6-luna",
-      instructions,
-      input: messages,
-      reasoning: { effort: "low" },
-      text: { verbosity: "low" },
-      max_output_tokens: 900,
-      safety_identifier: safetyIdentifier,
-      store: false,
+      model: process.env.DEEPSEEK_MODEL ?? "deepseek-v4-flash",
+      messages: [
+        { role: "system", content: instructions },
+        ...messages,
+      ],
+      thinking: { type: "disabled" },
+      max_tokens: 900,
+      user_id: safetyIdentifier,
       stream: true,
     }),
   });
@@ -133,7 +136,10 @@ export async function POST(request: Request) {
     let message = "模型暂时无法回答，请稍后再试。";
     try {
       const failure = (await upstream.json()) as { error?: { message?: string } };
-      if (failure.error?.message && process.env.NODE_ENV !== "production") {
+      if (upstream.status === 401) message = "DeepSeek API Key 无效或已失效，请检查部署环境变量。";
+      else if (upstream.status === 402) message = "DeepSeek API 余额不足，请充值后再试。";
+      else if (upstream.status === 429) message = "请求过于频繁，请稍后再试。";
+      else if (failure.error?.message && process.env.NODE_ENV !== "production") {
         message = failure.error.message;
       }
     } catch {
