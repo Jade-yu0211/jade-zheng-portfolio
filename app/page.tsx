@@ -1,4 +1,5 @@
 import ArticleGrid from "./article-grid";
+import ProductShowcase from "./product-showcase";
 import SiteHeader from "./site-header";
 import SiteFooter from "./site-footer";
 import VideoGrid from "./video-grid";
@@ -142,6 +143,18 @@ export default function Home() {
               </article>
             ))}
           </div>
+        </section>
+
+        <section className="section content-section product-section" id="products" aria-labelledby="products-title">
+          <div className="section-heading content-heading">
+            <div className="section-title-card">
+              <div className="section-title-card-surface">
+                <h2 id="products-title">产品</h2>
+              </div>
+            </div>
+          </div>
+
+          <ProductShowcase />
         </section>
 
         <section className="section content-section" id="articles" aria-labelledby="articles-title">
