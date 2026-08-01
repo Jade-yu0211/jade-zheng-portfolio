@@ -7,7 +7,7 @@ import {
 } from "../../fitness/router";
 import type { ChatMessage } from "../../fitness/types";
 
-export const runtime = "edge";
+// EdgeOne Pages deploys Next.js route handlers as Node.js cloud functions.\n// Keep this route on that runtime so server-only environment variables and\n// outbound streaming requests are available consistently in production.\nexport const runtime = "nodejs";
 
 const MAX_MESSAGES = 6;
 const MAX_MESSAGE_LENGTH = 1_200;
