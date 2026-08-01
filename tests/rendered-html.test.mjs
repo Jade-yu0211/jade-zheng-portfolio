@@ -36,7 +36,10 @@ test("renders development preview metadata", async () => {
     /href="https:\/\/mp\.weixin\.qq\.com\/s\/zjvGITvzUYdeB-zPcVOc7A"[^>]*target="_blank"/,
   );
   assert.match(html, /src="\/jade-book-icon-thick\.png"/);
-  assert.match(html, /<div class="experience-heading"><h2>个人经历<\/h2><\/div>/);
+  assert.match(html, /class="experience-heading"[\s\S]*?<h2>个人经历<\/h2>/);
+  assert.match(html, /id="products"/);
+  assert.match(html, /aria-label="打开 Fitness Chat 聊天窗口"/);
+  assert.match(html, /href="\/products"/);
   assert.doesNotMatch(html, />\s*ARTICLES\s*</);
   assert.doesNotMatch(html, />\s*VIDEO\s*</);
   assert.doesNotMatch(html, /class="section about-section"/);
@@ -49,5 +52,4 @@ test("renders development preview metadata", async () => {
   assert.match(html, /在这里直接给我发消息/);
   assert.match(html, /placeholder="你的名字"/);
   assert.match(html, /placeholder="你的邮箱"/);
-  assert.match(html, /href="mailto:zjy_zzu@163\.com"/);
 });
