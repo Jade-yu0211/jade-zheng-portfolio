@@ -15,6 +15,17 @@ export const runtime = "nodejs";
 const MAX_MESSAGES = 6;
 const MAX_MESSAGE_LENGTH = 1_200;
 const MAX_TOTAL_LENGTH = 6_000;
+const DAILY_QUESTION_LIMIT = 5;
+const QUOTA_COOKIE_NAME = "fitness_chat_quota";
+const QUOTA_COOKIE_MAX_AGE = 60 * 60 * 48;
+const VISITOR_ID_PATTERN =
+  /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+
+type DailyQuota = {
+  day: string;
+  count: number;
+  visitorId: string;
+};
 
 function isChatMessage(value: unknown): value is ChatMessage {
   if (!value || typeof value !== "object") {
@@ -40,6 +51,128 @@ async function createSafetyIdentifier(request: Request): Promise<string> {
     .slice(0, 16)
     .map((byte) => byte.toString(16).padStart(2, "0"))
     .join("");
+}
+
+function getShanghaiDay(date = new Date()): string {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(date);
+  const value = (type: Intl.DateTimeFormatPartTypes) =>
+    parts.find((part) => part.type === type)?.value ?? "";
+
+  return `${value("year")}-${value("month")}-${value("day")}`;
+}
+
+function getCookie(request: Request, name: string): string | null {
+  const cookieHeader = request.headers.get("cookie");
+  if (!cookieHeader) return null;
+
+  for (const cookie of cookieHeader.split(";")) {
+    const separator = cookie.indexOf("=");
+    if (separator === -1) continue;
+
+    const key = cookie.slice(0, separator).trim();
+    if (key === name) return cookie.slice(separator + 1).trim();
+  }
+
+  return null;
+}
+
+function constantTimeEqual(left: string, right: string): boolean {
+  if (left.length !== right.length) return false;
+
+  let difference = 0;
+  for (let index = 0; index < left.length; index += 1) {
+    difference |= left.charCodeAt(index) ^ right.charCodeAt(index);
+  }
+
+  return difference === 0;
+}
+
+async function signQuotaPayload(encodedPayload: string): Promise<string> {
+  const secret =
+    process.env.FITNESS_SAFETY_SALT ??
+    process.env.DEEPSEEK_API_KEY ??
+    "fitness-chat";
+  const key = await crypto.subtle.importKey(
+    "raw",
+    new TextEncoder().encode(secret),
+    { name: "HMAC", hash: "SHA-256" },
+    false,
+    ["sign"],
+  );
+  const signature = await crypto.subtle.sign(
+    "HMAC",
+    key,
+    new TextEncoder().encode(encodedPayload),
+  );
+
+  return Buffer.from(signature).toString("base64url");
+}
+
+async function readDailyQuota(request: Request): Promise<DailyQuota> {
+  const today = getShanghaiDay();
+  const freshQuota = (): DailyQuota => ({
+    day: today,
+    count: 0,
+    visitorId: crypto.randomUUID(),
+  });
+  const blockedQuota = (): DailyQuota => ({
+    ...freshQuota(),
+    count: DAILY_QUESTION_LIMIT,
+  });
+  const cookie = getCookie(request, QUOTA_COOKIE_NAME);
+  if (!cookie) return freshQuota();
+
+  const [encodedPayload, suppliedSignature, ...extra] = cookie.split(".");
+  if (!encodedPayload || !suppliedSignature || extra.length > 0) return blockedQuota();
+
+  const expectedSignature = await signQuotaPayload(encodedPayload);
+  if (!constantTimeEqual(suppliedSignature, expectedSignature)) return blockedQuota();
+
+  try {
+    const value = JSON.parse(
+      Buffer.from(encodedPayload, "base64url").toString("utf8"),
+    ) as Partial<DailyQuota>;
+    const isValid =
+      typeof value.day === "string" &&
+      /^\d{4}-\d{2}-\d{2}$/.test(value.day) &&
+      Number.isInteger(value.count) &&
+      typeof value.count === "number" &&
+      value.count >= 0 &&
+      value.count <= DAILY_QUESTION_LIMIT &&
+      typeof value.visitorId === "string" &&
+      VISITOR_ID_PATTERN.test(value.visitorId);
+
+    if (!isValid) return blockedQuota();
+    if (value.day !== today) return freshQuota();
+    return value as DailyQuota;
+  } catch {
+    return blockedQuota();
+  }
+}
+
+async function serializeDailyQuota(quota: DailyQuota): Promise<string> {
+  const encodedPayload = Buffer.from(JSON.stringify(quota)).toString("base64url");
+  const signature = await signQuotaPayload(encodedPayload);
+
+  return [
+    `${QUOTA_COOKIE_NAME}=${encodedPayload}.${signature}`,
+    "Path=/api/fitness-chat",
+    "HttpOnly",
+    "Secure",
+    "SameSite=Lax",
+    `Max-Age=${QUOTA_COOKIE_MAX_AGE}`,
+  ].join("; ");
+}
+
+function attachQuotaHeaders(response: Response, cookie: string, remaining: number): Response {
+  response.headers.set("Set-Cookie", cookie);
+  response.headers.set("X-Fitness-Questions-Remaining", String(remaining));
+  return response;
 }
 
 function plainTextResponse(content: string, status = 200) {
@@ -98,9 +231,31 @@ export async function POST(request: Request) {
     );
   }
 
+  const currentQuota = await readDailyQuota(request);
+  if (currentQuota.count >= DAILY_QUESTION_LIMIT) {
+    const quotaCookie = await serializeDailyQuota(currentQuota);
+    const response = NextResponse.json(
+      { error: "今天的 5 次提问机会已经用完，请明天再来。" },
+      { status: 429 },
+    );
+    response.headers.set("Retry-After", "86400");
+    return attachQuotaHeaders(response, quotaCookie, 0);
+  }
+
+  const nextQuota: DailyQuota = {
+    ...currentQuota,
+    count: currentQuota.count + 1,
+  };
+  const quotaCookie = await serializeDailyQuota(nextQuota);
+  const remainingQuestions = DAILY_QUESTION_LIMIT - nextQuota.count;
+
   const immediateSafetyReply = getImmediateSafetyReply(latestUserMessage.content);
   if (immediateSafetyReply) {
-    return plainTextResponse(immediateSafetyReply);
+    return attachQuotaHeaders(
+      plainTextResponse(immediateSafetyReply),
+      quotaCookie,
+      remainingQuestions,
+    );
   }
 
   const selectedModules = routeFitnessKnowledge(latestUserMessage.content);
@@ -149,12 +304,16 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: message }, { status: upstream.status || 502 });
   }
 
-  return new Response(upstream.body, {
-    status: 200,
-    headers: {
-      "Content-Type": "text/event-stream; charset=utf-8",
-      "Cache-Control": "no-store, no-transform",
-      "X-Accel-Buffering": "no",
-    },
-  });
+  return attachQuotaHeaders(
+    new Response(upstream.body, {
+      status: 200,
+      headers: {
+        "Content-Type": "text/event-stream; charset=utf-8",
+        "Cache-Control": "no-store, no-transform",
+        "X-Accel-Buffering": "no",
+      },
+    }),
+    quotaCookie,
+    remainingQuestions,
+  );
 }
