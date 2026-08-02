@@ -379,7 +379,9 @@ export default function ChatInterface() {
           )}
         </button>
       </form>
-      <p className="chat-window-note">Enter 发送 · Shift + Enter 换行</p>
+      <p className="chat-window-note">
+        Fitness Chat 也可能会犯错。训练建议仅供参考，不构成医疗建议。
+      </p>
     </div>
   );
 }
