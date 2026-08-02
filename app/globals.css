@@ -1310,10 +1310,10 @@ select {
 .chat-window-note {
   flex: 0 0 auto;
   margin: 9px 24px 17px;
-  color: var(--muted);
+  color: color-mix(in srgb, var(--muted) 72%, transparent);
   font-size: 10px;
-  font-weight: 700;
-  text-align: right;
+  font-weight: 600;
+  text-align: center;
 }
 
 .articles-page-shell,
