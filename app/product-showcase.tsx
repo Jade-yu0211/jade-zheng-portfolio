@@ -5,29 +5,31 @@ export default function ProductShowcase() {
       href="/products"
       aria-label="打开 Fitness Chat 聊天窗口"
     >
-      <div className="product-chat-preview" aria-hidden="true">
-        <div className="product-chat-preview-bar">
-          <span className="product-chat-preview-avatar">F</span>
-          <span>
-            <b>Fitness Chat</b>
-          </span>
-          <i />
-        </div>
-        <div className="product-chat-preview-messages">
-          <p className="product-chat-bubble product-chat-bubble--assistant">
-            你好，今天想解决什么训练问题？
-          </p>
-          <p className="product-chat-bubble product-chat-bubble--user">
-            深蹲时膝盖内扣该怎么调整
-          </p>
-        </div>
-        <div className="product-chat-preview-composer">
-          <span>输入消息...</span>
-          <span className="product-chat-preview-send">
-            <svg aria-hidden="true" viewBox="0 0 24 24">
-              <path d="M12 19V5M6 11l6-6 6 6" />
-            </svg>
-          </span>
+      <div className="product-showcase-visual">
+        <div className="product-chat-preview" aria-hidden="true">
+          <div className="product-chat-preview-bar">
+            <span className="product-chat-preview-avatar">F</span>
+            <span>
+              <b>Fitness Chat</b>
+            </span>
+            <i />
+          </div>
+          <div className="product-chat-preview-messages">
+            <p className="product-chat-bubble product-chat-bubble--assistant">
+              你好，今天想解决什么训练问题？
+            </p>
+            <p className="product-chat-bubble product-chat-bubble--user">
+              深蹲时膝盖内扣该怎么调整
+            </p>
+          </div>
+          <div className="product-chat-preview-composer">
+            <span>输入消息...</span>
+            <span className="product-chat-preview-send">
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="M12 19V5M6 11l6-6 6 6" />
+              </svg>
+            </span>
+          </div>
         </div>
       </div>
 
