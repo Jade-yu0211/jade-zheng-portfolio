@@ -33,7 +33,7 @@ export default function ProductShowcase() {
 
       <div className="product-showcase-copy">
         <h3>Fitness Chat</h3>
-        <p>使用Github上最热门的Cangjie和Nuwa两个skill，蒸馏顶级健身博主的教学视频合集，构建知识库以及人物心智模型，解答动作、营养与体态等训练问题</p>
+        <p>蒸馏顶级健身博主的教学视频合集，构建知识库以及人物心智模型，解答动作、营养与体态等训练问题</p>
         <span className="product-showcase-cta">
           打开聊天窗口
           <svg aria-hidden="true" viewBox="0 0 24 24">

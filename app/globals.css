@@ -817,8 +817,13 @@ select {
 
 .product-showcase-card {
   display: grid;
-  min-height: 380px;
-  grid-template-columns: minmax(340px, 0.88fr) minmax(0, 1.12fr);
+  width: 100%;
+  max-width: 1060px;
+  min-height: 0;
+  margin-right: auto;
+  margin-left: auto;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: minmax(340px, auto) auto;
   overflow: hidden;
   border: 1px solid rgba(13, 188, 130, 0.24);
   border-radius: 18px;
@@ -847,7 +852,8 @@ select {
 .product-chat-preview {
   display: flex;
   min-width: 0;
-  padding: 28px;
+  min-height: 340px;
+  padding: 32px 36px;
   flex-direction: column;
   background:
     linear-gradient(var(--grid) 1px, transparent 1px),
@@ -976,9 +982,10 @@ select {
 .product-showcase-copy {
   display: flex;
   min-width: 0;
-  padding: clamp(48px, 6vw, 76px) clamp(42px, 5.4vw, 72px);
+  padding: 36px 42px 40px;
+  border-top: 1px solid rgba(13, 188, 130, 0.18);
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: flex-start;
   background: #f8f5e8;
 }
@@ -990,19 +997,19 @@ select {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: clamp(38px, 4.6vw, 58px);
+  font-size: clamp(32px, 3.8vw, 46px);
   font-weight: 900;
   letter-spacing: -0.045em;
   line-height: 1.04;
 }
 
 .product-showcase-copy > p {
-  max-width: 590px;
-  margin: 24px 0 0;
+  max-width: 880px;
+  margin: 16px 0 0;
   color: var(--muted);
   font-size: clamp(15px, 1.35vw, 17px);
   font-weight: 700;
-  line-height: 1.9;
+  line-height: 1.75;
 }
 
 .product-showcase-cta {
@@ -1012,7 +1019,7 @@ select {
   gap: 10px;
   padding-bottom: 6px;
   border-bottom: 2px solid var(--mint-strong);
-  margin-top: 30px;
+  margin-top: 24px;
   font-size: 15px;
   font-weight: 900;
 }
