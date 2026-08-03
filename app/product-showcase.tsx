@@ -33,6 +33,11 @@ export default function ProductShowcase() {
 
       <div className="product-showcase-copy">
         <h3>Fitness Chat</h3>
+        <div className="product-showcase-tags" aria-label="产品关键词">
+          <span>AI问答</span>
+          <span>知识蒸馏</span>
+          <span>健身知识库</span>
+        </div>
         <p>蒸馏顶级健身博主的教学视频合集，构建知识库以及人物心智模型，解答动作、营养与体态等训练问题</p>
         <span className="product-showcase-cta">
           打开聊天窗口
