@@ -20,7 +20,7 @@ export default function CamusChatPage() {
         "如何理解西西弗的幸福？",
       ]}
       endpoint="/api/camus-chat"
-      note="Camus Chat 也可能会犯错。内容仅供思想交流，请核查作品与重要信息。"
+      note="Camus Chat 也可能会犯错。内容仅供思想交流，请核查作品与重要信息"
     />
   );
 }
