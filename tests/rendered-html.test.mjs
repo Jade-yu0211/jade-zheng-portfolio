@@ -89,7 +89,8 @@ test("renders development preview metadata", async () => {
     assert.equal(personaResponse.status, 200);
     const personaHtml = await personaResponse.text();
     assert.match(personaHtml, new RegExp(persona.title));
-    assert.match(personaHtml, /知识库待接入/);
+    assert.match(personaHtml, /知识库已接入/);
+    assert.doesNotMatch(personaHtml, /知识库接口正在接入中/);
     assert.match(personaHtml, new RegExp(persona.note));
     assert.match(personaHtml, /placeholder="在这里输入消息\.\.\."/);
   }

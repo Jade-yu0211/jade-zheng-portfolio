@@ -13,13 +13,13 @@ export default function AdlerChatPage() {
       title="Adler Chat"
       description="蒸馏阿德勒的《自卑与超越》等 3 本经典著作，构建阿德勒的人物心智模型，从个体心理学角度解答心理问题"
       avatar="A"
-      intro="你好，我是 Adler Chat。你可以向我询问自卑、目标、关系、合作与生活方式等个体心理学问题。知识库接口正在接入中。"
+      intro="你好，我是 Adler Chat。你可以向我询问自卑、目标、关系、合作与生活方式等个体心理学问题。"
       suggestions={[
         "总有人比我优秀，我该怎么超越自己？",
         "自卑感一定是坏事吗？",
         "如何停止过度在意他人的评价？",
       ]}
-      pendingReply="知识库正在接入中。接口上线后，我会从个体心理学角度回应这个问题。"
+      endpoint="/api/adler-chat"
       note="Adler Chat 也可能会犯错。心理建议仅供参考，不构成医疗建议或心理诊断。"
     />
   );

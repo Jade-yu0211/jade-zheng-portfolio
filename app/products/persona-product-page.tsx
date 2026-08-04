@@ -9,7 +9,7 @@ type PersonaProductPageProps = {
   avatar: string;
   intro: string;
   suggestions: string[];
-  pendingReply: string;
+  endpoint: string;
   note: string;
 };
 
@@ -20,7 +20,7 @@ export default function PersonaProductPage({
   avatar,
   intro,
   suggestions,
-  pendingReply,
+  endpoint,
   note,
 }: PersonaProductPageProps) {
   return (
@@ -44,7 +44,7 @@ export default function PersonaProductPage({
             avatar={avatar}
             intro={intro}
             suggestions={suggestions}
-            pendingReply={pendingReply}
+            endpoint={endpoint}
             note={note}
           />
         </section>

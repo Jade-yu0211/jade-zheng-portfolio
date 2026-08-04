@@ -1,0 +1,3129 @@
+[
+  {
+    "id": "adler-001",
+    "title": "目标统摄的人格整体",
+    "content": "理解一个人时，不把某次失误、某种情绪或一个症状当成孤立实体，而要把言行、姿态、记忆、梦想与关系模式放进同一条人生路线。阿德勒式问题是：这些表现共同朝向什么未来位置？这是一个需要多处证据和本人参与校验的工作假设，不是读心术。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "teleology",
+      "personality-unity",
+      "interpretation"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "目的归因必须由多种表现互证，并与当事人共同核对；不得由单一症状直接断言。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第二章 身体与心智；第四章 早期记忆",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第一章 精神；第九章 概论",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第一章 引言；第二章 人格的统一",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-002",
+    "title": "主观解释塑造生活方式",
+    "content": "器官状况、家庭位置、经济环境和过往经历都是真实约束，但它们不会机械地产生同一种人格。更直接组织行为的是个体如何解释自己的位置，以及由此形成的“我是谁、世界怎样、我该怎样取得位置”的生活方式。改变因此要同时尊重处境并检验旧解释。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "lifestyle",
+      "subjective-meaning",
+      "non-determinism"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "不能用“只是你的解释”否认贫困、疾病、暴力、歧视或其他客观伤害。",
+    "risk_tags": [
+      "mental_health",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义；第二章 身体与心智",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第四章 我们生活的世界；第八章 家庭排行",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第六章 儿童的发展；第八章 儿童在家庭中的地位",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-003",
+    "title": "自卑感是未完成的张力",
+    "content": "自卑感在阿德勒这里首先不是病名，而是人意识到不足、脆弱或尚未达到某种状态时产生的普遍张力。它可以推动学习、适应和贡献，也可能在气馁时变成回避与自我保护。判断重点不在“有没有自卑”，而在这股张力把行动带向哪里。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "inferiority-feeling",
+      "motivation",
+      "development"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "不要把所有痛苦、焦虑或失败都简化为自卑；临床症状需要独立评估。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第三章 自卑感与优越感",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第五章 自卑感与追求获得认可",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第三章 追求卓越及其教育意义；第五章 自卑情结",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-004",
+    "title": "追求卓越要看方向",
+    "content": "人会从较低、较不安全的位置朝更完整、更有力量的状态奋斗。阿德勒不以努力强度区分健康与失调，而以方向区分：一种走向真实能力、问题解决和共同贡献；另一种只想压倒、支配或在想象中获胜。卓越不是天然等于胜过别人。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "striving",
+      "superiority",
+      "direction"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "不同译本中的“卓越、优越、认可、支配”并非完全同义，引用时必须说明具体方向。",
+    "risk_tags": [],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第三章 自卑感与优越感；第九章 犯罪及其预防",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第五章 自卑感与追求获得认可；第九章 概论",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第三章 追求卓越及其教育意义",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-005",
+    "title": "补偿的两条道路",
+    "content": "面对不足，直接补偿会训练能力、改善现实并承担任务；虚假补偿则通过炫耀、控制、退缩、幻想或借口，让人暂时感觉优越，却把真正问题留在原地。分析时应先把“这些行为是否在替代真实解决”作为待验证假设，再寻找可小步改进的现实任务。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "compensation",
+      "problem-solving",
+      "shortcut"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "不能仅凭外在行为断定他人在虚假补偿；需要情境、持续模式与本人反馈。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第三章 自卑感与优越感",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第五章 自卑感与追求获得认可；第十章 攻击性性格特征",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第三至第五章",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-006",
+    "title": "社会情感是成功的校准器",
+    "content": "一个目标是否健全，不能只看个人有没有赢，还要看它能否被共同经验检验，是否增加理解、合作与贡献。社会情感不是简单合群，而是把自己视为共同体一员，并让能力对他人也有用。阿德勒据此重写了自我实现：完善自己与服务共同生活不能分开。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "social-interest",
+      "cooperation",
+      "contribution"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "“社会有用”不得等同服从权威或牺牲少数；需保留尊严、互惠和减少伤害的标准。",
+    "risk_tags": [],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义；第十一章 人与同类",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第二章 精神生活的社会性方面；第九章 概论",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第四章 引导追求卓越；第七章 社会情感及其发展的障碍",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-007",
+    "title": "私人意义要接受共同检验",
+    "content": "人在经验现实之前已经赋予其意义，但有些意义只在本人封闭的逻辑里成立：它维护面子、控制或安全，却不能由他人共享，也不能改善共同问题。阿德勒把这种“私人意义”视为自欺风险。实用检验是看目标兑现后，是否让现实任务与关系更可处理。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "private-meaning",
+      "common-sense",
+      "reality-test"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "少数观点不等于私人逻辑；不能以多数人的意见压制异议或非主流生活选择。",
+    "risk_tags": [],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义；第三章 自卑感与优越感",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第二章 精神生活的社会性方面；第九至十三章",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-008",
+    "title": "三项生活任务彼此联动",
+    "content": "阿德勒把现实生活概括为贡献或工作、友谊与共同体、爱情与亲密关系三类任务。一个领域的困难常与另外两个领域共享同一生活方式，因此不能只优化局部技巧。现代使用可保留“贡献—共同体—亲密”的结构，但不把传统职业、婚姻或生育设为唯一答案。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "life-tasks",
+      "work",
+      "community",
+      "intimacy"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "三任务带有时代规范；现代版本应容纳多种生计、关系、无婚与无育选择。",
+    "risk_tags": [
+      "relationships",
+      "sexuality_gender"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义；第十至十二章",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第七章 性别",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第一章 引言；第十二章 青春期和性教育",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-009",
+    "title": "新情境会把准备状态显影",
+    "content": "入学、转学、青春期、求职或进入亲密关系，并不一定凭空改变人格；它们更像显影液，让既有的合作能力、勇气、兴趣和回避策略变得清楚。分析转折期时，应区分“新要求造成的现实压力”与“旧生活方式在新任务中的复现”，再设计支持和重测。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "new-situation",
+      "readiness",
+      "transition"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "重大创伤、疾病或环境变化确实可能改变行为，不能一概说成只是旧人格暴露。",
+    "risk_tags": [
+      "mental_health",
+      "education"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第七章 学校影响；第八章 青春期",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第六章 生活的准备",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第九章 作为测试准备状态的新情境；第十章 在学校的儿童",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-010",
+    "title": "勇气是参与生活的能力",
+    "content": "勇气不是没有恐惧，也不是强势姿态，而是把困难视为可处理的任务，愿意尝试、合作、承担后果并允许失败被修正。气馁会让人把注意力从解决问题转向保护自尊。阿德勒式干预因此先寻找具体失去勇气的场景，再恢复可完成、可贡献的小步行动。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "courage",
+      "discouragement",
+      "participation"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "鼓励不能替代危机干预、专业治疗、合理边界或对现实危险的处理。",
+    "risk_tags": [
+      "mental_health",
+      "self_harm"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义；第三章 自卑感与优越感",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第一章 精神；第五章 自卑感与追求获得认可",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第五章 自卑情结；第十三章 教学的误区",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-011",
+    "title": "合作式改变优于权力斗争",
+    "content": "强制也许能取得暂时服从，却无法直接制造合作、爱与责任。阿德勒在治疗、家庭和学校中都把理解视为共同工作：不摆出全知权威，不用羞辱逼迫改变，而是与当事人一起识别错误目标、承担现实任务。合作不是纵容，它仍保留清楚边界与后果。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "cooperation",
+      "encouragement",
+      "anti-coercion"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "存在暴力、虐待或儿童安全风险时，先采取保护措施，不能只靠协商。",
+    "risk_tags": [
+      "child_safety",
+      "violence",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第四章 早期记忆；第六章 家庭影响；第七章 学校影响",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "附录 教育总论",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第十三章 教学的误区；第十四章 对父母的教育",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-012",
+    "title": "早期记忆是当前自我叙事的线索",
+    "content": "早期记忆的价值不主要在于它是否像录像一样精确，而在于个体为何从无数经历中保留这一幕，并在当下用它提醒、安慰或警告自己。它可显示“我是谁、世界会怎样”的生活方式。解释时必须联系其他记忆、行为和当前处境，不能用一段回忆定终身。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "early-recollections",
+      "self-narrative",
+      "lifestyle"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "记忆会重构且可能受创伤影响；不得据单条记忆推断虐待、诊断或人格本质。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第四章 早期记忆",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第一章 精神；第五章 自卑感与追求获得认可",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第一章 引言；第八章 儿童在家庭中的地位",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-013",
+    "title": "梦、情绪与症状只提供功能假设",
+    "content": "阿德勒常把梦理解为面向未来行动的情绪准备，把情绪和部分症状理解为改变处境的手段。这一视角可帮助追问行为的功能，但现代使用只能说“可能服务于某个目标”，并与医学、神经发育、创伤和环境解释并行，绝不能把无意识功能说成故意操纵。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "functional-analysis",
+      "dreams",
+      "emotions",
+      "symptoms",
+      "梦",
+      "做梦",
+      "梦境",
+      "梦的意义",
+      "真正想要"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "任何症状目的论都只是待验证假设；优先排除医学与安全问题，避免责备患者。",
+    "risk_tags": [
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第五章 梦",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第十三章 情感与情绪",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第五章 自卑情结",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-014",
+    "title": "反决定论不等于意志万能",
+    "content": "三书反复反对用遗传、器官缺陷、家庭排行或环境给人下不可改变的判词，强调同一处境可以形成不同生活方式。这为教育和改变保留空间。但反决定论并不意味着个体可以靠想法跨越一切限制；正确用法是同时评估生理、社会条件与可修正的意义解释。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "non-determinism",
+      "heredity",
+      "environment",
+      "agency"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "不能以能动性叙事否认残障、疾病、贫困、创伤及结构性限制。",
+    "risk_tags": [
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义；第九章 犯罪及其预防",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第九章 概论",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第六章 儿童的发展；第十一章 外界的影响",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-015",
+    "title": "身心整体与医学边界",
+    "content": "阿德勒拒绝“身体支配心智”或“心智支配身体”的简单二选一，主张把身体、心智与目标看作同一生命整体中的互动部分。这个整体视角可提醒人同时观察功能限制、情绪与生活任务；但它不能证明每个躯体症状都有心理目的，也不能替代诊断和治疗。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "mind-body",
+      "holism",
+      "medical-boundary"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "出现持续或严重身体症状时应先寻求医疗评估；不得将病情归咎于态度。",
+    "risk_tags": [
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第二章 身体与心智",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第一章 精神；第五章 自卑感与追求获得认可",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第六章 儿童的发展；第十一章 外界的影响",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-016",
+    "title": "儿童教育先保护安全与勇气",
+    "content": "阿德勒式教育反对把儿童的懒惰、退缩或捣乱直接视为天性和道德缺陷，主张理解其准备状态、恢复勇气并训练合作。现代应用还必须加一道更高优先级的安全门：先排除虐待、疾病、神经发育差异和学习障碍，再讨论行为可能承担的心理功能。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "education",
+      "child-development",
+      "safety-boundary",
+      "孩子",
+      "儿童",
+      "上课",
+      "课堂",
+      "捣乱",
+      "课堂纪律"
+    ],
+    "evidence_type": "cross-work-inference",
+    "caveat": "不得把儿童症状解释为操纵，也不得用阿德勒框架延误医学、心理或特殊教育评估。",
+    "risk_tags": [
+      "child_safety",
+      "education",
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第六章 家庭影响；第七章 学校影响",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第十章 在学校的儿童；第十三章 教学的误区；第十四章 对父母的教育",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-017",
+    "title": "性别与亲密关系的时代边界",
+    "content": "三书关于爱情、婚姻和性别的论述保留了“平等合作比支配竞争更健康”的可用核心，但也带有二元性别、婚姻生育中心以及对非异性恋的过时病理化语言。现代知识库只继承互惠、平等和共同承担，不继承固定性别角色或把婚育当成人格标准。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "gender-boundary",
+      "relationships",
+      "historical-context"
+    ],
+    "evidence_type": "editorial-context",
+    "caveat": "不得用历史文本诊断或贬损任何性取向、性别认同、无婚或无育选择。",
+    "risk_tags": [
+      "sexuality_gender",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第十二章 爱情和婚姻",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "第七章 性别",
+        "evidence_type": "direct-work"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "第十二章 青春期和性教育",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-018",
+    "title": "阿德勒框架的证据与用途边界",
+    "content": "这三本书提供的是一套高度统一、可生成问题的解释框架，证据主要来自临床观察、教育经验与个案重构。它适合用于提出假设、反思目标和设计合作性行动，不适合当作现代临床因果定律。知识库应清楚区分阿德勒正文、译者材料和后续推断，并避免长段复述原文。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "core",
+      "epistemic-boundary",
+      "evidence",
+      "source-criticism"
+    ],
+    "evidence_type": "editorial-context",
+    "caveat": "不是诊断或治疗指南；具体医疗、心理、法律和儿童安全问题应转介合格专业人员。",
+    "risk_tags": [
+      "mental_health",
+      "medical",
+      "legal",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "全书正文与推荐语分层",
+        "evidence_type": "editorial-context"
+      },
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，用户提供 EPUB",
+        "locator": "自序、英译者序与正文分层",
+        "evidence_type": "editorial-context"
+      },
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，用户提供 EPUB",
+        "locator": "译序、译者注与正文分层",
+        "evidence_type": "editorial-context"
+      }
+    ]
+  },
+  {
+    "id": "adler-019",
+    "title": "生活的意义体现于行动",
+    "content": "《自卑与超越》第一章认为，人未必能口头回答生活有何意义，但其习惯、态度、期待和对困难的处理已经给出答案。人经验的是经过解释的现实，因此分析应从行动反推其生活意义，再检查这种解释是否扩大合作与贡献，而不是只接受自我描述。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-1",
+      "meaning",
+      "action"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "从行动反推意义仍是解释假设，需考虑情境并与本人核对。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-020",
+    "title": "贡献使意义成为共同意义",
+    "content": "第一章用职业、社会关系和爱情三类问题检验生活意义，并把贡献视为较可靠的方向：好的答案不只保护个人免受失败，也帮助他人成为共同生活的一部分。私人胜利若不能被交流、共享或改善共同问题，就容易退化为封闭的优越感。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-1",
+      "contribution",
+      "social-interest"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "贡献不等于无条件自我牺牲，也不能以“共同利益”要求个体忍受伤害。",
+    "risk_tags": [
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-021",
+    "title": "身体与心智共同服务于方向",
+    "content": "第二章把身体与心智看作生命整体中不可分割的两方面。心智通过预见和解释帮助有机体在困难中寻找位置，而身体动作、表征与症状也可能呈现整体方向。这个视角鼓励身心并看，但不能越过证据把所有身体问题心理化。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-2",
+      "mind-body",
+      "holism"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "身心整体论不替代医学诊断；症状目的只能作为待验证假设。",
+    "risk_tags": [
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第二章 身体与心智",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-022",
+    "title": "器官困难增加风险但不决定命运",
+    "content": "第二章及第一章相关论述承认器官缺陷和身体不适会强化不安全与比较，却反对从缺陷直接推出错误人格。有人会因困难气馁，也有人在克服困难中发展能力。分析应同时看功能限制、社会回应、个人解释和可获得支持，避免生物宿命论。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-2",
+      "organ-inferiority",
+      "non-determinism"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不可浪漫化残障或疾病，也不能要求患者靠奋斗证明价值。",
+    "risk_tags": [
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第一章 生活的意义；第二章 身体与心智",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-023",
+    "title": "自卑情结是任务前的退却循环",
+    "content": "第三章没有把自卑情结定义为单纯“觉得自己差”，而是指人在具体问题前相信自己无法应对，继而限制行动、避免失败并寻求替代性优越。真正困难仍未改变，压力于是继续累积。干预点应落在被回避的具体任务和可恢复的勇气上。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-3",
+      "inferiority-complex",
+      "avoidance"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "“自卑情结”不是对他人的随意标签；持续功能受损应由专业人员评估。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第三章 自卑感与优越感",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-024",
+    "title": "优越姿态可能掩盖不安全",
+    "content": "第三章用傲慢、夸张姿态和家庭中的支配说明：看似高人一等的行为有时是在抵消被忽视或无足轻重的感受。正确用法不是断言“傲慢的人都自卑”，而是形成假设：这份强势是否只在保护重要感，并检查它是否回避了真正需要解决的任务。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-3",
+      "superiority-complex",
+      "functional-hypothesis"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "外显自信、肢体表达或领导行为并不自动证明自卑；必须结合情境和持续模式。",
+    "risk_tags": [
+      "mental_health",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第三章 自卑感与优越感",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-025",
+    "title": "早期记忆呈现生活方式的旋律",
+    "content": "第四章把早期记忆视为理解生活方式的重要入口。个体从无数经历中保留某些片段，用它们说明自己怎样、他人怎样、危险在哪里以及该如何行动。分析不是寻找固定象征，而是把多段记忆与当前行为相互校验，观察是否指向同一人生路线。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-4",
+      "early-recollections",
+      "lifestyle"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "记忆不是客观档案，不能靠一段回忆确认创伤、犯罪或人格诊断。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第四章 早期记忆",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-026",
+    "title": "没有合作的真相不完整",
+    "content": "第四章强调理解人的难度：观察者必须保持怀疑，用大量细节纠正初步解释，并让当事人参与共同理解。即便解释者自认看懂了，如果本人不能辨认其意义，这个解释仍不完整。治疗关系不应以宠爱、冷落或权威制造依赖，而应练习平等合作。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-4",
+      "collaborative-interpretation",
+      "epistemic-humility"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "合作核对不意味着当事人的每个自我解释都无需现实检验；应同时尊重经验与证据。",
+    "risk_tags": [
+      "mental_health",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第四章 早期记忆",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-027",
+    "title": "梦可能为未来行动制造情绪",
+    "content": "第五章不把梦当作预言或固定象征密码，而把它视为与清醒人格一致的创造性活动。梦可能简化问题、放大危险或唤起某种情绪，使做梦者为下一步行动做好准备。解释时应问梦后形成了什么态度，并与现实生活方式互证，而不是查梦典。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-5",
+      "dreams",
+      "emotional-preparation"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "梦的功能解释缺乏单次可证性，只能作为探索性假设，不能用于诊断。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第五章 梦",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-028",
+    "title": "最初关系训练合作能力",
+    "content": "第六章把婴儿与主要照料者的联系视为走向社会生活的第一座桥梁。照料的关键不是控制，而是照料者能否对儿童感兴趣、理解需要并争取双方合作。溺爱会让儿童期待别人替他解决任务，忽视则可能让世界显得敌对；两者都不是不可改变的命运。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-6",
+      "family",
+      "caregiving",
+      "cooperation"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不能把儿童的一切困难归咎于母亲；应评估多位照料者、家庭资源和社会环境。",
+    "risk_tags": [
+      "child_safety",
+      "relationships",
+      "education"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第六章 家庭影响",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-029",
+    "title": "家庭位置影响解释而非规定性格",
+    "content": "第六章讨论兄弟姐妹、独生、长幼位置和家庭偏爱如何塑造比较与竞争。可用的核心不是“排行决定人格”，而是儿童是否感觉自己平等、有位置、能合作，还是必须通过压倒、取悦或依赖来获得重要感。相同排行在不同家庭中可能形成完全不同的路线。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-6",
+      "family-constellation",
+      "birth-order"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "家庭排行只能作为访谈入口，不能当作人格预测或给儿童贴标签的工具。",
+    "risk_tags": [
+      "child_safety",
+      "relationships",
+      "education"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第六章 家庭影响",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-030",
+    "title": "学校是合作与准备的检验场",
+    "content": "第七章把学校视为家庭向更广社会的延伸。入学不仅检验知识，也检验儿童对老师、同伴和任务的兴趣与合作准备。老师的职责不是用排名和羞辱确认失败，而是识别儿童在哪些场景中退缩，通过讨论、联系和可完成任务纠正早期教育留下的困难。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-7",
+      "school",
+      "readiness",
+      "encouragement"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "学习困难可能涉及神经发育、感官、语言或教学适配，不能只按生活方式解释。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第七章 学校影响",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-031",
+    "title": "青春期更像显影而非重置",
+    "content": "第八章反对把青春期想成突然改造性格的危机。身体成熟、自由增加和成人任务逼近，使旧有的依赖、敌意、勇气或合作方式更清楚。父母若不断证明孩子仍弱小，容易升级权力斗争；更好的方向是承认成长、明确责任，并让青少年练习平等参与。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-8",
+      "adolescence",
+      "transition",
+      "autonomy"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "青春期确有生理、神经与社会变化；不能把所有新症状都归为旧性格暴露。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "mental_health",
+      "sexuality_gender"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第八章 青春期",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-032",
+    "title": "犯罪要看奋斗方向与社会脱离",
+    "content": "第九章把犯罪者放回普通人共有的自卑与奋斗连续体，认为关键差异不在努力多少，而在目标是否脱离共同体、把私人胜利置于他人安全之上。该框架可用于理解风险因素和预防方向，但不能否认责任、证据、受害者权益或现代犯罪学的多重原因。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-9",
+      "crime",
+      "social-interest",
+      "prevention"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不得用心理推测替代司法事实、风险评估或法律程序；优先保护受害者与公共安全。",
+    "risk_tags": [
+      "legal",
+      "violence"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第九章 犯罪及其预防",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-033",
+    "title": "职业是劳动分工中的贡献",
+    "content": "第十章不把职业只理解为个人收入或地位，而把它放进劳动分工：人依赖前人的合作成果，也用自己的工作减轻共同生活的负担。逃避工作有时可能延续“让别人替我解决”的生活方式。现代应用应把职业扩写为有酬、无酬照护、学习及其他实际贡献。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-10",
+      "work",
+      "division-of-labor",
+      "contribution"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "失业、疾病、照护责任和劳动市场限制不能被道德化为逃避贡献。",
+    "risk_tags": [],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第十章 职业",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-034",
+    "title": "以是否增进合作评估共同体运动",
+    "content": "第十一章把语言、家庭、宗教和政治群体都视为人类寻求联结与合作的形式，并建议用“是否增加对同类的兴趣、是否促进更高层次合作”来评估。形式并非唯一，任何传统都可能被滥用。这个标准关注群体边界是否继续扩展，而非只在内部团结、对外敌视。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-11",
+      "community",
+      "cooperation",
+      "common-sense"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "内部合作不自动等于公共善；还需检查排外、强制、歧视和对少数权利的影响。",
+    "risk_tags": [
+      "violence",
+      "legal"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第十一章 人与同类",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-035",
+    "title": "亲密关系是一项双人合作任务",
+    "content": "第十二章用双人锯树的比喻说明亲密关系：双方都要主动，但主动性必须协调；若一方垄断、退缩或不信任，任务就会受阻。可继承的核心是平等、互信、共同承担与对伴侣生活的关心。关系质量不靠谁征服谁，而看两人能否共同解决现实问题。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-12",
+      "love",
+      "partnership",
+      "cooperation"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "合作不要求留在虐待或不安全关系中；暴力与控制应优先寻求保护。",
+    "risk_tags": [
+      "relationships",
+      "violence"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第十二章 爱情和婚姻",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-036",
+    "title": "保留亲密合作，舍弃婚育中心",
+    "content": "第十二章把婚姻、生育和异性伴侣置于人类延续的中心，这是明显的历史语境。现代蒸馏不复制这套唯一规范，而提取更一般的判断：亲密关系是否互惠、平等、信任，双方是否能在不抹去个体边界的情况下共同承担。无婚、无育及多样性取向同样可拥有健全生活。使用时先核对具体情境、现实约束与当事人的反馈，再形成判断。",
+    "tags": [
+      "what-life-could-mean",
+      "chapter-12",
+      "historical-boundary",
+      "intimacy",
+      "equality"
+    ],
+    "evidence_type": "editorial-context",
+    "caveat": "不得把异性婚姻、生育或固定性别角色作为心理健康与人生价值的标准。",
+    "risk_tags": [
+      "relationships",
+      "sexuality_gender"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《自卑与超越》",
+        "edition": "周小进译，上海译文出版社，用户提供 EPUB",
+        "locator": "第十二章 爱情和婚姻",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-037",
+    "title": "把心理学交给普通人的演讲任务",
+    "content": "《理解人性》把个体心理学定位为普通人可以学习的生活知识，而不是少数专家的私产。讲解从家庭误解、同伴冲突和生活管理中的错误进入，再把概念落回关系与行动。用于回答时，应先说清用户正在面对的日常问题，再引入必要术语，并让术语服务于可观察、可修正的实践。",
+    "tags": [
+      "演讲体",
+      "大众心理学",
+      "生活管理",
+      "应用"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "这是作品的教育目标，不代表非专业读者可据此自行诊断或替代合格的医疗、心理服务。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "自序；导言",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-038",
+    "title": "从运动与环境理解精神活动",
+    "content": "第一章把精神活动放进生物体与环境的关系中：能行动的生命需要预期、记忆和判断，以便回应变化。这里的重点不是把心灵当作孤立实体，而是观察一个人怎样在具体处境中移动、适应、进攻、防御或寻求安全。分析困境时，应先确认现实环境和可行动空间，再谈心理意义。",
+    "tags": [
+      "精神活动",
+      "运动",
+      "环境",
+      "适应"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "书中的生物学表述属于早期理论背景，不能替代现代神经科学、医学或发展心理学结论。",
+    "risk_tags": [
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第一章 精神·精神生活的概念与前提；精神器官的功能",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-039",
+    "title": "由多种行动反推暂定目标",
+    "content": "第一章主张，人的思想、情感、意志与行为像朝某个未来目标组织起来的运动。理解一个人时，可比较多个时期、多个场景的行动，寻找共同方向；但目标往往不被本人清楚意识到，单个动作也可能有多种意义。因此结论只能是待验证假设，须让当事人反馈并接受反例修正。",
+    "tags": [
+      "目的论",
+      "目标",
+      "行为模式",
+      "假设检验"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不得由一个症状、梦或记忆武断读心；需同时考虑现实压力、健康、创伤与其他合理解释。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第一章 精神·精神生活的目的",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-040",
+    "title": "精神生活始终嵌在社会关系中",
+    "content": "第二章把人与同伴的关系视为理解精神生活的基本条件。语言、劳动、判断和安全感都不是完全私人的产物，而是在共同生活的要求中形成。遇到个人困境时，除内在感受外，还要检查他与家人、同伴、组织和制度的真实关系，以及哪些冲突来自误解、隔离或合作条件不足。",
+    "tags": [
+      "社会性",
+      "同伴",
+      "共同生活",
+      "关系"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "强调社会嵌入不等于把责任全推给个人，也不能忽略贫困、歧视、权力不对等和不安全关系。",
+    "risk_tags": [
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第二章 精神生活的社会性方面·绝对真理；对社会生活的需要",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-041",
+    "title": "用共同生活检验私人判断",
+    "content": "第二章认为，个人会发展出一套关于世界与自己的私人看法，但它能否有效，要接受共同生活现实的检验。一个策略若只能维持个人安全或优越，却持续破坏互惠、责任和合作，就需要修正。检验时应问：谁从中受益、谁承担代价、它是否允许各方保有边界并参与解决问题。",
+    "tags": [
+      "私人逻辑",
+      "共同生活",
+      "合作",
+      "现实检验"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "合作不是服从多数或忍受伤害；在暴力、控制和剥削关系中，安全与边界优先。",
+    "risk_tags": [
+      "relationships",
+      "violence"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第二章 精神生活的社会性方面·安全与适应",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-042",
+    "title": "儿童的弱小处境会塑造主观位置",
+    "content": "第三章从儿童相对成人的弱小、依赖和需要照料出发，说明早期处境会影响他如何估计自己与世界。身体困难、忽视或过度保护都可能增加不安全感，但不会机械决定人格。理解儿童时，应同时看实际能力、照料关系、儿童自己的解释，以及他获得参与和贡献机会的多少。",
+    "tags": [
+      "儿童",
+      "依赖",
+      "主观位置",
+      "早期处境"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不能把身体差异、残障或发育困难视为人格缺陷；儿童安全、医学和发展评估优先于理论解释。",
+    "risk_tags": [
+      "child_safety",
+      "education",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第三章 儿童与社会·儿童的处境；困难的影响",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-043",
+    "title": "教育要扩展归属与参与能力",
+    "content": "第三章把儿童看成正在学习成为社会成员的人。教育的任务不是压服意志，而是帮助儿童把注意力从争夺特殊位置，扩展到理解他人、承担适度任务和参与共同活动。可行做法是减少羞辱与比较，提供真实而不过度的责任，并观察儿童是否逐渐能独立完成、求助和合作，再据此调整支持。",
+    "tags": [
+      "教育",
+      "社会感",
+      "归属",
+      "合作"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "本卡不授权体罚、强制服从或撤回照料；涉及虐待、性侵或严重忽视时先走儿童保护与紧急支持。",
+    "risk_tags": [
+      "child_safety",
+      "education"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第三章 儿童与社会·作为社会存在的人",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-044",
+    "title": "人回应的是被解释过的世界",
+    "content": "第四章强调，人不是被外界刺激直接推动，而是通过感觉、经验、注意与既有观点构成自己的世界图景，再依此行动。同一事件对不同人可能有不同意义。回应用户时，可区分可核对事实、当事人的解释和由解释引出的行动；改变不一定要否认经验，而可从增加新的解释与尝试开始。",
+    "tags": [
+      "主观意义",
+      "世界图景",
+      "知觉",
+      "解释"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "主观意义不取消客观伤害、事实核查和现实责任；不能用“都是你的看法”否认他人的遭遇。",
+    "risk_tags": [
+      "mental_health",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第四章 我们生活的世界·我们宇宙的结构；宇宙观形成的要素",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-045",
+    "title": "幻想与记忆要看当下用途",
+    "content": "第四章把幻想、持久记忆和注意选择视为个人世界图景的一部分。它们可能突出某种危险、希望或自我位置，并为当前行动提供情绪基调。分析时不争论记忆是否完全客观，而问它此刻强调了什么、略去了什么、支持了哪种行动；再以其他事实和关系中的表现交叉核对，避免过度解释。",
+    "tags": [
+      "记忆",
+      "幻想",
+      "注意",
+      "当前用途"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "记忆可能不准确，解释也可能多义；不得凭回忆内容确认创伤细节、人格类型或隐藏动机。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第四章 我们生活的世界·宇宙观形成的要素；幻想",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-046",
+    "title": "共情是进入他人视角而非接受支配",
+    "content": "第四章讨论共情、认同、暗示与催眠，核心问题是一个人如何进入他人的观点并受其影响。现代使用可保留一项方法：先尝试从当事人的位置理解其意义系统，再检查影响是否建立在自愿、信任与可退出之上。理解对方不等于认同结论，也不应借权威或暗示绕过其自主判断。",
+    "tags": [
+      "共情",
+      "认同",
+      "影响",
+      "自主性"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "书中催眠和暗示观点具有历史局限；不得据此实施治疗、操控或未经同意的心理技术。",
+    "risk_tags": [
+      "mental_health",
+      "relationships",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第四章 我们生活的世界·共情与认同；催眠与暗示",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-047",
+    "title": "自卑感是处境性的差距体验",
+    "content": "第五章把自卑感放在儿童的弱小、能力差距和社会比较中理解。它首先是一种“目前不足以应付任务”的体验，不自动等于疾病或人格缺陷。判断重点应从“有没有自卑”转向：差距是否真实、被赋予了什么意义、它促使人学习与合作，还是使人回避任务并执着于证明优越。",
+    "tags": [
+      "自卑感",
+      "能力差距",
+      "任务",
+      "非病理化"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "持续低落、强烈焦虑或功能受损需要专业评估；不能用自卑概念替代抑郁、创伤或其他健康问题。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第五章 自卑感与追求获得认可·儿童早期的情形",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-048",
+    "title": "补偿的方向比强度更重要",
+    "content": "第五章认为，自卑体验会推动人寻求认可、安全或优越。关键不在于追求本身多强，而在于它朝向哪里：通过学习、贡献与合作扩展能力，还是通过贬低、控制、炫耀或逃避失败保护位置。面对“我要变强”，可追问这种变强是否也让他人更能参与，并减少对比较胜负的依赖。",
+    "tags": [
+      "补偿",
+      "认可",
+      "优越感",
+      "方向"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "追求成就不必然是病态补偿；只有结合动机、代价、关系后果和长期模式才能提出解释。",
+    "risk_tags": [
+      "mental_health",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第五章 自卑感与追求获得认可·自卑感的补偿：追求获得认可和优越感",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-049",
+    "title": "用人生曲线核对统一方向",
+    "content": "第五章建议把早期记忆、当前行为和未来期待放在一条“人生曲线”上比较，寻找反复出现的自我位置与行动方向。方法价值在于跨时段核对，而非从一个细节下定论。若不同场景证据不一致，应保留矛盾；若某种解释只能解释过去、不能预测可观察行为，也不应被当作稳定生活方式。",
+    "tags": [
+      "人生曲线",
+      "生活方式",
+      "跨情境",
+      "反证"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "早期记忆与人生叙事会重构；曲线是启发式工具，不是诊断量表或因果证明。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第五章 自卑感与追求获得认可·人生的曲线图和宇宙观",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-050",
+    "title": "游戏是在排练未来的生活角色",
+    "content": "第六章把儿童游戏看作生活准备：游戏中的角色、规则、合作和胜负态度，可能展示儿童如何想象未来位置。观察重点不是给某种游戏贴人格标签，而是看儿童是否能轮流、协商、承受挫折、创造规则并关照伙伴。教育者可通过丰富共同游戏，增加安全的练习机会，而不是控制每一步。",
+    "tags": [
+      "游戏",
+      "生活准备",
+      "儿童",
+      "合作"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "游戏偏好不能单独预测人格、性别认同或职业；必须尊重儿童差异、发展阶段和安全。",
+    "risk_tags": [
+      "education",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第六章 生活的准备·游戏",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-051",
+    "title": "注意与遗忘可能服务当前方向",
+    "content": "第六章把注意、分心、过失和遗忘放进目的性框架：人可能更容易注意与自身目标一致的材料，也可能在困难任务前转移注意。这个视角适合生成问题，如“分心后避免了什么、谁接手了什么”，但不能把所有遗忘解释成故意逃避。应同时检查睡眠、负荷、环境、神经发育和身体因素。",
+    "tags": [
+      "注意力",
+      "遗忘",
+      "功能分析",
+      "替代解释"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "注意困难和健忘可能涉及健康、药物、压力或神经发育问题；需要时应寻求专业评估。",
+    "risk_tags": [
+      "mental_health",
+      "medical",
+      "education"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第六章 生活的准备·注意力与注意力分散；过失犯罪与健忘",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-052",
+    "title": "梦与才能只提供方向线索",
+    "content": "第六章将梦理解为为醒后态度做情绪准备的活动，并把才能放在兴趣、训练与生活方向中讨论。可取的做法是问梦或能力叙事怎样影响当前勇气与选择，而不是套用固定象征或宿命天赋。解释若不能与现实行为、个人感受和长期证据相互印证，就应保持悬置，并继续观察。",
+    "tags": [
+      "梦",
+      "才能",
+      "生活准备",
+      "非宿命"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "梦境不用于诊断；能力困难也不能仅归因于兴趣或勇气，应考虑教育机会、残障与专业测评。",
+    "risk_tags": [
+      "mental_health",
+      "education",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第六章 生活的准备·梦；才能",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-053",
+    "title": "把性别支配放回文化结构",
+    "content": "第七章反对以所谓天生低能为男性支配辩护，并把劳动分工、教育期待和社会权力纳入两性差异的形成。其可保留的分析动作是：区分身体差异、文化角色与权力安排，检查谁被限制了学习、职业和自主机会。不能把书中二元性别语言直接当作当代性别科学，也不能据此限制个人选择。",
+    "tags": [
+      "性别",
+      "劳动分工",
+      "文化结构",
+      "权力"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "文本具有20世纪初的二元性别与性观念局限；当代应用应尊重多元性别与性取向，并依赖当前权威证据。",
+    "risk_tags": [
+      "sexuality_gender"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第七章 性别·两性差异与劳动分工；男性在当今文化中的支配地位；所谓女人低能",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-054",
+    "title": "亲密关系不能建立在优越地位上",
+    "content": "第七章把两性紧张与支配地位联系起来：若一方把关系理解为证明高低、要求服从，亲密就被权力竞争替代。用于当代关系时，应讨论双方是否能表达需求、共同决定、保留边界并平等承担后果。改革不只是改变口号，而是改变教育、劳动机会和家庭中的实际分工，也要落实到日常协商。",
+    "tags": [
+      "亲密关系",
+      "平等",
+      "支配",
+      "家庭分工"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "平等讨论不能替代对家暴、胁迫控制和性暴力的安全处置；有即时危险时优先求助。",
+    "risk_tags": [
+      "sexuality_gender",
+      "relationships",
+      "violence"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第七章 性别·两性间的紧张状态；改革的尝试",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-055",
+    "title": "家庭排行是主观位置而非编号命运",
+    "content": "第八章关注长子、次子、幼子和独生子在家庭竞争与期待中的不同处境。可取之处不是按出生顺序套人格，而是询问儿童如何理解自己的位置：谁被比较、谁承担责任、谁得到照料、家庭结构何时改变。真正有解释力的是主观体验与互动模式，而不是排行数字本身，结论要允许例外。",
+    "tags": [
+      "家庭排行",
+      "出生顺序",
+      "主观位置",
+      "手足关系"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "出生顺序不能预测或诊断人格；家庭规模、文化、年龄差、照料者变化和个体经验都可能改变结果。",
+    "risk_tags": [
+      "education",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第八章 家庭排行",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-056",
+    "title": "理解家庭位置时保持判断谦逊",
+    "content": "第八章在讨论排行类型后提醒，对同伴作判断必须谦逊，尤其不要把环境线索升级为一个人的道德价值。使用家庭资料时，可生成多个候选解释，并寻找反例：同一排行是否出现不同性格，同一行为在别处是否消失。若信息不足，应明确停在“可能相关”，而不是宣布固定类型。",
+    "tags": [
+      "判断谦逊",
+      "家庭环境",
+      "反例",
+      "非诊断"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不要借阿德勒术语责怪父母或儿童；涉及家庭暴力、忽视时，事实与安全责任仍需明确。",
+    "risk_tags": [
+      "education",
+      "relationships",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第八章 家庭排行",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-057",
+    "title": "性格是统一行动方向而非特质清单",
+    "content": "第九章把性格理解为一个人在社会处境中形成的统一行动方向，而不是彼此独立、由遗传固定的优缺点清单。同一目标可以借相反表面形式表达，例如公开强硬或退缩回避都可能维护私人位置。分析时要比较行为的功能与后果，不因“外向、内向、固执”等词就停止理解。",
+    "tags": [
+      "性格",
+      "人格统一",
+      "行为功能",
+      "非遗传决定"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "该框架不能替代现代人格测量、精神诊断或遗传研究；表面相似行为可能有完全不同原因。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第九章 概论·性格的本质与根源；性格发展的方向",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-058",
+    "title": "社会感是性格方向的评价尺度",
+    "content": "第九章用社会感评价性格发展的方向：一个人是否能把自己视为共同体成员，理解他人的位置，并在生活任务中合作。这个尺度关注关系后果，不要求抹掉个性。用于决策时可问：方案是否增加互惠、责任和真实贡献；是否允许自己与他人都保持尊严、安全和适当边界，并能共同修正。",
+    "tags": [
+      "社会感",
+      "共同体",
+      "性格方向",
+      "贡献"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "社会感不等于集体主义服从、讨好或自我牺牲；不安全关系中退出和求助也可能是负责任行动。",
+    "risk_tags": [
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第九章 概论·社会感对于性格发展的重要性",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-059",
+    "title": "气质与身体解释必须保留边界",
+    "content": "第九章讨论气质、身体和内分泌，同时坚持人会赋予身体条件以不同意义。可保留的原则是避免从生理差异直接推出道德或人格结论，并观察个体怎样适应限制、获得支持。书中的具体内分泌和体质推断已属历史材料，遇到持续情绪、认知或躯体变化时，应转向现代专业评估。",
+    "tags": [
+      "气质",
+      "身体",
+      "内分泌",
+      "历史边界"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不得依据此书作内分泌、精神或人格诊断；身体和情绪症状需由合格医疗专业人员评估。",
+    "risk_tags": [
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第九章 概论·气质与内分泌；综述",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-060",
+    "title": "虚荣把共同任务改写成地位竞赛",
+    "content": "第十章把虚荣和野心理解为对认可与优越位置的过度追逐。问题不在有抱负，而在一个人是否必须显得高于别人，因而难以合作、承认错误或承担普通任务。检验时可看：没有掌声时是否仍愿意做事；成功是否需要贬低他人；目标是否产生真实能力与公共价值，还要看失败后能否学习。",
+    "tags": [
+      "虚荣",
+      "野心",
+      "认可",
+      "地位竞赛"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不能凭自信、外表或成就欲就判定虚荣；解释需结合长期行为、关系后果与本人经验。",
+    "risk_tags": [
+      "relationships",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十章 攻击性性格特征·虚荣与野心",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-061",
+    "title": "嫉恨与嫉妒暴露比较坐标",
+    "content": "第十章讨论嫉恨、嫉妒与仇恨时，关注它们怎样把他人的所得解释为自己的降级。回应这类情绪，可先承认受伤、失落或不公，再辨认比较坐标：我究竟担心失去什么位置或关系？下一步应转向可表达的需要、公平边界与自身任务，而不是通过报复恢复优越，必要时先暂离冲突。",
+    "tags": [
+      "嫉妒",
+      "嫉恨",
+      "比较",
+      "关系"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "情绪本身不等于暴力意图；若用户出现伤人计划、跟踪或报复行动，应立即转入安全与法律支持。",
+    "risk_tags": [
+      "relationships",
+      "violence",
+      "legal"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十章 攻击性性格特征·嫉恨；嫉妒；仇恨",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-062",
+    "title": "攻击性特征要分析循环而非定罪",
+    "content": "第十章把多种攻击性特征放进地位追求和社会关系中解释。现代应用应把“攻击性人格”改写为具体循环：触发是什么、采取了什么行动、他人如何回应、当事人获得何种短期结果、长期代价是什么。只有这样，才可能找到停止升级、表达需求和承担责任的替代行为，并观察是否真正减少伤害。",
+    "tags": [
+      "攻击性",
+      "行为循环",
+      "责任",
+      "替代行动"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "理解行为功能不减轻暴力责任，也不能要求受害者共情施暴者；即时危险优先报警或联系当地紧急支持。",
+    "risk_tags": [
+      "violence",
+      "legal",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十章 攻击性性格特征",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-063",
+    "title": "退缩与焦虑可能是保护性路线",
+    "content": "第十一章把隔离、焦虑和懦弱视为不公开进攻却保持距离的行为方向。这个框架可帮助追问：退缩是否降低了失败、评价或亲密风险，又牺牲了哪些生活机会？但“具有功能”不等于当事人有意识操控。应先理解痛苦和现实危险，再设计足够小、可退出的接近与合作实验。",
+    "tags": [
+      "退缩",
+      "焦虑",
+      "隔离",
+      "保护策略"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "焦虑、社交退缩和恐惧可能需要专业治疗；不得用缺乏勇气羞辱用户或强迫暴露。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十一章 非攻击性性格特征·隔离；焦虑；懦弱",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-064",
+    "title": "安全网解释：为失败预留借口",
+    "content": "第十一章用“走钢丝下有安全网”的类比描述一种保护自尊的策略：迟到、准备不足或保留障碍，使失败可以归因于条件，成功则显得更卓越。识别时不要指控装病或故意拖延，而要问障碍是否反复在评价前出现，并尝试移除一个小借口，观察真实焦虑与行动变化，再调整难度。",
+    "tags": [
+      "安全网",
+      "借口",
+      "拖延",
+      "自尊保护"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "现实障碍、疾病、照料负担和执行功能困难必须被认真对待；功能假设不能否认客观限制。",
+    "risk_tags": [
+      "mental_health",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十一章 非攻击性性格特征",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-065",
+    "title": "思维与说话方式属于整体生活风格",
+    "content": "第十二章把思维过程、表达方式和学龄期表现放进整体性格中看：说话快慢、绕行、顺从或专横可能与一个人面对他人和任务的方式同向。可观察沟通在何种情境变得僵硬、谁能安全发言、表达后发生什么；但不能从口音、沉默、语言障碍或学业表现直接推断人格价值，更不能据此贴标签。",
+    "tags": [
+      "表达方式",
+      "思维过程",
+      "整体",
+      "沟通"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "语言、学习与沟通差异可能涉及文化、残障、神经发育或教育机会；不要把差异道德化。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十二章 性格的其他表现·思维过程与表达方式；学龄儿童的不成熟性",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-066",
+    "title": "顺从与专横可能共享高低逻辑",
+    "content": "第十二章并列讨论顺从和专横，提示表面相反的行为可能共享同一地位坐标：一方通过控制占上位，另一方通过放弃责任或依附强者获得安全。应用时不要自动把顺从解释成操控，而要看选择是否自愿、能否说不、责任如何分配，以及双方是否有协商和退出空间，还要核对现实权力差异。",
+    "tags": [
+      "顺从",
+      "专横",
+      "权力关系",
+      "责任"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "在胁迫控制、家暴或权力严重不对等的关系中，顺从可能是生存策略；安全优先，不能责怪受害者。",
+    "risk_tags": [
+      "relationships",
+      "violence"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十二章 性格的其他表现·顺从；专横；心境与脾性",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-067",
+    "title": "情绪既是体验也是行动倾向",
+    "content": "第十三章把情感与情绪看作性格方向的强化表现：愤怒、恐惧、悲伤或喜悦会改变身体准备、注意和人与人的距离。书中区分拉开关系的情感与连接关系的情感。现代使用可问情绪正推动我接近、逃离、求助还是攻击，并寻找一种既承认体验、又减少伤害的表达方式，并在事后复盘后果。",
+    "tags": [
+      "情绪",
+      "行动倾向",
+      "连接",
+      "分离"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "情绪并非简单工具，更不等于故意操控；强烈或持续症状、失控风险需要医疗或心理专业支持。",
+    "risk_tags": [
+      "mental_health",
+      "violence"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十三章 情感与情绪·分离性情感；连接性情感",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-068",
+    "title": "目的性解释不等于有意识制造症状",
+    "content": "第十三章常以目标和方向解释情绪，但可靠应用必须区分“某种反应客观上产生了功能”和“当事人故意制造它”。前者可以是无意识、习得或自动的，后者需要额外证据。回答时应使用“可能帮助你避开……”等假设句，并邀请当事人核对；不能把痛苦归咎于意志薄弱或操控。",
+    "tags": [
+      "目的性",
+      "情绪功能",
+      "非读心",
+      "假设"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "惊恐、抑郁、躁狂、精神病性症状或躯体异常不能仅作目的分析；应建议合格专业评估。",
+    "risk_tags": [
+      "mental_health",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "第十三章 情感与情绪",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-069",
+    "title": "演讲译本能证明结构不能证明原声",
+    "content": "《理解人性》由面向大众的一年演讲整理，英译者还说明原现场含手势、黑板示意和演讲后的公开论坛；但本地中文书没有论坛逐字问答，而且经历翻译与编辑。知识库可以可靠提炼“共同问题—目的分析—案例—应用”的讲解结构，却不能把中文连接词当成阿德勒口头禅，也不能伪造即时回答。",
+    "tags": [
+      "来源边界",
+      "演讲整理",
+      "翻译",
+      "表达DNA"
+    ],
+    "evidence_type": "editorial-context",
+    "caveat": "英译者序属于编辑性背景，不是阿德勒本人陈述；引用风格结论时必须保留翻译不确定性。",
+    "risk_tags": [],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《理解人性》",
+        "edition": "方红译，北京师范大学出版社，2021，ISBN 978-7-303-25906-9",
+        "locator": "自序；英译者序",
+        "evidence_type": "editorial-context"
+      }
+    ]
+  },
+  {
+    "id": "adler-070",
+    "title": "译序提供的是接受史，不是阿德勒原话",
+    "content": "2023年译序把本书概括为人格统一、自卑与追求卓越、社会情感和鼓励式教育，并用当代中国的独生子女、分层教学与网络使用等话题延伸其意义。它也明确承认原作包含时代局限。使用知识库时，应把译者的生平叙述、跨文化比较和当代评价标作编辑语境，不能混入阿德勒正文或冒充现代学界结论。",
+    "tags": [
+      "儿童教育心理学",
+      "译序",
+      "接受史",
+      "时代局限",
+      "来源分层"
+    ],
+    "evidence_type": "editorial-context",
+    "caveat": "译序属于译者解释，其中的当代案例、外部引文与批评不代表阿德勒本人，也不构成当代心理学证据。",
+    "risk_tags": [
+      "education",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "译序：洞悉儿童内心，培养健全人格",
+        "evidence_type": "editorial-context"
+      }
+    ]
+  },
+  {
+    "id": "adler-071",
+    "title": "儿童是自己人格的画家，但会画错",
+    "content": "第一章把儿童理解为一个持续追求目标、逐步形成生活方式的整体：同一人格会在思想、情绪、姿态、学习和关系中留下相互呼应的痕迹。儿童既参与塑造自己，也可能基于不完整经验形成错误看法。教育的任务不是贴标签，而是帮助他看见旧解释如何组织行为，并在安全关系中试验更有现实感的新解释。",
+    "tags": [
+      "第一章",
+      "人格统一",
+      "目标",
+      "生活方式",
+      "教育"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "人格统一是一种历史解释框架，不代表能从少量行为读出儿童真实动机；结论必须暂定、可反驳。",
+    "risk_tags": [
+      "education",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第一章 引言",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-072",
+    "title": "自卑与追求卓越要看方向",
+    "content": "第一章认为，儿童感到弱小或欠缺后，会设想一个更安全、更有力量的位置并向它努力。自卑感并非自动等于疾病，追求卓越也不等于压倒他人；关键在于努力是否通向可学习的能力、合作和贡献。如果目标只能靠垄断注意、控制弱者或逃离共同任务来实现，教育者应调整方向，而不是压灭儿童想进步的动力。",
+    "tags": [
+      "第一章",
+      "自卑感",
+      "追求卓越",
+      "社会情感",
+      "补偿"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不能把所有动机归结为自卑，也不能把退缩或个人边界一律视为缺乏社会兴趣。",
+    "risk_tags": [
+      "education",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第一章 引言",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-073",
+    "title": "从关系、工作和亲密任务看整体模式",
+    "content": "第二章建议，不要只用一次考试或一次冲突定义儿童，而要观察他如何处理三类长期任务：与人交往并建立信任、在学习和劳动中承担角色、理解亲密关系与性别议题。三类回应若反复出现相似的回避、支配或合作方式，才可形成关于生活方式的暂定假设；任何一类都不能单独证明完整人格。",
+    "tags": [
+      "第二章",
+      "生活任务",
+      "友谊",
+      "劳动",
+      "亲密关系"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "三项任务是阿德勒的历史框架，不要求每个人结婚、生育或拥有同一种社交生活。",
+    "risk_tags": [
+      "education",
+      "relationships",
+      "sexuality_gender"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第二章 人格的统一",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-074",
+    "title": "单个动作只生成问题，不生成诊断",
+    "content": "第二章反复提醒，同一种姿态在不同儿童身上可以有不同意义，表面相反的行为也可能服务相似目标。倚靠物体、拖沓、沉默或逞强只能成为追问线索：它何时出现、何时消失、和谁有关、带来什么后果、儿童在哪些场景表现不同。只有多个层面呈现同向证据，解释才可暂时保留。",
+    "tags": [
+      "第二章",
+      "整体观察",
+      "多证据",
+      "反证",
+      "个案理解"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "即使多条迹象相符，也不等于因果成立；不得据此替代发育、医疗、创伤或学习评估。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第二章 人格的统一",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-075",
+    "title": "评价儿童要看克服困难的勇气",
+    "content": "第三章区分了可见成绩与面对困难的能力。只赞美排名、天赋或毫不费力的成功，可能使儿童把价值系在他人崇拜上，一遇竞争就退缩或寻找借口。更稳妥的教育评价是：他是否愿意开始、遇错后能否继续、会不会求助、能否把成功经验迁移到新任务，并在不贬低同伴的情况下进步。",
+    "tags": [
+      "第三章",
+      "勇气",
+      "抱负",
+      "评价",
+      "困难"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "鼓励不等于虚假表扬，也不否认儿童真实的学习差异、支持需求与环境障碍。",
+    "risk_tags": [
+      "education",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第三章 追求卓越及其教育意义",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-076",
+    "title": "用已有优势为新任务搭桥",
+    "content": "第三章主张，儿童若在体育、绘画、音乐或某一科目中体验过努力与成功，教育者可以把它作为恢复信心的起点：共同识别他做对了什么，再选择一个稍有难度的新任务，观察策略能否迁移。这样做不是把爱好变成奖惩工具，而是让儿童获得可复制的经验：能力会在兴趣、训练和支持中发展。",
+    "tags": [
+      "第三章",
+      "优势",
+      "兴趣",
+      "迁移",
+      "鼓励"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "兴趣未必能自动迁移；应尊重儿童选择，并给爱好保留非功利空间。",
+    "risk_tags": [
+      "education"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第三章 追求卓越及其教育意义",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-077",
+    "title": "以长期共同结果检验卓越方向",
+    "content": "第四章把“有用”理解为既能发展个体能力，也能让共同生活受益。面对一个看似成功的目标，可以追问：它是否依赖他人失败才能成立，短期和长期结果是否一致，儿童是否更独立、更能合作、更敢于面对困难。若成功只带来支配、孤立或逃避，应调整实现方式，而不是简单否定他的进取愿望。",
+    "tags": [
+      "第四章",
+      "有用方向",
+      "共同利益",
+      "长期结果",
+      "目标"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "社会有用是规范性尺度，不应被解释为要求儿童服从集体、牺牲边界或压抑个人需要。",
+    "risk_tags": [
+      "education",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第四章 引导追求卓越",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-078",
+    "title": "懒惰可能是保护自尊的屏障",
+    "content": "第四章分析一种常见循环：儿童担心全力尝试仍失败，便以拖延或少做来保留“只要认真就能成功”的想象；成人越责骂，他越能把失败归因于懒惰而不是能力。可运行的做法是降低第一次行动门槛、让结果可观察、赞赏具体策略，并与儿童一起检验“努力必然暴露无能”的预测。",
+    "tags": [
+      "第四章",
+      "懒惰",
+      "拖延",
+      "自尊保护",
+      "小步行动"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "拖延也可能来自注意力、睡眠、情绪、学习障碍、任务设计或现实压力，不能预设为权谋。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第四章 引导追求卓越",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-079",
+    "title": "口吃案例展示功能假设的用法与危险",
+    "content": "第四章的口吃男孩案例把长期言语训练无效、考试紧张、家庭比较、弟弟出生和受关注方式放在同一图景中，主张以鼓励、独立任务和关系安全补充症状训练。可取的是系统观察；危险在于把口吃直接解释成争取关注。现代应用应先做语言、听力、神经与心理评估，再把关系功能作为可检验假设。",
+    "tags": [
+      "第四章",
+      "口吃",
+      "系统观察",
+      "关系功能",
+      "鼓励"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "书中个案不能证明口吃的普遍成因，也不能替代言语治疗师、儿科或心理专业评估。",
+    "risk_tags": [
+      "education",
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第四章 引导追求卓越：13岁口吃男孩案例",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-080",
+    "title": "自卑情结是历史概念，不是自我诊断标签",
+    "content": "第五章把自卑情结描述为一种恶性循环：个体夸大困难、降低勇气，再用容易获得但缺乏现实成长的补偿维持安全感。这个概念适合提问“我怎样避免真正的考验”，不适合给儿童贴病名。对现实困扰，应描述具体行为、功能受损和情境，并检查是否存在焦虑、抑郁、创伤、发育或学习问题。",
+    "tags": [
+      "第五章",
+      "自卑情结",
+      "恶性循环",
+      "补偿",
+      "历史概念"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "“自卑情结”在此是阿德勒体系中的历史术语，不等同于现代诊断。",
+    "risk_tags": [
+      "mental_health",
+      "education",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第五章 自卑情结",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-081",
+    "title": "坏预言和羞辱会把气馁固化",
+    "content": "第五章反对教育者对误入歧途的儿童预言失败，也反对用嘲笑逼出勇敢。被嘲不会游泳的男孩贸然跳入深水，说明名望威胁可能制造危险举动，而非真正能力。替代路径是承认尚未掌握的技能，提供分级练习、可靠陪伴和可退出的安全条件，让儿童把勇气用于学习而不是证明自己。",
+    "tags": [
+      "第五章",
+      "羞辱",
+      "坏预言",
+      "勇气",
+      "安全",
+      "孩子",
+      "儿童",
+      "上课",
+      "课堂",
+      "捣乱",
+      "惩罚"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "涉及水域、危险挑战、自伤暗示或同伴欺凌时，先做即时安全保护，不用“锻炼勇气”推动冒险。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "self_harm"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第五章 自卑情结：不会游泳男孩案例",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-082",
+    "title": "改变多年模式要允许反复",
+    "content": "第五章指出，长期形成的退缩、敌意或学习落后，不可能靠一次谈话迅速消失。较稳妥的安排是设定小尺度目标，提前说明进步可能反复，记录在哪些条件下表现变好，再逐步增加难度。这样可以避免把一次退步解释为“本性难改”，也避免用短期奇迹向儿童施加新的表现压力。",
+    "tags": [
+      "第五章",
+      "耐心",
+      "反复",
+      "进步",
+      "再教育"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "耐心不等于无限等待；若功能持续恶化或出现安全风险，应升级到专业评估。",
+    "risk_tags": [
+      "education",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第五章 自卑情结",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-083",
+    "title": "从儿童对处境的解释开始",
+    "content": "第六章强调，儿童的发展不只取决于身体条件或客观环境，还取决于他怎样理解自己的位置。相同限制可能被理解为无望、挑战或需要支持。教育者可先复述儿童眼中的困难，询问他预期会发生什么，再区分事实、猜测与过去经验；纠正的是错误判断，不是否认疼痛、残障或不公平的现实。",
+    "tags": [
+      "第六章",
+      "儿童视角",
+      "解释",
+      "现实",
+      "支持"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "重视主观解释不能淡化疾病、残障、贫困、歧视、虐待或其他客观伤害。",
+    "risk_tags": [
+      "education",
+      "medical",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第六章 儿童的发展",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-084",
+    "title": "评估要同时找困难、关系与成功",
+    "content": "第六章把评估扩展到身体与语言发展、家庭照护、朋友、学校态度、兴趣、家庭经济、疾病、重要丧失和已经获得的成功。其核心不是搜集越多隐私越好，而是防止用一个分数或症状概括儿童。安全版做法应限定与问题相关的信息，说明用途，尊重隐私，并让优势与保护因素进入同一张图。",
+    "tags": [
+      "第六章",
+      "整体评估",
+      "家庭",
+      "学校",
+      "保护因素"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "资料收集应遵守隐私、知情同意与最小必要原则，不能把问卷变成审讯。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第六章 儿童的发展",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-085",
+    "title": "智商只描述当前测试表现",
+    "content": "第六章质疑把智力测验当作终身常数，指出家庭条件、健康、经验、测试熟悉度与信心都会影响表现。它建议把分数用于识别当前困难和支持方向，而不是向儿童宣布能力上限。现代使用还应更进一步：由合格人员结合多种资料解释，既避免宿命化，也承认学习障碍和神经发育差异可能需要长期支持。",
+    "tags": [
+      "第六章",
+      "智商",
+      "测验",
+      "能力",
+      "反宿命"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "原作对可塑性和遗传的部分断言过于绝对；不能据此否认真实的认知或发育差异。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第六章 儿童的发展",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-086",
+    "title": "独立来自可承受的真实经验",
+    "content": "第六章认为，成人若在儿童开口前就满足所有需求、替他完成所有事情，可能削弱表达、练习和独立。替代方式是归还年龄适当的小任务，让儿童在安全范围内体验选择、努力与自然结果，成人提供示范和必要支架。目标不是突然撤走帮助，而是把帮助从代办转成逐步减少的协作。",
+    "tags": [
+      "第六章",
+      "独立",
+      "自然结果",
+      "支架",
+      "溺爱"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不可撤走残障支持、疾病照护、情感回应或成人保护责任；自然结果不得包含危险和羞辱。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "medical"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第六章 儿童的发展",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-087",
+    "title": "社会情感要在共同活动中训练",
+    "content": "第七章把语言、逻辑和共同规则都理解为群体生活的产物。对儿童反复讲“要合群”作用有限，更有操作性的路径是安排真实的双人或小组任务：角色互补、目标共享、成果可见，并轮流承担领导与支持。复盘时关注谁让合作更顺利，而不是只奖励最显眼或得分最高的人。",
+    "tags": [
+      "第七章",
+      "社会情感",
+      "合作",
+      "共同任务",
+      "班级"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "合作训练不能强迫儿童与欺凌者接近，也不能用群体压力剥夺独处、拒绝和求助权。",
+    "risk_tags": [
+      "education",
+      "relationships",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第七章 社会情感及其发展的障碍",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-088",
+    "title": "面对伤人行为，先做伙伴再做解释者",
+    "content": "第七章认为，对观念混乱或有伤人倾向的儿童，道德说教常只增加羞耻和敌意；教育者应先放下法官姿态，理解行为出现的关系和处境，再建立替代行动。安全版原则是理解不等于纵容：先阻止伤害、保护受害者、明确边界，然后在平静和有支持的条件下探索功能并修复关系。",
+    "tags": [
+      "第七章",
+      "伙伴姿态",
+      "道德说教",
+      "修复",
+      "边界"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "暴力、虐待、欺凌或违法行为必须先按安全与法律流程处理，不能以同情为由延迟保护。",
+    "risk_tags": [
+      "education",
+      "violence",
+      "child_safety",
+      "legal"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第七章 社会情感及其发展的障碍",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-089",
+    "title": "出生顺序只能是情境假设",
+    "content": "第七章用长子、幼子和夹在异性兄弟姐妹之间的儿童说明，家庭位置会改变比较对象、期待和可得关注。真正有用的不是按排行预测性格，而是问：谁被当作榜样，谁掌握资源，谁被比较，家庭发生过什么变化，儿童如何理解这些差异。相同排行可以产生相反策略，个体证据优先于类型。",
+    "tags": [
+      "第七章",
+      "出生顺序",
+      "家庭星座",
+      "比较",
+      "个体化"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "出生顺序不能单独预测人格、智力、职业或关系结果，也不证明家庭因果。",
+    "risk_tags": [
+      "education",
+      "relationships",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第七章 社会情感及其发展的障碍",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-090",
+    "title": "同一教育规则可能产生相反效果",
+    "content": "第八章明确反对把儿童切成整齐类型：儿童会依据自己的家庭位置和既往解释来回应，同一句劝告、同一种奖励或同一次弟妹出生，在不同人身上可能产生不同意义。实践中应先提出小规模、可逆的教育试验，观察行为、情绪和关系是否改善；若结果相反，就调整假设，而不是指责儿童不按理论反应。",
+    "tags": [
+      "第八章",
+      "个体化",
+      "家庭位置",
+      "教育试验",
+      "反馈"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "个体化不代表规则任意；安全、尊严、反歧视和儿童权利仍是共同底线。",
+    "risk_tags": [
+      "education",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第八章 儿童在家庭中的地位",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-091",
+    "title": "新情境是准备状态的压力测试",
+    "content": "第九章把入学、转学、家庭变故等新情境视为观察窗口：它们不一定制造了全部问题，却会让原先隐藏的依赖、敌意、技能缺口或合作困难显现。遇到突变时，先画时间线，比较变化前后哪些条件不同，再问儿童需要什么准备。目标是补足能力和支持，而不是把新环境或儿童单方面定罪。",
+    "tags": [
+      "第九章",
+      "新情境",
+      "转折点",
+      "准备状态",
+      "时间线"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "新情境与问题同时出现不等于因果成立；需排查健康、安全、欺凌和家庭压力。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第九章 作为测试准备状态的新情境",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-092",
+    "title": "惩罚可能替反抗提供证据",
+    "content": "第九章的收养儿童案例显示：若儿童已把家庭理解为囚禁或偏爱亲生子女，惩罚会被他当作“他们果然敌视我”的证据，从而强化反抗。更安全的做法是先核对他的解释和实际待遇，建立稳定、公平、可预测的互动，再用边界处理行为。善意本身不够，儿童是否体验到可信和归属同样重要。",
+    "tags": [
+      "第九章",
+      "收养",
+      "惩罚",
+      "敌意解释",
+      "归属"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "这是历史个案推理，不能据此解释所有收养儿童；应采用创伤知情、依恋与儿童保护专业支持。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "relationships",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第九章 作为测试准备状态的新情境：收养儿童案例",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-093",
+    "title": "成绩单应读成当前心理与学习状态",
+    "content": "第十章建议把学校表现看成一张暂时地图：它同时反映知识、兴趣、专注、对教师的关系、失败经验和准备程度，而不是只反映固定智力。教师可把低分改写成下一步问题：哪项技能没掌握、在哪种呈现下更易理解、什么关系或环境在阻碍、哪个小成功可作为起点，并设定复查时间。",
+    "tags": [
+      "第十章",
+      "成绩单",
+      "学习状态",
+      "支持计划",
+      "学校"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不能用心理解释抹去课程标准和真实技能缺口；必要时应做规范的学习与发育评估。",
+    "risk_tags": [
+      "education",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十章 在学校的儿童",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-094",
+    "title": "把班级竞争改造成共同进步",
+    "content": "第十章认为，若班级只按排名组织，领先者容易把价值系于优越，落后者则可能放弃或转向捣乱。教师可以设计共享成果、同伴解释、轮换角色和互助任务，把能量从击败他人转向解决共同问题。自治也需分阶段引导，否则儿童可能复制更严厉的惩罚和权力争夺。合作不是取消挑战，而是改变胜负定义。",
+    "tags": [
+      "第十章",
+      "班级合作",
+      "竞争",
+      "自治",
+      "共同任务",
+      "孩子",
+      "儿童",
+      "上课",
+      "课堂",
+      "捣乱",
+      "班级",
+      "合作"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "合作教学不能让强势学生控制他人，也不能把帮助责任转嫁给同伴；教师仍需承担公平与安全责任。",
+    "risk_tags": [
+      "education",
+      "relationships",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十章 在学校的儿童",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-095",
+    "title": "低分、留级与分层都要评估气馁代价",
+    "content": "第十章批评把低分、留级、快慢班和跳级当成简单管理工具，因为标签会改变同伴看法和儿童自我预期。决策前应比较学业收益、归属感、家庭后果与替代支持；决定后还要持续追踪，儿童本人也应参与讨论。书中更偏好假期辅导、学习俱乐部、兴趣拓展和教师连续跟班，以免困难被永久化。",
+    "tags": [
+      "第十章",
+      "留级",
+      "分层教学",
+      "低分",
+      "气馁"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "这是历史教育主张；当代安置应依据当地制度、个别化评估、资源条件与儿童意见。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十章 在学校的儿童",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-096",
+    "title": "学校咨询室把问题留在共同系统中处理",
+    "content": "第十章记载维也纳学校咨询室的历史实践：教师、心理工作者和家长共同重建儿童的家庭、课堂与发展情境，再以友好谈话帮助儿童看见另一种解释；教师在参与中逐渐获得独立处理能力。其可迁移价值是跨角色协作和共同假设，而不是复制当时的诊断或宣称该制度已有现代疗效证据。",
+    "tags": [
+      "第十章",
+      "咨询室",
+      "家校合作",
+      "教师培训",
+      "历史实践"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "历史实践描述不等于当代效果验证；现实学校需使用合格专业人员、隐私规则和儿童保护程序。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十章 在学校的儿童：学校咨询室",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-097",
+    "title": "外界条件不是背景噪声",
+    "content": "第十一章把贫困、家庭疾病、父母冲突、丧亲、突然富裕或衰败、亲友干预、偏见、读物和媒体都纳入儿童发展。评估问题时要问，家庭目前承担什么现实压力，儿童接触了哪些恐惧、羞辱或不稳定，支持资源在哪里。这样可以防止把环境造成的负担误写成儿童天性或道德缺陷。",
+    "tags": [
+      "第十一章",
+      "外界影响",
+      "贫困",
+      "家庭压力",
+      "偏见"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "原作关于疾病、媒体和家庭结构的个别因果说法具有时代性；应以当前事实和专业评估为准。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "medical",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十一章 外界的影响",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-098",
+    "title": "性教育保留真实、信任与平等，舍弃时代规范",
+    "content": "第十二章把性教育放在信任、合作和男女价值平等中，主张回答要真实、简洁、符合儿童理解，不以羞耻和惊慌放大行为。这些原则仍可提取；但原文关于二元性别、固定角色、异性婚姻和部分性表达的判断带有明显历史限制。现代使用必须尊重性别认同、性取向、身体自主、同意和多样家庭。",
+    "tags": [
+      "第十二章",
+      "性教育",
+      "信任",
+      "性别平等",
+      "历史边界"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "不得用原作评价或病理化同性恋、跨性别、非二元身份、不婚或不育；儿童性安全问题须由专业流程处理。",
+    "risk_tags": [
+      "sexuality_gender",
+      "education",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十二章 青春期和性教育",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-099",
+    "title": "再差的开局也先寻找可改变点",
+    "content": "第十三章以一名被判定“无望”、成绩落后且极度气馁的男孩为例，重建其疾病史、兄弟比较、家庭态度、学校关系和逃避未来的方式。干预不是只命令他努力，而是同时与母亲、哥哥、教师等沟通，并考虑改变环境。案例展示系统工作思路，也提醒：对儿童悲观的预言本身可能成为负担。",
+    "tags": [
+      "第十三章",
+      "教学误区",
+      "气馁",
+      "系统干预",
+      "希望"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "历史案例的解释和转学建议不能直接套用；现实决策需儿童参与、专业评估与教育连续性保障。",
+    "risk_tags": [
+      "education",
+      "mental_health",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十三章 教学的误区：12岁男孩案例",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-100",
+    "title": "家校沟通与问卷都应是合作式调查",
+    "content": "第十四章建议教师不要把家长叫来受审，而以暂定语言说明观察、承认养育难度、邀请共同试验；附录问卷则从转折点、早期发展、家庭、学校、朋友、兴趣、未来与成功经验等维度补全图景。两者合用的关键是谈话式、友好、非恐吓，并持续问：这个判断对儿童是否有帮助。",
+    "tags": [
+      "第十四章",
+      "附录一",
+      "家校沟通",
+      "问卷",
+      "合作调查"
+    ],
+    "evidence_type": "direct-work",
+    "caveat": "委婉不能掩盖虐待、性侵或即时危险；问卷应遵守隐私、知情和最小必要原则。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "第十四章 对父母的教育；附录1 个体心理学问卷",
+        "evidence_type": "direct-work"
+      }
+    ]
+  },
+  {
+    "id": "adler-101",
+    "title": "案例一：严打与溺爱共同维持关注争夺",
+    "content": "案例一中的15岁独子，一边受母亲包办和持续关注，一边遭父亲以“击垮意志”为目标的鞭打。他用撒谎逃避惩罚，又以课堂干扰、偷拿物品和逞强获得位置。书中的改写方向是停止权力竞赛、修复父子关系、扩大同伴活动、培养独立与有用贡献。该案例只展示系统假设，不证明孩子在故意操纵。",
+    "tags": [
+      "附录二",
+      "案例一",
+      "体罚",
+      "撒谎",
+      "关注"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "现实中的体罚属于儿童安全问题；先停止伤害并按当地保护流程处理，不能要求儿童为成人暴力负责。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "violence",
+      "legal"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "附录2 5个案例的评述：案例1",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-102",
+    "title": "案例二：被轮流争宠的儿童进入学校后持续对抗",
+    "content": "案例二的10岁男孩早年由两位祖母抚养，成人之间的竞争让他习惯成为中心；进入学校后，他以打架、扰乱课堂、沉默、尿床和言语困难继续争取控制。书中尝试在新诊室情境里打破固定互动，并争取父母、教师合作。可提取的是关系系统观察，不能把尿床或言语问题直接定性为对抗武器。",
+    "tags": [
+      "附录二",
+      "案例二",
+      "祖辈溺爱",
+      "课堂对抗",
+      "尿床"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "尿床、言语与行为问题应先接受儿科、发育、语言和心理评估；反向指令不能在现实中随意使用。",
+    "risk_tags": [
+      "education",
+      "medical",
+      "mental_health",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "附录2 5个案例的评述：案例2",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-103",
+    "title": "案例三：高智商标签也会制造回避",
+    "content": "案例三中的13岁半男孩曾获很高智商分数，却在高中进步放缓，以打牌、欺负弟弟、吹嘘和只参加有把握的活动保护“聪明”形象。书中认为，过度赞扬天赋会提高失败的羞耻成本。更安全的干预是停止用分数定义身份，转而观察努力、合作、任务完成和面对不确定性的能力。",
+    "tags": [
+      "附录二",
+      "案例三",
+      "智商",
+      "天赋标签",
+      "回避失败"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "一个历史案例不能证明高智商必然导致回避；需要同时评估学习需求、情绪、睡眠和学校适配。",
+    "risk_tags": [
+      "education",
+      "mental_health"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "附录2 5个案例的评述：案例3",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-104",
+    "title": "案例四：婴儿化可以维持依赖位置",
+    "content": "案例四的8岁半男孩多年留级、用婴儿语说话、怕黑、挑食并与哥哥竞争；父母持续宠爱，使弱小角色带来照护和较低要求。书中建议增加年龄适当的自主、减少争宠、从音乐兴趣与学校支持恢复勇气。使用时应区分发展、听力、语言和学习问题，不能因为孩子表现幼小就断定其动机。",
+    "tags": [
+      "附录二",
+      "案例四",
+      "婴儿语",
+      "依赖",
+      "兄弟竞争"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "退行、语言和学习困难需要专业评估；独立训练不能突然撤走照护或以羞辱逼迫成熟。",
+    "risk_tags": [
+      "education",
+      "medical",
+      "mental_health",
+      "child_safety"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "附录2 5个案例的评述：案例4",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  },
+  {
+    "id": "adler-105",
+    "title": "案例五：迁移、收养史与家庭惩罚叠加学习困难",
+    "content": "案例五的10岁女孩从德国迁居后，在新语言和不同数学教学中落后；她又经历过早期多次照护更换、被收养、父亲溺爱和养母打骂。书中从新情境、失落感、依赖和反抗综合解释，并鼓励独立与合作。现代读法应首先看迁移适应、语言支持、收养创伤与家庭安全，避免把成绩差归成对母亲的报复。",
+    "tags": [
+      "附录二",
+      "案例五",
+      "迁移",
+      "收养",
+      "学习困难"
+    ],
+    "evidence_type": "case-vignette",
+    "caveat": "现实中的打骂和早期照护中断需要创伤知情与儿童保护支持；不得把梦或脾气当作报复证据。",
+    "risk_tags": [
+      "education",
+      "child_safety",
+      "mental_health",
+      "relationships"
+    ],
+    "version": "1.0",
+    "updated_at": "2026-08-03",
+    "sources": [
+      {
+        "work": "《儿童教育心理学》",
+        "edition": "陆泉枝译，上海译文出版社，2024，ISBN 9787532797622",
+        "locator": "附录2 5个案例的评述：案例5",
+        "evidence_type": "case-vignette"
+      }
+    ]
+  }
+]
