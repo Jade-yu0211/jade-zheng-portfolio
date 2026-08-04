@@ -56,7 +56,7 @@ export default function Home() {
               <br />
               读书博主，微信公众号&amp;抖音短视频平台「鲫鱼书舍」创作者
               <br />
-              兴趣爱好：阅读、健身、AI编程
+              兴趣爱好：阅读、健身、vibe coding
             </p>
             <div className="hero-actions">
               <div className="joan-button-shell">

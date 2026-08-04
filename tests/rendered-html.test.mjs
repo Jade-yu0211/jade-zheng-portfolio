@@ -45,6 +45,8 @@ test("renders development preview metadata", async () => {
   assert.match(html, /href="\/products\/camus"/);
   assert.match(html, /aria-label="打开 Adler Chat 聊天窗口"/);
   assert.match(html, /href="\/products\/adler"/);
+  assert.match(html, /兴趣爱好：阅读、健身、vibe coding/);
+  assert.doesNotMatch(html, /兴趣爱好：阅读、健身、AI编程/);
   assert.ok(
     html.includes(
       "蒸馏加缪的《西西弗神话》等 4本经典著作，构建加缪的人物心智模型，通过对话畅聊荒诞哲学",
@@ -111,6 +113,11 @@ test("keeps page scroll chaining and hides internal research metadata", async ()
   const css = await readFile(new URL("../app/globals.css", import.meta.url), "utf8");
   assert.match(css, /overscroll-behavior-y:\s*auto;/);
   assert.doesNotMatch(css, /overscroll-behavior:\s*contain;/);
+  assert.match(css, /\.hero-intro[\s\S]*?line-height:\s*32px;/);
+  assert.match(
+    css,
+    /\.hero-actions \.button[\s\S]*?font-weight:\s*800;[\s\S]*?letter-spacing:\s*1\.5px;/,
+  );
   assert.match(css, /\.chat-composer textarea[\s\S]*?max-height:\s*118px;/);
   assert.match(css, /\.chat-composer textarea[\s\S]*?overflow-y:\s*hidden;/);
 
