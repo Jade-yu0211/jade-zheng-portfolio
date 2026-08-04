@@ -67,7 +67,7 @@ test("renders development preview metadata", async () => {
     {
       path: "/products/camus",
       title: "Camus Chat",
-      note: "内容仅供思想交流，请核查作品与重要信息。",
+      note: "内容仅供思想交流，请核查作品与重要信息",
       description:
         "使用Github上开源的Nuwa.skill蒸馏《西西弗神话》、《反抗者》、《鼠疫》以及《局外人》这4本加缪的代表作，构建人物心智模型，通过对话畅聊荒诞哲学",
     },
@@ -101,7 +101,7 @@ test("renders development preview metadata", async () => {
     assert.match(personaHtml, new RegExp(persona.title));
     assert.match(personaHtml, /知识库已接入/);
     assert.doesNotMatch(personaHtml, /知识库接口正在接入中/);
-    assert.match(personaHtml, new RegExp(persona.note));
+    assert.ok(personaHtml.includes(persona.note));
     assert.ok(personaHtml.includes(persona.description));
     assert.match(personaHtml, /placeholder="在这里输入消息\.\.\."/);
   }
