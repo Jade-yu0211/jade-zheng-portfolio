@@ -1,6 +1,7 @@
 import { buildAdlerInstructions } from "../../adler/chat";
 import { createPersonaChatHandler } from "../../persona/server";
 import { getAdlerImmediateSafetyReply } from "../../persona/safety";
+import { getAdlerSourceReply } from "../../persona/source-disclosure";
 
 export const runtime = "nodejs";
 
@@ -11,5 +12,5 @@ export const POST = createPersonaChatHandler({
   emptyQuestionMessage: "请先输入一个想与 Adler Chat 讨论的问题。",
   buildInstructions: buildAdlerInstructions,
   getImmediateSafetyReply: getAdlerImmediateSafetyReply,
+  getDirectReply: getAdlerSourceReply,
 });
-

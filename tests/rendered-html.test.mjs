@@ -142,4 +142,18 @@ test("keeps page scroll chaining and hides internal research metadata", async ()
   );
   assert.match(adlerPrompt, /《自卑与超越》《理解人性》《儿童教育心理学》的外文原作/);
   assert.doesNotMatch(adlerPrompt, /《生活的科学》/);
+
+  const sourceDisclosure = await readFile(
+    new URL("../app/persona/source-disclosure.ts", import.meta.url),
+    "utf8",
+  );
+  assert.match(
+    sourceDisclosure,
+    /内容由《西西弗神话》《反抗者》《鼠疫》《局外人》的外文原作直接翻译整理/,
+  );
+  assert.match(
+    sourceDisclosure,
+    /内容由《自卑与超越》《理解人性》《儿童教育心理学》的外文原作直接翻译整理/,
+  );
+  assert.doesNotMatch(sourceDisclosure, /出版社，/);
 });

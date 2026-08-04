@@ -24,6 +24,7 @@ type PersonaChatConfig = {
   emptyQuestionMessage: string;
   buildInstructions: (message: string) => string;
   getImmediateSafetyReply: (message: string) => string | null;
+  getDirectReply?: (message: string) => string | null;
 };
 
 function isChatMessage(value: unknown): value is ChatMessage {
@@ -273,6 +274,15 @@ export function createPersonaChatHandler(config: PersonaChatConfig) {
     if (immediateSafetyReply) {
       return attachQuotaHeaders(
         plainTextResponse(immediateSafetyReply),
+        quotaCookie,
+        remainingQuestions,
+      );
+    }
+
+    const directReply = config.getDirectReply?.(latestUserMessage.content);
+    if (directReply) {
+      return attachQuotaHeaders(
+        plainTextResponse(directReply),
         quotaCookie,
         remainingQuestions,
       );
