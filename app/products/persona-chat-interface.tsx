@@ -1,11 +1,19 @@
 "use client";
 
 import { FormEvent, KeyboardEvent, useEffect, useRef, useState } from "react";
+import { consumeOpenAIStream } from "./chat-interface";
 
 type ChatMessage = {
   id: number;
   role: "assistant" | "user";
   content: string;
+  isIntro?: boolean;
+};
+
+type ModelErrorPayload = {
+  message?: string;
+  error?: { message?: string } | string;
+  response?: { error?: { message?: string } | null };
 };
 
 type PersonaChatInterfaceProps = {
@@ -13,9 +21,46 @@ type PersonaChatInterfaceProps = {
   avatar: string;
   intro: string;
   suggestions: string[];
-  pendingReply: string;
+  pendingReply?: string;
   note: string;
+  apiPath?: string;
+  knowledgeStatus?: "connected" | "pending";
 };
+
+const MAX_CONTEXT_MESSAGES = 6;
+const FALLBACK_ERROR_MESSAGE = "聊天服务暂时无法连接，请稍后再试。";
+
+function getErrorMessage(payload: unknown, fallback = FALLBACK_ERROR_MESSAGE) {
+  if (!payload || typeof payload !== "object") return fallback;
+
+  const data = payload as ModelErrorPayload;
+  if (typeof data.error === "string" && data.error.trim()) return data.error.trim();
+  if (data.error && typeof data.error === "object" && data.error.message?.trim()) {
+    return data.error.message.trim();
+  }
+  if (data.response?.error?.message?.trim()) return data.response.error.message.trim();
+  if (data.message?.trim()) return data.message.trim();
+  return fallback;
+}
+
+async function readResponseMessage(response: Response) {
+  const raw = await response.text();
+  const contentType = response.headers.get("content-type")?.toLowerCase() ?? "";
+
+  if (contentType.includes("application/json")) {
+    try {
+      return getErrorMessage(JSON.parse(raw));
+    } catch {
+      return raw.trim() || FALLBACK_ERROR_MESSAGE;
+    }
+  }
+
+  return raw.trim() || FALLBACK_ERROR_MESSAGE;
+}
+
+function isAbortError(error: unknown) {
+  return error instanceof Error && error.name === "AbortError";
+}
 
 export default function PersonaChatInterface({
   title,
@@ -24,15 +69,22 @@ export default function PersonaChatInterface({
   suggestions,
   pendingReply,
   note,
+  apiPath,
+  knowledgeStatus,
 }: PersonaChatInterfaceProps) {
   const [messages, setMessages] = useState<ChatMessage[]>(() => [
-    { id: 1, role: "assistant", content: intro },
+    { id: 1, role: "assistant", content: intro, isIntro: true },
   ]);
   const [input, setInput] = useState("");
   const [isSending, setIsSending] = useState(false);
+  const [isAwaitingFirstToken, setIsAwaitingFirstToken] = useState(false);
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const nextId = useRef(2);
   const replyTimerRef = useRef<number | null>(null);
   const messagesPanelRef = useRef<HTMLDivElement>(null);
+  const abortControllerRef = useRef<AbortController | null>(null);
+  const inFlightRef = useRef(false);
+  const resolvedStatus = knowledgeStatus ?? (apiPath ? "connected" : "pending");
 
   useEffect(() => {
     const messagesPanel = messagesPanelRef.current;
@@ -46,54 +98,156 @@ export default function PersonaChatInterface({
     });
 
     return () => window.cancelAnimationFrame(frame);
-  }, [messages, isSending]);
+  }, [messages, isSending, errorMessage]);
 
   useEffect(() => {
     return () => {
       if (replyTimerRef.current !== null) {
         window.clearTimeout(replyTimerRef.current);
       }
+      abortControllerRef.current?.abort();
     };
   }, []);
 
-  const submitMessage = (content: string) => {
+  const submitMessage = async (content: string) => {
     const trimmed = content.trim();
-    if (!trimmed || isSending) return;
+    if (!trimmed || inFlightRef.current) return;
 
-    setMessages((current) => [
-      ...current,
-      { id: nextId.current++, role: "user", content: trimmed },
-    ]);
+    inFlightRef.current = true;
+    const userMessage: ChatMessage = {
+      id: nextId.current++,
+      role: "user",
+      content: trimmed,
+    };
+    const nextMessages = [...messages, userMessage];
+
+    setMessages(nextMessages);
     setInput("");
     setIsSending(true);
+    setIsAwaitingFirstToken(true);
+    setErrorMessage(null);
 
-    replyTimerRef.current = window.setTimeout(() => {
-      setMessages((current) => [
-        ...current,
-        { id: nextId.current++, role: "assistant", content: pendingReply },
-      ]);
-      setIsSending(false);
-      replyTimerRef.current = null;
-    }, 520);
+    if (!apiPath) {
+      replyTimerRef.current = window.setTimeout(() => {
+        setMessages((current) => [
+          ...current,
+          {
+            id: nextId.current++,
+            role: "assistant",
+            content: pendingReply ?? "知识库正在接入中，请稍后再试。",
+          },
+        ]);
+        inFlightRef.current = false;
+        setIsSending(false);
+        setIsAwaitingFirstToken(false);
+        replyTimerRef.current = null;
+      }, 520);
+      return;
+    }
+
+    const controller = new AbortController();
+    abortControllerRef.current = controller;
+    const requestMessages = nextMessages
+      .filter((message) => !message.isIntro && message.content.trim())
+      .slice(-MAX_CONTEXT_MESSAGES)
+      .map(({ role, content: messageContent }) => ({
+        role,
+        content: messageContent.trim(),
+      }));
+
+    try {
+      const response = await fetch(apiPath, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ messages: requestMessages }),
+        signal: controller.signal,
+      });
+
+      if (!response.ok) {
+        throw new Error(await readResponseMessage(response));
+      }
+
+      const contentType = response.headers.get("content-type")?.toLowerCase() ?? "";
+
+      if (contentType.includes("text/event-stream")) {
+        const assistantId = nextId.current++;
+        let receivedDelta = false;
+
+        await consumeOpenAIStream(response, (delta) => {
+          if (!delta) return;
+
+          if (!receivedDelta) {
+            receivedDelta = true;
+            setIsAwaitingFirstToken(false);
+            setMessages((current) => [
+              ...current,
+              { id: assistantId, role: "assistant", content: delta },
+            ]);
+            return;
+          }
+
+          setMessages((current) =>
+            current.map((message) =>
+              message.id === assistantId
+                ? { ...message, content: message.content + delta }
+                : message,
+            ),
+          );
+        });
+
+        if (!receivedDelta && !controller.signal.aborted) {
+          throw new Error("模型没有返回可显示的回答。");
+        }
+      } else if (contentType.includes("text/plain")) {
+        const reply = (await response.text()).trim();
+        if (!reply) throw new Error("模型没有返回可显示的回答。");
+
+        setIsAwaitingFirstToken(false);
+        setMessages((current) => [
+          ...current,
+          { id: nextId.current++, role: "assistant", content: reply },
+        ]);
+      } else {
+        throw new Error(await readResponseMessage(response));
+      }
+    } catch (error) {
+      if (!isAbortError(error)) {
+        setErrorMessage(
+          error instanceof Error && error.message.trim()
+            ? error.message
+            : FALLBACK_ERROR_MESSAGE,
+        );
+      }
+    } finally {
+      if (abortControllerRef.current === controller) {
+        abortControllerRef.current = null;
+        inFlightRef.current = false;
+        setIsSending(false);
+        setIsAwaitingFirstToken(false);
+      }
+    }
   };
 
   const stopGeneration = () => {
+    abortControllerRef.current?.abort();
     if (replyTimerRef.current !== null) {
       window.clearTimeout(replyTimerRef.current);
       replyTimerRef.current = null;
     }
+    inFlightRef.current = false;
     setIsSending(false);
+    setIsAwaitingFirstToken(false);
   };
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    submitMessage(input);
+    void submitMessage(input);
   };
 
   const handleKeyDown = (event: KeyboardEvent<HTMLTextAreaElement>) => {
     if (event.key === "Enter" && !event.shiftKey) {
       event.preventDefault();
-      submitMessage(input);
+      void submitMessage(input);
     }
   };
 
@@ -108,8 +262,13 @@ export default function PersonaChatInterface({
             <strong>{title}</strong>
           </span>
         </div>
-        <span className="chat-window-status chat-window-status--pending">
-          <i aria-hidden="true" /> 知识库待接入
+        <span
+          className={`chat-window-status${
+            resolvedStatus === "pending" ? " chat-window-status--pending" : ""
+          }`}
+        >
+          <i aria-hidden="true" />
+          {resolvedStatus === "connected" ? "知识库已接入" : "知识库待接入"}
         </span>
       </header>
 
@@ -133,7 +292,15 @@ export default function PersonaChatInterface({
             <p>{message.content}</p>
           </div>
         ))}
-        {isSending ? (
+        {errorMessage ? (
+          <div className="chat-message chat-message--assistant" role="alert">
+            <span className="chat-message-avatar" aria-hidden="true">
+              {avatar}
+            </span>
+            <p>{errorMessage}</p>
+          </div>
+        ) : null}
+        {isSending && isAwaitingFirstToken ? (
           <div className="chat-message chat-message--assistant">
             <span className="chat-message-avatar" aria-hidden="true">
               {avatar}
@@ -152,7 +319,7 @@ export default function PersonaChatInterface({
           <button
             type="button"
             key={suggestion}
-            onClick={() => submitMessage(suggestion)}
+            onClick={() => void submitMessage(suggestion)}
             disabled={isSending}
           >
             {suggestion}

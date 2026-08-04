@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "next build",
     "start": "next start",
-    "test": "next build && node --test tests/rendered-html.test.mjs",
+    "test": "next build && bash scripts/sites-env.sh -- ./node_modules/.bin/vinext build && bash scripts/sites-env.sh -- bash scripts/validate-artifact.sh && node --test tests/*.test.mjs",
     "validate:artifact": "bash scripts/validate-artifact.sh",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate"

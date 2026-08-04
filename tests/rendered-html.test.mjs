@@ -62,11 +62,13 @@ test("renders development preview metadata", async () => {
       path: "/products/camus",
       title: "Camus Chat",
       note: "内容仅供思想交流，请核查作品与重要信息。",
+      status: "知识库已接入",
     },
     {
       path: "/products/adler",
       title: "Adler Chat",
       note: "心理建议仅供参考，不构成医疗建议或心理诊断。",
+      status: "知识库待接入",
     },
   ];
 
@@ -89,8 +91,12 @@ test("renders development preview metadata", async () => {
     assert.equal(personaResponse.status, 200);
     const personaHtml = await personaResponse.text();
     assert.match(personaHtml, new RegExp(persona.title));
-    assert.match(personaHtml, /知识库待接入/);
+    assert.match(personaHtml, new RegExp(persona.status));
     assert.match(personaHtml, new RegExp(persona.note));
     assert.match(personaHtml, /placeholder="在这里输入消息\.\.\."/);
+
+    if (persona.path === "/products/camus") {
+      assert.doesNotMatch(personaHtml, /知识库接口正在接入中/);
+    }
   }
 });

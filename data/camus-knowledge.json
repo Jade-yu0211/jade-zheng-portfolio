@@ -1,0 +1,3041 @@
+[
+  {
+    "caveat": "自伤或严重抑郁表达时，不将此框架当作危机干预；优先即时安全与专业支持。",
+    "title": "荒诞是关系性张力",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "〈荒诞之墙〉；〈哲学意义的自杀〉",
+        "evidence_type": "primary-work"
+      }
+    ],
+    "id": "camus-001",
+    "version": "1.2",
+    "content": "在加缪的框架里，荒诞不是世界本身的一个属性，也不是个人的病症。它发生在人对明晰、统一与意义的要求，和世界的沉默、偶然、不可化约之间。遇到一切都没有意义的感受，先分开看：我在要求什么确定性，现实在哪一点拒绝了它。这个动作把模糊的绝望变成可以诚实审视的张力。",
+    "risk_tags": [
+      "self_harm"
+    ],
+    "tags": [
+      "荒诞",
+      "意义",
+      "存在",
+      "清醒"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "若涉及自杀、自伤或即时危险，停止哲学讨论，执行危机支持路由。",
+    "title": "清醒而不逃逸",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "〈荒诞与自杀〉；〈哲学意义的自杀〉；〈荒诞的自由〉",
+        "evidence_type": "primary-work"
+      }
+    ],
+    "id": "camus-002",
+    "version": "1.2",
+    "content": "加缪式清醒拒绝两种把问题关闭的捷径：终止提问者本身，或以未经证明的终极保证跳过不确定性。它要求承认不知道，但不要求人忍受危险、暴力或剥削。可把注意力先放回仍可承担的身体、关系、工作、照料或创造；问题没有被解决，行动空间仍然存在。",
+    "risk_tags": [
+      "self_harm"
+    ],
+    "tags": [
+      "清醒",
+      "逃逸",
+      "不确定性",
+      "行动"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不用于鼓励报复、暴力、违法伤害或冲突升级。",
+    "title": "反抗的双重动作",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "第一部〈反抗者〉",
+        "evidence_type": "primary-work"
+      }
+    ],
+    "id": "camus-003",
+    "version": "1.2",
+    "content": "反抗不是单纯否定权威。它同时包含一个不和一个是：拒绝具体的侵犯，并肯定某条不应被跨越的界线、某种值得尊重的价值。把愤怒变成可共同讨论的反抗，应说清被拒绝的行为、被越过的界线、被捍卫的价值，以及自己愿意承担而不转嫁给弱者的代价。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "反抗",
+      "界线",
+      "尊严",
+      "冲突"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "此为伦理检验，不替代法律、权利、事实调查或冲突调解。",
+    "title": "从我到我们",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "第一部〈反抗者〉；第五部〈地中海思想〉",
+        "evidence_type": "primary-work"
+      }
+    ],
+    "id": "camus-004",
+    "version": "1.2",
+    "content": "反抗的伦理检验是共同性。若一个目标以共同体、大义或未来之名，把一些具体的人降为可牺牲的例外，它便伤害了反抗赖以成立的共同尊严。分析集体主张时，追问谁被包含在我们之中，谁被非人格化，谁承担看不见的风险。共同性并不要求一致或同质化。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "共同性",
+      "团结",
+      "尊严",
+      "政治伦理"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不以限度自动裁断现实政治比例；高风险议题须补充事实、权利与专业分析。",
+    "title": "限度是行动纪律",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "第三部〈历史性造反〉；第五部〈地中海思想〉",
+        "evidence_type": "primary-work"
+      }
+    ],
+    "id": "camus-005",
+    "version": "1.2",
+    "content": "限度不是回避冲突的折中。它反对将正义、自由、历史或未来救赎绝对化。审查一项行动时分别看目标、手段、对人的处理以及对自身知识的确信：目标是否不可质疑且无限延期，强制是否被常态化，人是否变成材料，系统是否允许反驳与停止。有限意味着让手段不摧毁所宣称的价值。",
+    "risk_tags": [
+      "public_policy",
+      "political_history"
+    ],
+    "tags": [
+      "限度",
+      "革命",
+      "权力",
+      "手段",
+      "历史"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不应用于鼓励过度工作或忽视现实的劳动保护。",
+    "title": "创造和普通责任",
+    "evidence_type": "cross-work-inference",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "〈荒诞的创造〉；〈西西弗神话〉",
+        "evidence_type": "primary-work"
+      },
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "防疫队与格朗案例（第一、二部）",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-006",
+    "version": "1.2",
+    "content": "在没有终极胜利保证时，创造、照料、记录、诊治、核实和组织仍是对屈服的拒绝。行动不只按永远成功来衡量，也看它是否增加真实、技艺、照料和可感知的减害。西西弗并不为无效劳动背书；这个框架不能用来浪漫化可避免的剥削、倦怠或管理失职。",
+    "risk_tags": [],
+    "tags": [
+      "创造",
+      "责任",
+      "西西弗",
+      "劳动",
+      "照料"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不用于否定正当程序、证据标准或专业评估。",
+    "title": "事实优先于标签",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "第二部：审判段",
+        "evidence_type": "fictional-case"
+      },
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "第一部：行政与病例段",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-007",
+    "version": "1.2",
+    "content": "从局外人的审判到鼠疫中的行政迟疑，作品反复显示：社会标签、程序措辞和情绪表演可能遮住事实。面对争执，先列出发生了什么、谁受影响、哪些信息仍缺失；再讨论人格、动机或价值。反程序主义不是结论，程序在保护权利时必要；问题是程序脱离其原本要保护的人与事实。",
+    "risk_tags": [
+      "legal"
+    ],
+    "tags": [
+      "事实",
+      "程序",
+      "标签",
+      "审判",
+      "制度"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不是医疗或公共卫生建议；真实风险须遵循当地公共卫生与专业指引。",
+    "title": "先减少可避免的伤害",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "第一部：里厄面对病例的判断",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-008",
+    "version": "1.2",
+    "content": "鼠疫中的行动逻辑是：当风险高、伤害可能不可逆、证据已显示趋势时，不必等到所有命名和争论结束才做可逆的预防行动。它不是反科学，而是把不行动的代价计入判断，并继续核验事实。现实中的医疗、法律和公共管理仍须由有授权的专业主体承担。",
+    "risk_tags": [
+      "medical",
+      "public_policy"
+    ],
+    "tags": [
+      "鼠疫",
+      "风险",
+      "预防",
+      "减害",
+      "不确定性"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "现实限制措施须满足合法性、必要性、比例性与可复核性。",
+    "title": "个人幸福与公共后果",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "第二部：朗贝尔出城困境",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-009",
+    "version": "1.2",
+    "content": "个人的爱、离别、逃离欲望和幸福并不因公共危机而变得可笑。但个人例外也不会因此没有外部成本。加缪式审查同时问两件事：我将失去什么，我的选择会让谁承担什么风险或留下什么先例。尊重前者，不能抹掉后者；强调后者，也不能羞辱前者。",
+    "risk_tags": [
+      "legal",
+      "public_policy"
+    ],
+    "tags": [
+      "自由",
+      "责任",
+      "例外",
+      "公共性",
+      "鼠疫"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "哀伤、临终和信仰问题需保持尊重；不替代心理或宗教支持。",
+    "title": "不让解释抢在照料前面",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "第二部：帕纳鲁、里厄与防疫叙述",
+        "evidence_type": "fictional-case"
+      },
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "第二部：神甫段",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-010",
+    "version": "1.2",
+    "content": "宗教、历史、国家、革命、成长或命运可以被人用来解释苦难，但解释不得替代照料、哀伤、证据与责任。鼠疫中关于惩罚的布道与诊治、防疫劳动并置；这个对照提示：在给苦难命名前，先问受苦的人当下需要什么可做的支持。它不要求否定信仰，而是拒绝用意义取消受害者。",
+    "risk_tags": [
+      "grief"
+    ],
+    "tags": [
+      "苦难",
+      "照料",
+      "宗教",
+      "意义",
+      "责任"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不可据此淡化暴力、虐待或犯罪的具体受害与后果。",
+    "title": "情绪表达不等于事实责任",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "第一部：葬礼；第二部：审判",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-011",
+    "version": "1.2",
+    "content": "局外人提醒人们区分两件事：一个人是否按社会期待表达情感，和他实际做了什么、造成了什么伤害。不要把仪式性情绪当作人格或罪责的充分证据，也不要用真诚或非典型表达为伤害开脱。较好的判断同时看可证实行为、情境、权力与后果。",
+    "risk_tags": [
+      "legal"
+    ],
+    "tags": [
+      "局外人",
+      "情绪",
+      "审判",
+      "责任",
+      "道德化"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "志愿或帮助行为必须遵守专业授权、防护和当地安全要求。",
+    "title": "普通人也能构成共同抵抗",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "防疫队、塔鲁与格朗（第一、二部）",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-012",
+    "version": "1.2",
+    "content": "鼠疫里的共同行动并不等待英雄。记录、统计、陪伴、转介、核实和持续的专业劳动，都是在共同危机中不屈服的方式。寻找与自己的能力、授权和防护相配的小岗位，比用宏大姿态替代工作更可靠。帮助不意味着越过训练、授权或安全边界。",
+    "risk_tags": [
+      "medical"
+    ],
+    "tags": [
+      "共同体",
+      "普通行动",
+      "鼠疫",
+      "团结",
+      "实践"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "对真实哀伤、心理困扰或急迫求助，不得以冷淡文风回应。",
+    "title": "表达结构：具体、克制、保留张力",
+    "evidence_type": "cross-work-inference",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "叙述组织与审判段",
+        "evidence_type": "fictional-case"
+      },
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "编年叙述与防疫段",
+        "evidence_type": "fictional-case"
+      }
+    ],
+    "id": "camus-013",
+    "version": "1.2",
+    "content": "适合受加缪启发的回答方式是：从可观察的场景、身体、时间或制度动作起步；先陈述事实，再给解释；用对照揭示程序和伤害、口号和代价之间的错位；最后回到一个有限行动和尚未消除的矛盾。不要把中文译文的句法当作作者原文风格，也不要生成仿冒名言。",
+    "risk_tags": [
+      "grief"
+    ],
+    "tags": [
+      "表达",
+      "叙述",
+      "风格",
+      "具体性",
+      "张力"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "高争议历史政治议题；须补充可靠事实来源，避免删除任一层争议。",
+    "title": "阿尔及利亚与殖民争议",
+    "evidence_type": "external-context",
+    "sources": [
+      {
+        "work": "Stanford Encyclopedia of Philosophy",
+        "edition": "Albert Camus 条目",
+        "locator": "Albert Camus",
+        "evidence_type": "academic-reference",
+        "url": "https://plato.stanford.edu/entries/camus/",
+        "accessed_at": "2026-08-03"
+      },
+      {
+        "work": "Columbia University Press / JSTOR",
+        "edition": "David Carroll, Albert Camus the Algerian",
+        "locator": "Albert Camus the Algerian",
+        "evidence_type": "academic-reference",
+        "url": "https://www.jstor.org/stable/10.7312/carr14086",
+        "accessed_at": "2026-08-03"
+      }
+    ],
+    "id": "camus-014",
+    "version": "1.2",
+    "content": "讨论加缪与阿尔及利亚时，不能只保留一个版本。一面是他对无辜者、谎言、恐怖与国家暴力的伦理敏感；另一面是其法国阿尔及利亚定居者位置，以及后殖民批评指出的文本缺席和政治限度。回答必须区分作品立场、历史事实、学术解释与模型推断，不将其塑造成殖民问题的最终裁判。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "阿尔及利亚",
+      "殖民",
+      "争议",
+      "政治",
+      "历史"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不得用来论证或优化现实暴力行动；遇到即时风险转入安全路由。",
+    "title": "反抗者不是反对一切革命",
+    "evidence_type": "cross-work-inference",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "第三部〈历史性造反〉；第五部〈地中海思想〉",
+        "evidence_type": "primary-work"
+      },
+      {
+        "work": "Stanford Encyclopedia of Philosophy",
+        "edition": "Albert Camus 条目",
+        "locator": "Revolt and Revolution",
+        "evidence_type": "academic-reference",
+        "url": "https://plato.stanford.edu/entries/camus/",
+        "accessed_at": "2026-08-03"
+      }
+    ],
+    "id": "camus-015",
+    "version": "1.2",
+    "content": "把加缪简化为反对一切革命会丢失问题核心。更准确的检验是：面对具体不义，行动是否把人当作可牺牲材料，是否消灭异议，是否以未来承诺赦免当下暴力。反抗可以指向改变，但它不能让手段吞没尊严、真相和限度。",
+    "risk_tags": [
+      "violence",
+      "political_history"
+    ],
+    "tags": [
+      "反抗者",
+      "革命",
+      "暴力",
+      "历史",
+      "异议"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不得把模型推断伪装成加缪原话或生前事实。",
+    "title": "资料范围与时间边界",
+    "evidence_type": "external-context",
+    "sources": [
+      {
+        "work": "Nobel Prize",
+        "edition": "Albert Camus bibliography and biographical note",
+        "locator": "Bibliography and biographical note",
+        "evidence_type": "institutional-reference",
+        "url": "https://www.nobelprize.org/prizes/literature/1957/camus/bibliography/",
+        "accessed_at": "2026-08-03"
+      },
+      {
+        "work": "Bibliothèque nationale de France",
+        "edition": "Albert Camus authority record",
+        "locator": "Albert Camus authority record",
+        "evidence_type": "institutional-reference",
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb118949856",
+        "accessed_at": "2026-08-03"
+      }
+    ],
+    "id": "camus-016",
+    "version": "1.2",
+    "content": "本库的核心语料是西西弗神话、反抗者、局外人和鼠疫；它足以覆盖荒诞、异化、共同灾难和有限反抗，但不足以完整代表新闻写作、戏剧、书信、私人生活或阿尔及利亚政治立场。加缪于 1960 年去世。对未在材料中表态的新议题，只能给出标为推断的框架分析。",
+    "risk_tags": [],
+    "tags": [
+      "来源",
+      "边界",
+      "时间线",
+      "方法",
+      "诚实"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是哲学论证的解释框架，不可用于评估或处置现实中的自伤风险；如有即时危险，应优先寻求当地紧急和专业支持。",
+    "title": "把生死问题同理论结论分开",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞与自杀；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞与自杀；source: 005.html"
+      }
+    ],
+    "id": "camus-017",
+    "version": "1.2",
+    "content": "加缪从自杀问题进入荒诞，并不是要把哲学变成一套赞成或反对死亡的公式。他要求先检查一个人宣称生命无意义时，其实际行动是否一致；理论与生活之间的裂缝本身值得追问。荒诞并不能自动推出结束生命，讨论必须保留具体处境、关系和行动的复杂性。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "self_harm"
+    ],
+    "tags": [
+      "荒诞",
+      "自杀",
+      "理论与行动",
+      "方法"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "该卡反对草率简化，不等于否认紧急情境中需要立即采取安全行动。",
+    "title": "拒绝把二选一当成充分推理",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞与自杀；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞与自杀；source: 005.html"
+      }
+    ],
+    "id": "camus-018",
+    "version": "1.2",
+    "content": "面对“活着或不活着”这类看似只有是非答案的问题，加缪提醒：形式上的二选一会遮蔽人实际处在的犹疑、矛盾与不一致。推理不能因为问题尖锐就急于收束；应把主张、情感、行动和未决部分一并放进判断，避免用整齐的结论假装已经理解处境。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "self_harm"
+    ],
+    "tags": [
+      "推理",
+      "二分法",
+      "荒诞",
+      "行动"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "日常厌倦也可能与抑郁、倦怠等健康问题有关，不能仅用哲学概念替代专业评估。",
+    "title": "日常节律被打断后的追问",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞之墙；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞之墙；source: 008.html"
+      }
+    ],
+    "id": "camus-019",
+    "version": "1.2",
+    "content": "荒诞常不是由抽象理论引起，而是在重复生活突然失去自明性时出现：工作、通勤、进餐和睡眠仍照常运转，人却第一次问“为什么”。这个追问不是故障本身，而是习惯失效后意识醒来的信号。回应它的第一步不是匆忙填入答案，而是辨认究竟是哪一层日常意义塌陷了。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "tags": [
+      "日常生活",
+      "厌倦",
+      "清醒",
+      "荒诞体验"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不要把一时的疏离体验解释为关于自己、他人或世界的最终事实。",
+    "title": "陌生感不是世界本身的定论",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞之墙；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞之墙；source: 008.html"
+      }
+    ],
+    "id": "camus-020",
+    "version": "1.2",
+    "content": "加缪把荒诞感描述为：原本被习惯遮住的世界忽然显得厚重、遥远而陌生。重点不在断言世界客观上毫无意义，而在指出人对熟悉、可理解和可掌握的期待，与世界的不回应发生了冲突。陌生感因此是关系中的事件，应被观察，而不宜立刻升级为宇宙真相。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "tags": [
+      "陌生感",
+      "世界",
+      "关系性",
+      "荒诞"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "关系性解释用于澄清张力，不可抹去具体不公、创伤或现实责任。",
+    "title": "荒诞从人和世界之间发生",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞之墙；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞之墙；source: 008.html"
+      }
+    ],
+    "id": "camus-021",
+    "version": "1.2",
+    "content": "在加缪这里，荒诞既不单独藏在人的情绪里，也不单独属于世界的性质；它发生在人的清晰要求与世界沉默之间。这样理解会阻止两种偷懒：把痛苦全归咎于个人心理，或把一切责任推给冷漠宇宙。判断时要同时看人的期待、可见事实以及二者无法闭合的距离。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "tags": [
+      "荒诞",
+      "人",
+      "世界",
+      "关系"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "承认边界不等于反科学，也不等于拒绝可检验的解释和证据。",
+    "title": "理解欲的边界意识",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞之墙；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞之墙；source: 008.html"
+      }
+    ],
+    "id": "camus-022",
+    "version": "1.2",
+    "content": "人想把纷杂现实化成可理解、可归纳的整体，这种欲望并不荒唐；问题在于把“我需要统一解释”误认成“世界必定能给出统一解释”。加缪要求承认认识的边界：描述、科学和概念能扩展知识，却未必交付终极理由。清醒不是停止求知，而是不把未知伪装成已经解决。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "理性",
+      "知识边界",
+      "统一性",
+      "清醒"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "该区分不表示所有解释都同样无效；经验性、可检验的解释仍可指导行动。",
+    "title": "描述不能替代终极解释",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞之墙；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞之墙；source: 009.html"
+      }
+    ],
+    "id": "camus-023",
+    "version": "1.2",
+    "content": "加缪区分对现象的细致描述与对世界为何如此的终极解释。即使把事物逐一命名、分类和测量，人仍可能面对不可化约的陌生；反过来，为消除陌生而仓促补上一套形而上答案，也会牺牲诚实。适当的姿态是在可证实处精确，在不可证实处保留悬置。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "描述",
+      "解释",
+      "认识论",
+      "悬置"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "它针对的是缺乏根据的终极同一，不否定在特定问题上寻找整合、协作与共同语言。",
+    "title": "统一怀念不等于统一事实",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞之墙；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞之墙；source: 008.html"
+      }
+    ],
+    "id": "camus-024",
+    "version": "1.2",
+    "content": "人渴望世界可被整合为一个清晰秩序，这种“统一怀念”揭示了人的需要，却不能证明现实本来统一。加缪批评在欲望与证据之间直接跨越：一面承认差异和矛盾，一面又宣布已经抵达终极同一。面对这种冲动，更诚实的做法是保留问题，而不是用圆满叙事封口。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "统一",
+      "欲望",
+      "矛盾",
+      "形而上学"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是加缪的哲学批评，不应被用来贬低个人宗教实践或剥夺其社会与情感意义。",
+    "title": "不以超越性答案取消问题",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "哲学意义的自杀；",
+        "evidence_type": "direct-work",
+        "internal_locator": "哲学意义的自杀；source: 011.html"
+      }
+    ],
+    "id": "camus-025",
+    "version": "1.2",
+    "content": "加缪所谓“哲学意义的自杀”，指的是思想先承认荒诞的裂缝，随后又借神、绝对或超越原则一跃越过它，从而取消原先的清醒。他不必否认信仰者的体验，但要求辨认：一个答案究竟是可论证的发现，还是为获得安宁而作的跳跃。保留裂缝，是对思想自律的要求。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "哲学自杀",
+      "信仰",
+      "跳跃",
+      "清醒"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不可将“非理性”理解为冲动行事的许可；现实决策仍应接受证据、安全与责任约束。",
+    "title": "同时承认理性和非理性",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "哲学意义的自杀；",
+        "evidence_type": "direct-work",
+        "internal_locator": "哲学意义的自杀；source: 012.html"
+      }
+    ],
+    "id": "camus-026",
+    "version": "1.2",
+    "content": "荒诞立场不是赞美非理性，也不是相信理性能穷尽存在。加缪的要求更困难：承认理性在描述和行动中的力量，也承认它无法消除世界的全部晦暗；承认非理性的经验，却不让它取代理性成为新的权威。持续维持这份张力，比选择任一极端更符合荒诞推理。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "理性",
+      "非理性",
+      "张力",
+      "荒诞推理"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "涉及死亡时应避免浪漫化或将其视为行动建议；此处仅说明文本中的哲学结构。",
+    "title": "从必死性重估自由",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞的自由；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞的自由；source: 014.html"
+      }
+    ],
+    "id": "camus-027",
+    "version": "1.2",
+    "content": "死亡在加缪的论证中不是浪漫化的出口，而是取消无限未来保证的事实。正因没有可兑现的永恒担保，选择才回到有限的现在：人不再把生活完全押在来世、历史终局或完美身份上。荒诞的自由不是无所不能，而是在有限时间中对自己的行动保持更少幻觉的承担。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "self_harm",
+      "mental_health"
+    ],
+    "tags": [
+      "死亡",
+      "自由",
+      "有限性",
+      "现在"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不能以有限自由为由忽视制度约束、权力不平等或他人的权利。",
+    "title": "自由不是摆脱所有条件",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞的自由；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞的自由；source: 014.html"
+      }
+    ],
+    "id": "camus-028",
+    "version": "1.2",
+    "content": "加缪拒绝把自由想象成没有限制的主权。人的身体、社会规则、他人和死亡都构成条件；荒诞的自由在于看见这些条件后，不再靠虚假的终极保证安慰自己，并在可行动的范围内作选择。它因此是一种有期限、带责任的自由，而不是把欲望当作正当性的无限扩张。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "自由",
+      "条件",
+      "责任",
+      "限度"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "“经验密度”是文学哲学概念，不能作为衡量他人生活价值或要求冒险的标准。",
+    "title": "以清醒增加经验密度",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞的自由；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞的自由；source: 015.html"
+      }
+    ],
+    "id": "camus-029",
+    "version": "1.2",
+    "content": "加缪谈“尽可能经历”时，重点不只是把活动数量堆得更多，而是让意识真正进入已发生的生活。同样的年岁和环境，经验的厚薄取决于人是否感受、辨认并承担其中的现实。这个尺度反对用单一成功标准评估生命，也反对把忙碌、消费或刺激误当成丰富。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "经验",
+      "意识",
+      "生活密度",
+      "现在"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "该观点不反对教育、储蓄、治疗或长期责任；关键是避免把它们神化为唯一生活理由。",
+    "title": "不让未来承诺吞没现在",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞的自由；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞的自由；source: 015.html"
+      }
+    ],
+    "id": "camus-030",
+    "version": "1.2",
+    "content": "“没有明天”不是否认明天会到来，而是拒绝把当下完全牺牲给一个保证意义的未来。加缪警惕人为了成为某种身份、抵达某个终局或等待来世，而把生活变成预备阶段。实践上，可把未来计划当作工具，但要不断追问：它是否仍服务于正在活着的人，而非反过来支配全部经验。",
+    "risk_tags": [],
+    "tags": [
+      "未来",
+      "现在",
+      "计划",
+      "荒诞自由"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "文学人物是哲学例证，不是现实亲密关系的行为准则。",
+    "title": "唐璜式多样性不是占有伦理",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "唐璜风格；",
+        "evidence_type": "direct-work",
+        "internal_locator": "唐璜风格；source: 017.html"
+      }
+    ],
+    "id": "camus-031",
+    "version": "1.2",
+    "content": "唐璜在书中不是爱情技巧的榜样，而是用来呈现一种拒绝永恒承诺、重视多样经验的极端人物。他的意义在于对抗“用一次选择封存全部人生”的幻想，却不能被直接转成对他人的占有或伤害许可。若借此理解关系，应保留互相同意、诚实和责任这些伦理边界。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "relationships"
+    ],
+    "tags": [
+      "唐璜",
+      "爱情",
+      "多样性",
+      "关系伦理"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不要把角色可变性误读为可以逃避承诺、责任或真实关系。",
+    "title": "演员以角色实践多重人生",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "戏剧；",
+        "evidence_type": "direct-work",
+        "internal_locator": "戏剧；source: 019.html"
+      }
+    ],
+    "id": "camus-032",
+    "version": "1.2",
+    "content": "演员不断进入并离开角色，显示身份并非只有一个固定本质；舞台把短暂、重复和变化变成可见的生活形式。加缪借此强调有限时间中的强度，而非追求不朽名声。但这种多样性需要意识维系：若只剩表演技巧或外部认可，角色反而会遮蔽人对自己处境的清醒。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "戏剧",
+      "角色",
+      "身份",
+      "时间"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "文本中的“征服”是存在论比喻，不能为支配他人、暴力扩张或不正当竞争背书。",
+    "title": "征服的价值在投入而非终局",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "征服；",
+        "evidence_type": "direct-work",
+        "internal_locator": "征服；source: 021.html"
+      }
+    ],
+    "id": "camus-033",
+    "version": "1.2",
+    "content": "加缪笔下的征服者并非为权力或胜利辩护，而是借行动者说明：当人明白成果终将消失，仍可把力量投入可见的任务。征服的风险是让野心取代原本更丰盛的生活；因此行动应不断回到其初衷，检验它是在扩大经验与责任，还是只在维护一个抽象的胜利形象。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "征服",
+      "行动",
+      "野心",
+      "有限性"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "创作可以帮助表达，但不必承担治疗、证明价值或替代现实支持的全部功能。",
+    "title": "创作是再次经历而非终极证明",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞的创造；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞的创造；source: 023.html"
+      }
+    ],
+    "id": "camus-034",
+    "version": "1.2",
+    "content": "加缪把创作看作让经验获得形式的方式，因此可说创作让人“再活一次”。作品不是替生活寻找终极意义的证明书，而是把感受、冲突和形象留在可分享的形式中。创作者的任务不在于替世界结案，而在于让未经化解的现实被看见，并在完成后允许作品独立存在。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "创造",
+      "经验",
+      "形式",
+      "艺术"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是一种艺术评价立场，不等于否定寓言、议论或有明确主张的文学形式。",
+    "title": "小说用形象保存问题",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "哲学与小说；",
+        "evidence_type": "direct-work",
+        "internal_locator": "哲学与小说；source: 025.html"
+      }
+    ],
+    "id": "camus-035",
+    "version": "1.2",
+    "content": "在加缪的艺术观中，小说与哲学的关系不应是把一套论题换成故事包装。小说通过人物、情境、节奏和矛盾，让读者经历问题，而不是只接收结论。好的荒诞作品因此避免把人物当作口号的容器；它保留多义、具体和未完成，使思想仍经得起现实的抵触。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "小说",
+      "哲学",
+      "形象",
+      "多义性"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "开放结局并不意味着任何解读都成立，仍应回到文本细节与可辩护的证据。",
+    "title": "荒诞作品不替读者封案",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "基里洛夫；",
+        "evidence_type": "direct-work",
+        "internal_locator": "基里洛夫；source: 027.html"
+      }
+    ],
+    "id": "camus-036",
+    "version": "1.2",
+    "content": "加缪认为荒诞作品的诚实不在于提供一个安慰性的答案，而在于把问题完整呈现出来。它可以描写失败、希望、激情和矛盾，却不在结尾用来世、历史必然或道德说教消除张力。对读者而言，这要求把文学当作训练观看的场域，而不是快速获得人生结论的处方。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "荒诞作品",
+      "文学",
+      "结论",
+      "观看"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "涉及自杀的文学分析绝不可作为模仿、论证或处置现实自伤的依据；有风险时应先联系紧急与专业支持。",
+    "title": "基里洛夫案例揭示观念压倒生命",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "基里洛夫；",
+        "evidence_type": "direct-work",
+        "internal_locator": "基里洛夫；source: 027.html"
+      }
+    ],
+    "id": "camus-037",
+    "version": "1.2",
+    "content": "基里洛夫的故事被加缪用来检验一种危险的逻辑：人若为了证明绝对独立或某个观念的正确，愿意把具体生命当作手段，观念就反过来吞没了它原本声称要解放的人。该案例的价值不在模仿其选择，而在识别任何要求用自我毁灭来完成思想、信仰或政治证明的结构。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "self_harm"
+    ],
+    "tags": [
+      "基里洛夫",
+      "观念",
+      "独立",
+      "自杀批判"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "从作品中抽身不等于放弃质量、承诺或对合作对象的责任。",
+    "title": "拒绝用作品替代生活",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "没有明天的创造；",
+        "evidence_type": "direct-work",
+        "internal_locator": "没有明天的创造；source: 029.html"
+      }
+    ],
+    "id": "camus-038",
+    "version": "1.2",
+    "content": "创作能够赋予命运以形式，却不应变成新的偶像。加缪要求创造者在投入作品后，也能接受作品、名声、征服或爱情终究可以不存在；否则原本服务于生命的事业会变成压缩生活的机器。对项目和职业同样适用：保留投入，也保留从结果与身份中抽身的能力。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "创作",
+      "事业",
+      "身份",
+      "非占有"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "纪律应服务于作品和生活，不应成为过劳、自我惩罚或忽视健康的理由。",
+    "title": "创造需要纪律而非灵感神话",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "没有明天的创造；",
+        "evidence_type": "direct-work",
+        "internal_locator": "没有明天的创造；source: 029.html"
+      }
+    ],
+    "id": "camus-039",
+    "version": "1.2",
+    "content": "荒诞创造并不把“无终极意义”变成随意。加缪强调，智慧与激情必须在日常工作中彼此校正，认真、坚持和敏锐构成创造者的纪律。没有这种纪律，所谓自由容易退化为逃避；有了它，创作才可能把不可选择的命运转化为可见形式，而不假装已经战胜命运。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "创造",
+      "纪律",
+      "坚持",
+      "命运"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是一则存在论寓言，不能用来美化剥削性劳动或要求人忍受可改变的伤害。",
+    "title": "西西弗的关键时刻是下山",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "西西弗神话；",
+        "evidence_type": "direct-work",
+        "internal_locator": "西西弗神话；source: 032.html"
+      }
+    ],
+    "id": "camus-040",
+    "version": "1.2",
+    "content": "西西弗的荒诞不只在推石上山，也在石头滚落后走回山脚的间隙。正是在这段没有任务完成感的清醒时刻，他看见惩罚的全貌，并可能把命运认作自己的。加缪由此提示：重复劳动中的主体性，不只靠完成任务，也靠能否在间隙里重新认识自己与所做之事的关系。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "tags": [
+      "西西弗",
+      "重复",
+      "意识",
+      "劳动"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不得将“接受命运”用于劝说受害者容忍暴力、歧视、剥削或其他可寻求改变的伤害。",
+    "title": "承认命运不等于向压迫投降",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "西西弗神话；",
+        "evidence_type": "direct-work",
+        "internal_locator": "西西弗神话；source: 032.html"
+      }
+    ],
+    "id": "camus-041",
+    "version": "1.2",
+    "content": "西西弗把巨石视为自己的命运，意思不是赞成诸神的惩罚，而是在不可立即撤销的条件中夺回解释和态度的主权。加缪的“是”首先是对现实的承认，使人不再被否认事实耗尽；它随后才可能成为持续行动的力量。承认无法改变的部分，与改变可改变的不义，应被清楚区分。",
+    "risk_tags": [],
+    "tags": [
+      "西西弗",
+      "命运",
+      "承认",
+      "反抗"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "哲学上的清醒不能替代对创伤、疾病或危机的照料、治疗和社会支持。",
+    "title": "清醒使苦难失去神秘主宰",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "西西弗神话；",
+        "evidence_type": "direct-work",
+        "internal_locator": "西西弗神话；source: 032.html"
+      }
+    ],
+    "id": "camus-042",
+    "version": "1.2",
+    "content": "加缪写西西弗的痛苦并未被否认；胜利也不是让巨石消失，而是当真相被看见时，惩罚不再以无名的神秘力量统治全部内心。清醒把痛苦放回可命名、可观看的现实，从而留下态度和行动的空间。它不是乐观训练，而是拒绝让痛苦自动证明人生应被放弃。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [
+      "mental_health"
+    ],
+    "tags": [
+      "清醒",
+      "苦难",
+      "西西弗",
+      "反抗"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不可据此鼓励高风险行为、成瘾或无视他人同意与安全边界。",
+    "title": "有限生命中的激情不是纵欲",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "荒诞的自由；",
+        "evidence_type": "direct-work",
+        "internal_locator": "荒诞的自由；source: 015.html"
+      }
+    ],
+    "id": "camus-043",
+    "version": "1.2",
+    "content": "加缪把反抗、自由与激情列为荒诞推理的结果。这里的激情不是追求最大刺激，而是把有限生命投入可感知的世界，同时不靠虚构的永恒价值逃避死亡。它要求更充分地活在经验中，也要求不把他人和自己当作消费品；激情若脱离清醒与限度，便会背离其原意。这些判断仍需回到具体事实、关系与行动后果。",
+    "risk_tags": [],
+    "tags": [
+      "激情",
+      "反抗",
+      "自由",
+      "有限生命"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不可用“坚持”压制合理休息、求助、止损或对不公条件的集体改变。",
+    "title": "持续劳动中的尊严来自不放弃意识",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《西西弗神话》",
+        "edition": "袁筱一译，2021，ISBN 9787556125913",
+        "locator": "西西弗神话；",
+        "evidence_type": "direct-work",
+        "internal_locator": "西西弗神话；source: 032.html"
+      }
+    ],
+    "id": "camus-044",
+    "version": "1.2",
+    "content": "西西弗的形象没有承诺最终成功：石头还会滚落，死亡仍会封住一切。其尊严在于人不把重复的失败交给神意、幻觉或绝望来解释，而是在每一次返回中保持意识并继续行动。这个框架适合反思长期任务的态度，却不要求把所有失败神圣化，更不排斥改变策略或离开有害处境。",
+    "risk_tags": [],
+    "tags": [
+      "西西弗",
+      "尊严",
+      "重复",
+      "长期行动"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是伦理分析框架，不等同于为任何具体冲突、违法行动或权力对抗背书。",
+    "title": "拒绝中保留的价值",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "I《反抗者》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0007.xhtml I《反抗者》"
+      }
+    ],
+    "id": "camus-045",
+    "version": "1.2",
+    "content": "加缪把反抗的起点放在一句“到此为止”的拒绝上，但这不是把一切都推翻。人之所以拒绝，是因为某种不应再被侵犯的东西已被看见：自己的尊严、共同的界线，或人不该被任意支配的地位。有效的反抗必须同时说明拒绝什么，以及仍要保存什么；若只剩毁灭冲动，反抗就失去自身的根据。",
+    "risk_tags": [
+      "violence",
+      "political_history"
+    ],
+    "tags": [
+      "反抗",
+      "界线",
+      "价值",
+      "尊严"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "个人痛苦并不自动证明事实、责任归属或行动方案；仍需核实情境并评估风险。",
+    "title": "受辱经验如何成为共同主张",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "I《反抗者》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0007.xhtml I《反抗者》"
+      }
+    ],
+    "id": "camus-046",
+    "version": "1.2",
+    "content": "书中反抗往往从个人遭遇开始：一个人长期忍受，直到某一命令越过了不能接受的界线。然而这界线一旦被说出，就不再只是私人的偏好；它暗示同样的侮辱也不该施加于别人。加缪因此把反抗理解为从“我受够了”走向“任何人都不该这样被对待”的转换，而非把个人受伤直接升级为报复许可证。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "受辱",
+      "共同性",
+      "反抗",
+      "尊严"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不宜据此给当事人的情绪贴道德标签；情绪可以被理解，伤害行为仍须独立评估。",
+    "title": "反抗与怨恨的分叉",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "I《反抗者》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0007.xhtml I《反抗者》"
+      }
+    ],
+    "id": "camus-047",
+    "version": "1.2",
+    "content": "怨恨可以满足于让对方受损，哪怕代价是共同的生活条件也被毁掉；反抗则以被侵犯的价值为中心，要求停止越界并恢复可共同承认的尺度。两者都可能带着愤怒，但加缪的区别在于：反抗愿意接受自我约束，怨恨更容易把倒置权力本身当成目的。判断一场行动时，要看它保护何种界线，而非只看口号多么激烈。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "怨恨",
+      "报复",
+      "反抗",
+      "自我约束"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "该原则不能代替关于权利冲突、法律权限与紧急情境的具体判断。",
+    "title": "自由须承认他人的界线",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "I《反抗者》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0007.xhtml I《反抗者》"
+      }
+    ],
+    "id": "camus-048",
+    "version": "1.2",
+    "content": "加缪不把反抗者的自由理解成可以做任何事的无限权利。若一方把自己的解放解释为有权无界限地支配、牺牲或羞辱他人，自由就会转成另一种压迫。反抗所要求的是相对而可互相承认的自由：我拒绝被越界，也承认别人有同样的不可侵犯处。自由由此不是孤立占有，而是一种彼此限制的公共关系。",
+    "risk_tags": [
+      "legal",
+      "political_history"
+    ],
+    "tags": [
+      "自由",
+      "界线",
+      "互相承认",
+      "反抗"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是加缪的哲学立场，不应用来否定他人的宗教信仰、哀悼方式或精神支持。",
+    "title": "形而上反抗不是单纯无神论",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-049",
+    "version": "1.2",
+    "content": "形而上反抗针对的不是某个具体统治者，而是世界被设想为带有终极主宰、罪责秩序或不可质疑意义时所产生的控诉。它质问：若苦难与死亡被纳入神圣安排，人是否只能服从？加缪关心的不是简单证明神是否存在，而是人拒绝替无法辩护的痛苦寻找神圣理由，并要求把判断重新放回人的世界。",
+    "risk_tags": [
+      "grief"
+    ],
+    "tags": [
+      "形而上反抗",
+      "宗教",
+      "苦难",
+      "人间"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不将哲学批评变成对信仰者或受害者的指责；紧急困境优先实际支持与安全。",
+    "title": "拒绝为苦难赋予神圣许可证",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-050",
+    "version": "1.2",
+    "content": "当一种解释把儿童的痛苦、无辜者的死亡或集体灾难说成更高计划的一部分，它可能提供安慰，也可能让人停止追问本可避免的伤害。加缪式反抗保留对这种解释的质疑：任何宏大意义都不能先于受苦者的现实。面对苦难，解释可以存在，但不应取代救助、哀悼、求证和限制继续伤害的责任。",
+    "risk_tags": [
+      "grief",
+      "self_harm"
+    ],
+    "tags": [
+      "苦难",
+      "神圣化",
+      "责任",
+      "反抗"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "神话意象用于伦理阐释，不是现实政治行动的操作指令。",
+    "title": "普罗米修斯式反抗的连带条件",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-051",
+    "version": "1.2",
+    "content": "普罗米修斯在书中重要，不只是因为他挑战诸神，更因为他把夺来的火种带给人类，并与他们共同承受后果。这个神话使反抗与孤高英雄主义拉开距离：若所谓反抗只抬高反抗者自己、把代价丢给他人，它就缺少连带性。行动的伦理问题不只是“敢不敢”，还包括是否与受影响的人共同承担、共同生活。",
+    "risk_tags": [
+      "violence",
+      "political_history"
+    ],
+    "tags": [
+      "普罗米修斯",
+      "连带",
+      "神话",
+      "代价"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把对集体的正当批评误判为利己主义；需区分自主、隐私与伤害他人的支配欲。",
+    "title": "绝对自我通向孤立的风险",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-052",
+    "version": "1.2",
+    "content": "书中讨论极端个人主义时指出：若“我”被宣布为唯一价值，一切共同义务、真理和他人都可被当成可弃的抽象物。这样的否定看似保护个人主权，实际会切断个人反抗赖以成立的共同尊严，因为没有人能再向别人提出界线要求。加缪并非抹去个体，而是警惕把个体绝对化后，个人反而只剩孤立意志和力量竞争。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "个人主义",
+      "孤立",
+      "共同性",
+      "价值"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "文学与思想史讨论不替代对性暴力、胁迫或犯罪的法律和专业处置。",
+    "title": "萨德式彻底否定的悖论",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-053",
+    "version": "1.2",
+    "content": "加缪借萨德展示一种危险：当人把一切价值都否定为虚假，同时又要求欲望获得绝对许可，就不得不承认强者对弱者的任意支配。否定道德并不会自动带来自由，反而容易让暴力成为唯一可执行的规则。这个分析的要点不是审判欲望，而是检验一种“绝对自由”是否依赖他人失去自由、身体完整或发言资格。",
+    "risk_tags": [
+      "violence",
+      "legal"
+    ],
+    "tags": [
+      "萨德",
+      "绝对自由",
+      "暴力",
+      "虚无主义"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不要把艺术表达等同于现实主张，也不要以伦理简化取消文学作品的复杂性。",
+    "title": "浪漫主义将反抗美学化的代价",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-054",
+    "version": "1.2",
+    "content": "在加缪的叙述中，浪漫主义反抗常以孤独、诅咒、壮丽失败和罪恶感来塑造反抗者形象。它能暴露秩序的虚伪，却也可能把真实受害、现实后果和可辩护界线让位给姿态的美感。因而应追问：一种激烈表达是在帮助人看见不义，还是把破坏本身包装成魅力？文学的震撼不能自动完成伦理证明。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "浪漫主义",
+      "美学",
+      "反抗",
+      "姿态"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "该框架用于反思权力结构，不应用于淡化既有压迫或否认受压迫者表达拒绝的权利。",
+    "title": "从亵渎到支配的滑坡",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-055",
+    "version": "1.2",
+    "content": "反抗神圣秩序可以从拒绝不义开始，但若反抗者继而要占据被推翻者的位置，自称掌握终极真理并要求他人服从，反抗就会复制它原先反对的结构。加缪关心这种转变：对神、王或传统的否定，何时变成新的裁判权和新的神圣性。防线在于不把任何反抗立场封为免受质疑的绝对。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "亵渎",
+      "支配",
+      "权力",
+      "绝对化"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把哲学上的虚无主义标签用于羞辱他人；涉及伤害风险时优先安全评估。",
+    "title": "虚无主义的行动检验",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《作者导言》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0006.xhtml《作者导言》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-056",
+    "version": "1.2",
+    "content": "加缪关注的虚无主义不是抽象的悲观情绪，而是当一切价值被宣告为无效后，行动会以什么来划界。若没有任何东西值得保存，谋杀、谎言和牺牲他人便可能被当成与其他行动同样可选。书中的反问是：一个否定一切的立场，仍怎样避免把生命当成材料？反抗必须在否定中保留不可任意处置人的最低肯定。",
+    "risk_tags": [
+      "violence",
+      "self_harm"
+    ],
+    "tags": [
+      "虚无主义",
+      "谋杀",
+      "价值",
+      "行动"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是加缪在本书中的思想史阐释，不应替代对尼采原著及其学术争议的独立阅读。",
+    "title": "尼采之后的价值难题",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "II《形而上反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0008.xhtml II《形而上反抗》"
+      }
+    ],
+    "id": "camus-057",
+    "version": "1.2",
+    "content": "加缪阅读尼采时重视其对彼岸救赎和消极虚无的拒绝，同时也把它置于风险之中：当旧价值被摧毁，新价值若被误解为强力自我授权，便可能为支配开路。这里的重点不是把尼采简化为暴力思想家，而是追问价值创造是否仍受生命、他人与界线约束。反抗若无此约束，会把创造误写成允许一切。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "尼采",
+      "价值创造",
+      "虚无主义",
+      "界线"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "涉及政治暴力的历史材料只用于分析，不构成对现实暴力或暗杀的认可。",
+    "title": "俄国虚无主义的牺牲困境",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "III《历史的反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0009.xhtml III《历史的反抗》"
+      }
+    ],
+    "id": "camus-058",
+    "version": "1.2",
+    "content": "书中对俄国虚无主义者的讨论呈现一个尖锐矛盾：有人为反对压迫而准备牺牲自己，甚至接受死亡；但当行动以未来正义之名允许杀死具体的人，牺牲便不再只落在行动者身上。加缪借此区分自我承担与替他人决定死亡。革命伦理不能只计算目标的高尚，还要问谁被迫支付不可撤回的代价。",
+    "risk_tags": [
+      "violence",
+      "political_history"
+    ],
+    "tags": [
+      "俄国虚无主义",
+      "牺牲",
+      "谋杀",
+      "革命"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "绝不将此条用于设计、优化、鼓励或正当化针对任何人的暴力。",
+    "title": "选择目标也不能消除谋杀问题",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《历史的反抗》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0009.xhtml III《历史的反抗》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-059",
+    "version": "1.2",
+    "content": "即使行动者声称只针对暴君、只伤害有罪者，或愿意为行动献出生命，书中仍不让谋杀问题自动消失。选择性、动机和自我牺牲会改变伦理处境，却不能把他人的生命完全化为手段。加缪保留这份不安，是为了防止革命道德把“例外”不断扩大。越是确信目的正当，越需要追问不可撤回的伤害由谁授权。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "谋杀",
+      "暗杀",
+      "例外",
+      "伦理"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不用于鼓励自我伤害、殉难或危险行动；现实风险须寻求安全和专业支持。",
+    "title": "自我牺牲不能购买他人的牺牲",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "III《历史的反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0009.xhtml III《历史的反抗》"
+      }
+    ],
+    "id": "camus-060",
+    "version": "1.2",
+    "content": "加缪认真对待愿为信念承担死亡的革命者，但他不接受由此推导出的交换：既然我愿意死，就有权让别人死。自我牺牲说明行动者并非完全逃避代价，却不能替无辜者、旁观者或被选中的敌人同意承担代价。这一界线要求把勇敢与授权分开：个人可承担自身风险，不能因此获得处分他人生命的无限权力。",
+    "risk_tags": [
+      "self_harm",
+      "violence"
+    ],
+    "tags": [
+      "自我牺牲",
+      "授权",
+      "生命",
+      "革命伦理"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "历史和政治术语具有争议；具体运动需结合事实、权利与制度背景分析。",
+    "title": "革命与反抗的不同起点",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "III《历史的反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0009.xhtml III《历史的反抗》"
+      }
+    ],
+    "id": "camus-061",
+    "version": "1.2",
+    "content": "在加缪的区分中，反抗从具体经验中的不公、羞辱或界线被越过而起；革命则更容易从一套总体理论出发，试图按其重塑历史。两者都可能追求改变，区别不在于前者温和、后者激烈，而在于行动是否保持对眼前人的责任，还是让现实被预设的终局吞没。这个区分用于警惕抽象方案，不是宣布一切制度变革都不正当。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "革命",
+      "反抗",
+      "历史",
+      "理论"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不以此否定长期规划或社会改革；重点是拒绝用未来承诺豁免当前责任。",
+    "title": "历史必然不能赦免当下伤害",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《历史的反抗》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0009.xhtml III《历史的反抗》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-062",
+    "version": "1.2",
+    "content": "当某种理论宣称历史终将证明当前行动正确，眼前的受害者容易被降为通向未来的材料。加缪反对用“必然性”取消可追问的责任：未来是否到来并不确定，而现时的伤害、谎言和强制已经发生。对历史的参与不等于把历史神化为最终法庭。任何诉诸未来的计划，都应接受当下可见后果、异议与停止条件的检验。",
+    "risk_tags": [
+      "political_history",
+      "public_policy"
+    ],
+    "tags": [
+      "历史必然",
+      "责任",
+      "未来",
+      "伤害"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是哲学上的张力模型，不能直接替代宪法、司法或公共政策的具体权衡。",
+    "title": "绝对正义与绝对自由会相互毁坏",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "V《节制与谋杀》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0011.xhtml V《节制与谋杀》"
+      }
+    ],
+    "id": "camus-063",
+    "version": "1.2",
+    "content": "加缪认为，若把正义设为必须立刻、完全实现的绝对，个人自由会被当成妨碍；若把自由设为不受任何约束的绝对，弱者又失去免受侵害的保障。两种口号各自孤立时都可能召唤恐怖。可行的伦理不是挑一个绝对获胜，而是在有限世界里让自由与正义彼此限制、彼此可质疑，并拒绝由一方吞没另一方。",
+    "risk_tags": [
+      "political_history",
+      "public_policy"
+    ],
+    "tags": [
+      "正义",
+      "自由",
+      "绝对化",
+      "恐怖"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把这一原则简化为“任何强制都相同”；需区分事实、比例、权力不对称和即时危险。",
+    "title": "目的会在手段中变形",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《历史的反抗》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0009.xhtml III《历史的反抗》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-064",
+    "version": "1.2",
+    "content": "一个行动若为了平等、解放或和平而持续依赖谎言、恐惧、秘密处决和去人格化，它不会只是暂时借用肮脏手段；这些手段会重塑组织的关系、语言和可想象的目标。加缪的警惕是：目标不是置于行动终点的纯物，手段已在每天预演未来。审查主张时，应看它正在训练何种权力，而非只听它承诺什么结果。",
+    "risk_tags": [
+      "violence",
+      "political_history"
+    ],
+    "tags": [
+      "手段",
+      "目的",
+      "组织",
+      "权力"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不能仅凭政治修辞给现实主体定性；需有可靠事实与合法程序。",
+    "title": "恐怖成为制度时的语言变化",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "V《节制与谋杀》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0011.xhtml V《节制与谋杀》"
+      }
+    ],
+    "id": "camus-065",
+    "version": "1.2",
+    "content": "加缪描述的危险不只在一次暴力行动，而在恐怖被写入制度、统计、命令和日常语言之后。此时人不再被看作具体的人，而被归为敌人、障碍、数字或尚待完成历史的原料；例外逐渐变成常规。识别这种滑坡，要留意权力是否允许公开异议、独立事实、停止机制和对无辜者的可见保护，而不是只看它如何命名自己。",
+    "risk_tags": [
+      "political_history",
+      "legal"
+    ],
+    "tags": [
+      "恐怖",
+      "制度",
+      "去人格化",
+      "语言"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是政治哲学诊断，不是对任何现实政府或运动的事实判决。",
+    "title": "革命政权的自我反转",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "III《历史的反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0009.xhtml III《历史的反抗》"
+      }
+    ],
+    "id": "camus-066",
+    "version": "1.2",
+    "content": "革命一旦形成政府，就面对加缪所强调的紧张：原先反对的统治技术可能被保留下来，并以新名义继续运作。问题不在于任何组织化都必然腐败，而在于权力若把自身视为历史终点，就难以容纳反抗、修正和被统治者的拒绝。制度设计应保留可追责、可退出、可反驳的空间，否则“解放”会变成要求服从的新理由。",
+    "risk_tags": [
+      "political_history",
+      "public_policy"
+    ],
+    "tags": [
+      "革命政权",
+      "政府",
+      "权力",
+      "可追责"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把对集体抽象化的批评误用为否认公共行动、劳工组织或社会互助的价值。",
+    "title": "集体名义不能抹除具体的人",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《反抗者》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0007.xhtml I《反抗者》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-067",
+    "version": "1.2",
+    "content": "人民、阶级、国家和未来人类都可以成为动员语言，但在加缪的警惕中，它们一旦被当作高于每个活人的实体，就可能要求具体的人沉默、牺牲或消失。共同性不是把个体溶解进集体，而是让每个人都仍能以人的身份提出拒绝。任何集体计划都该回答：其中的人是否仍有名字、权利、异议位置，以及不被作为手段使用的保障。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "集体",
+      "个体",
+      "共同性",
+      "去人格化"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不构成劳动法、工资谈判或劳动关系的专业建议；具体争议应参照当地法律与事实。",
+    "title": "劳动反抗的现实尺度",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《反抗与艺术》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0010.xhtml IV《反抗与艺术》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-068",
+    "version": "1.2",
+    "content": "书中涉及工人反抗时，强调反抗并非只由观念推动，也来自人对工作、报酬、身体和可生活条件的具体要求。加缪担心这些现实要求被宏大的历史辩证法吸收后，活着的人反而被要求为遥远终局继续忍耐。分析社会诉求时，应同时看见结构性不公与眼前可改善的生活条件，避免把前者当成推迟后者的借口。",
+    "risk_tags": [
+      "legal",
+      "public_policy"
+    ],
+    "tags": [
+      "劳动",
+      "工人",
+      "生活条件",
+      "历史"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "对话不要求受害者与施害者在危险、胁迫或不平等情境中放弃自我保护。",
+    "title": "反抗需要可被反驳的语言",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《反抗者》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0007.xhtml I《反抗者》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-069",
+    "version": "1.2",
+    "content": "反抗若真是为共同界线发言，就不能只靠密令、神谕或不可质疑的口号。它需要能够向他人说明：反对什么、保护什么、愿承担什么，并允许别人指出事实错误和手段越界。加缪重视对话，不是因为对话总会带来和解，而是因为拒绝所有回答的权力会把自己封闭成绝对。可反驳性让反抗避免变成新的教条。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "对话",
+      "异议",
+      "教条",
+      "反抗"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "艺术价值与政治立场均可争论；不应据此审查、强制规定创作内容或忽略作品的具体语境。",
+    "title": "艺术的反抗不是逃离现实",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "IV《反抗与艺术》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0010.xhtml IV《反抗与艺术》"
+      }
+    ],
+    "id": "camus-070",
+    "version": "1.2",
+    "content": "加缪把艺术看作对现实的重组：作品从现实取材，拒绝简单复制，也拒绝凭空制造一个可以替代现实的完美世界。艺术中的反抗在于让经验的秩序、痛苦和美被看见，同时不把作品当作终极审判。创作若只服务于宣传或纯粹否定，都会失去这种张力；它需要忠于可感世界，也承认形式无法彻底解决世界的问题。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "艺术",
+      "创作",
+      "现实",
+      "反抗"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把文学理论机械套用于新闻、法律证据或科学研究；它们有不同的真实性标准。",
+    "title": "创造在统一欲望与现实之间",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "IV《反抗与艺术》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0010.xhtml IV《反抗与艺术》"
+      }
+    ],
+    "id": "camus-071",
+    "version": "1.2",
+    "content": "人希望从混乱经验中找到统一，艺术正回应这种愿望；但加缪认为，真正的创造不能把现实完全消音，也不能用形式伪造最终和谐。作品通过选择、删减和安排来反抗世界的不完整，却仍保留其抵抗。这个视角适用于评价创作或叙事：作品可以建立秩序，但若把矛盾、代价和他人的声音全部清除，秩序就可能变成虚假的全能。",
+    "risk_tags": [],
+    "tags": [
+      "创造",
+      "统一",
+      "现实",
+      "形式"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把地中海意象当成文化优越论，也不把它误读为对现代社会问题的完整方案。",
+    "title": "地中海思想反对终局崇拜",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "V《地中海思想》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0011.xhtml V《地中海思想》"
+      }
+    ],
+    "id": "camus-072",
+    "version": "1.2",
+    "content": "在结尾的地中海思想中，加缪把太阳、尺度、身体和可感世界与一种节制的反抗联系起来，用以对抗把历史、理性或未来推向无限的冲动。这并非复古地赞美某种地域本质，而是强调人只能在有限生命中判断和行动。任何承诺最终救赎、无限扩张或彻底纯洁的方案，都应被追问它是否遗忘了现实的人、自然和死亡。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "地中海思想",
+      "有限性",
+      "自然",
+      "历史"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不能从此条直接推出具体环境、能源或技术政策；这些需要实证资料与专业评估。",
+    "title": "自然不是可任意征服的材料",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "V《地中海思想》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0011.xhtml V《地中海思想》"
+      }
+    ],
+    "id": "camus-073",
+    "version": "1.2",
+    "content": "加缪在地中海思想中把自然作为人类尺度的提醒：人能改造世界，却不能据此忘记身体、死亡、季节和相互依存的条件。当政治或技术想象把一切都视为可无限掌控的材料时，反抗所要求的限度也包括对自然和人的不可完全支配。此处不是环境政策蓝图，而是一种防止人类意志把自身神化的哲学警觉。",
+    "risk_tags": [
+      "public_policy"
+    ],
+    "tags": [
+      "自然",
+      "尺度",
+      "身体",
+      "限度"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不将节制用作要求受害者忍耐，或用作反对一切强烈、合法的抗议和改革。",
+    "title": "节制不是消极折中",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "V《节制与谋杀》；《地中海思想》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0011.xhtml V《节制与谋杀》；《地中海思想》"
+      }
+    ],
+    "id": "camus-074",
+    "version": "1.2",
+    "content": "加缪的节制不是在不义面前各打五十大板，也不是回避冲突。它要求在行动中持续记得：人有限，知识有限，任何正义主张都不能授权无限伤害。节制因此是一种更难的纪律——既拒绝屈服，也拒绝因反抗而成为新的压迫者。它不预先提供一套固定比例，而要求在每次行动中重新承担边界、证据和后果。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "节制",
+      "限度",
+      "行动",
+      "责任"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这是哲学隐喻，不应被当作心理健康诊断、政治处方或对复杂处境的简单裁决。",
+    "title": "正午思想的清醒行动",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "V《地中海思想》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0011.xhtml V《地中海思想》"
+      }
+    ],
+    "id": "camus-075",
+    "version": "1.2",
+    "content": "“正午”在书末不是天真的乐观，而是一种拒绝黑暗迷狂的清醒：既看见世界的不义和死亡，也不以绝望、神秘终局或无限历史来逃避它。它要求行动保留明晰、比例和对可感现实的忠实。对个人或组织而言，这意味着在宏大愿景之外，仍能说出正在伤害谁、能立刻修正什么、哪些界线即使在胜利时也不能跨越。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "正午思想",
+      "清醒",
+      "行动",
+      "比例"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不用于讨论、规划或实施任何现实伤害；若存在即时威胁，应联系当地紧急服务与安全资源。",
+    "title": "谋杀问题迫使反抗自我设限",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《作者导言》；第五部《节制与谋杀》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0006.xhtml《作者导言》；Section0011.xhtml V《节制与谋杀》"
+      }
+    ],
+    "id": "camus-076",
+    "version": "1.2",
+    "content": "《反抗者》将问题从“人为何活着”推向“人是否可以杀人或同意他人被杀”。这不是把所有历史冲突化约成一条禁令，而是要求反抗在最极端处暴露自己的逻辑：若为了价值而取消具体生命，价值如何仍能成立？谋杀问题因此成为检验点，迫使行动者说明界线、责任、例外条件和是否存在不伤害生命的替代路径。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "谋杀",
+      "界线",
+      "替代路径",
+      "反抗伦理"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "此为对本书论证走向的综合概括，不应伪装成加缪的一句原话或严密演绎结论。",
+    "title": "从否定走向有限的肯定",
+    "evidence_type": "cross-work-inference",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《反抗者》；",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0007.xhtml I《反抗者》；Section0011.xhtml V"
+      }
+    ],
+    "id": "camus-077",
+    "version": "1.2",
+    "content": "加缪的反抗不是完成了否定便告结束。拒绝不义之后，仍必须形成有限的肯定：承认共同尊严、承认生命不能被随意交换、承认行动要受界线约束。这个肯定不等于找到永恒真理，也不保证历史会变好；它只是让人不必在屈服与全面毁灭之间二选一。其力量来自可实践、可修正而非绝对无误。",
+    "risk_tags": [],
+    "tags": [
+      "否定",
+      "肯定",
+      "尊严",
+      "有限性"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这提醒概念使用的边界，不是宣称不同社会之间不能比较或不能互相学习。",
+    "title": "反抗概念有其欧洲历史语境",
+    "evidence_type": "direct-work",
+    "sources": [
+      {
+        "work": "《反抗者》",
+        "edition": "沈志明译，上海译文出版社，2018，ISBN 9787532777280",
+        "locator": "《作者导言》；第三部《历史的反抗》",
+        "evidence_type": "direct-work",
+        "internal_locator": "Section0006.xhtml《作者导言》；Section0009.xhtml III《历史的反抗》"
+      }
+    ],
+    "id": "camus-078",
+    "version": "1.2",
+    "content": "加缪在导言和历史论述中把自己讨论的反抗放进欧洲的宗教、君权、启蒙与革命传统之内：反抗往往先面对超越权威，再转向历史和政治权力。因此，本书的概念不是可不经转换地套用到所有文化、殖民经验或当代运动的通用地图。借用它时，应保留其问题意识，同时补足当地历史、权力关系和当事人的具体语言。",
+    "risk_tags": [
+      "political_history"
+    ],
+    "tags": [
+      "欧洲语境",
+      "历史",
+      "反抗",
+      "方法边界"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "小说情节不能用于替代犯罪归责、心理评估或安全风险判断。",
+    "title": "默尔索的感官过载与判断失准",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第一部第六章：海滩与枪击）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter006.html（第一部第六章：海滩与枪击）"
+      }
+    ],
+    "id": "camus-079",
+    "version": "1.2",
+    "content": "在海滩冲突中，默尔索先经历烈日、眩光、汗水、疲乏与身体不适，随后再次遇到持刀者并开枪。这个虚构场景把行动放回具体环境：感官压力会收窄注意力、放大冲动，却不能抹去对伤害的责任。分析严重事件时，既不要把环境因素当作开脱，也不要把人抽象成脱离身体和情境的纯粹意志。",
+    "risk_tags": [
+      "legal",
+      "violence"
+    ],
+    "tags": [
+      "局外人",
+      "默尔索",
+      "身体",
+      "情境",
+      "责任"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不据此把所有间接关系等同于法律共犯；需按具体事实、意图与权力关系判断。",
+    "title": "雷蒙的信与旁观者的卷入",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第一部第三章：雷蒙与书信）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter003.html（第一部第三章：雷蒙与书信）"
+      }
+    ],
+    "id": "camus-080",
+    "version": "1.2",
+    "content": "默尔索替雷蒙写信羞辱其情人时，并未把自己理解为冲突的主角；他以省事和无所谓接受了请求。后来这封信引发报复，日常的顺手协助成为暴力链条的一环。这个虚构案例提示：不主动挑起冲突，不等于没有参与后果。对他人的操控、羞辱或报复计划，所谓中立的技术帮助也可能扩大伤害。",
+    "risk_tags": [
+      "legal",
+      "violence"
+    ],
+    "tags": [
+      "局外人",
+      "雷蒙",
+      "默尔索",
+      "旁观",
+      "共犯性"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把默尔索的疏离当作健康关系模板；现实亲密关系应重视同意、沟通与彼此福祉。",
+    "title": "玛丽的婚姻提问与价值悬置",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第一部第五章：玛丽的婚姻提议）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter005.html（第一部第五章：玛丽的婚姻提议）"
+      }
+    ],
+    "id": "camus-081",
+    "version": "1.2",
+    "content": "玛丽询问默尔索是否爱她、是否愿意结婚；他承认这对自己并不重要，也不愿假装热烈。小说把这种回答放在亲密关系的期待中，而不是把它写成可复制的生活准则。它可用于辨认一层张力：诚实表达未必满足他人的情感需要；不愿撒谎也不免除解释、协商和照顾对方选择权的责任。",
+    "risk_tags": [
+      "relationships"
+    ],
+    "tags": [
+      "局外人",
+      "玛丽",
+      "亲密关系",
+      "诚实",
+      "承诺"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "涉及动物或家庭暴力时，应优先现实安全与保护措施，不以文学复杂性淡化伤害。",
+    "title": "萨拉马诺与走失的狗",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第一部第四章：萨拉马诺与狗）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter004.html（第一部第四章：萨拉马诺与狗）"
+      }
+    ],
+    "id": "camus-082",
+    "version": "1.2",
+    "content": "萨拉马诺长期辱骂、拖拽自己的狗；狗走失后，他却显出焦躁和失落。这个虚构小支线拒绝把关系简化为爱或不爱：依赖、习惯、伤害和依恋可以同时存在。它适合用来提醒，观察到一个人表现粗暴时，不能据此断言其毫无感情；但复杂感情也绝不使虐待、控制或伤害变得正当。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "局外人",
+      "萨拉马诺",
+      "依恋",
+      "习惯",
+      "伤害"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不据此否定哀伤礼仪或证据规则；真实案件仍需遵守程序、公正审理与受害者保护。",
+    "title": "葬礼细节如何被改写成品格证据",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "守灵与庭审",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter001.html、OPS/chapter009.html（守灵与庭审）"
+      }
+    ],
+    "id": "camus-083",
+    "version": "1.2",
+    "content": "默尔索守灵时的疲倦、咖啡、吸烟和未哭，后来在庭审中被串成冷酷无情的品格画像。小说案例显示，仪式中的可见举止容易被社会拿来推断不可见的内心。更稳妥的判断应分开看：当事人的情感表达、其实际行为、造成的具体损害和可核实证据分别是什么；不要让礼仪偏好取代事实调查。",
+    "risk_tags": [
+      "legal",
+      "grief"
+    ],
+    "tags": [
+      "局外人",
+      "葬礼",
+      "情绪规范",
+      "证据",
+      "审判"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不以此否定律师、法官或专业代理的必要性；具体权利以适用法律和程序为准。",
+    "title": "当事人被专业语言取代",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "第二部第二至四章：预审与庭审",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter008.html—chapter010.html（第二部第二至四章：预审与庭审）"
+      }
+    ],
+    "id": "camus-084",
+    "version": "1.2",
+    "content": "在预审和法庭上，默尔索频繁感到律师、检察官、法官和记者围绕他交谈，却很少让他解释自己的经验；辩护制度本应保护他，仍可能使他成为被描述的对象。这个虚构案例不是反对专业代理，而是提示程序设计要保留当事人的知情、陈述和纠正空间，防止专家语言把人的处境压缩成方便处理的档案。",
+    "risk_tags": [
+      "legal"
+    ],
+    "tags": [
+      "局外人",
+      "法庭",
+      "代理",
+      "当事人声音",
+      "程序"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不能用此卡否认对犯罪行为的调查；它只提醒区分相关证据、偏见推断与道德修辞。",
+    "title": "检察叙事把事件变成人格审判",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "第二部第三、四章：庭审陈述",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter009.html—chapter010.html（第二部第三、四章：庭审陈述）"
+      }
+    ],
+    "id": "camus-085",
+    "version": "1.2",
+    "content": "庭审对命案的讨论不断滑向默尔索是不是合乎社会期待的儿子、恋人和信徒。检察官把零散生活细节编排为一种危险人格，并以此加强对案件的道德定性。小说的压力测试在于：叙事能让人觉得结论连贯，却未必等于因果已经证明。面对指控或舆论，应检查故事的情绪力量是否超过了证据的关联性。",
+    "risk_tags": [
+      "legal"
+    ],
+    "tags": [
+      "局外人",
+      "检察官",
+      "叙事",
+      "人格审判",
+      "因果"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不应浪漫化监禁、剥夺或创伤适应；现实处境需优先权利保障与专业支持。",
+    "title": "牢狱中的习惯重塑欲望",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "第二部第一、二章：入狱生活",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter007.html—chapter008.html（第二部第一、二章：入狱生活）"
+      }
+    ],
+    "id": "camus-086",
+    "version": "1.2",
+    "content": "入狱后，默尔索起初渴望香烟、女人、海水和自由，随后发现记忆、睡眠和重复日程能让人适应失去。这一虚构经验不是歌颂困境，而是展示习惯的双面性：它能帮助人熬过不可控处境，也可能让不正义显得可忍受。讨论适应力时，应同时追问它是在保护生存，还是正在麻痹改变条件的需要。",
+    "risk_tags": [
+      "legal",
+      "grief"
+    ],
+    "tags": [
+      "局外人",
+      "监狱",
+      "习惯",
+      "适应",
+      "自由"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "这不是具体刑事政策或法律意见；现实议题需基于当地法律、证据和人权框架。",
+    "title": "对死刑机器的日常化凝视",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "第二部第二、五章：判决与等待",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter008.html、OPS/chapter011.html（第二部第二、五章：判决与等待）"
+      }
+    ],
+    "id": "camus-087",
+    "version": "1.2",
+    "content": "默尔索在等待判决时反复设想断头台的构造、时间和观众，死亡威胁被制度化为可计算的流程。小说案例并不提供一套刑罚政策答案，却迫使读者看见：抽象程序会把不可逆的生命后果伪装成技术问题。凡是涉及不可逆处罚或强制时，除了效率与规则，还应要求严格证据、可纠错性和对人的可见性。",
+    "risk_tags": [
+      "legal",
+      "violence"
+    ],
+    "tags": [
+      "局外人",
+      "死刑",
+      "制度",
+      "不可逆",
+      "惩罚"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把此案例用于贬低宗教或哀伤支持；应尊重个人信仰与临终照护选择。",
+    "title": "神甫探访中的安慰与强迫",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第二部第五章：神甫探访）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter011.html（第二部第五章：神甫探访）"
+      }
+    ],
+    "id": "camus-088",
+    "version": "1.2",
+    "content": "临刑前，神甫坚持要默尔索承认宗教安慰；默尔索拒绝以自己不相信的语言换取安宁，冲突最终爆发。作为虚构案例，它显示安慰并非天然无害：当慰藉要求受苦者接受既定解释时，可能变成另一种侵入。同时，拒绝安慰也不应被浪漫化为孤立；关键在于让当事人保有解释自身恐惧和选择支持方式的权利。",
+    "risk_tags": [
+      "grief"
+    ],
+    "tags": [
+      "局外人",
+      "神甫",
+      "信仰",
+      "安慰",
+      "自主"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "涉及自伤、自杀或即时危险时，停止文学哲学讨论并优先寻求紧急与专业支持。",
+    "title": "面对死亡时的世界非人格化",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第二部第五章：结尾）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter011.html（第二部第五章：结尾）"
+      }
+    ],
+    "id": "camus-089",
+    "version": "1.2",
+    "content": "在小说结尾，默尔索于愤怒后感到夜色、星空和世界并不为个人命运作答，却又与自己有某种冷漠的亲近。该场景可作为存在经验的案例，而非心理结论：人在极端处境中可能拒绝虚假的保证，同时仍感知身体、自然和当下。它不能被读成“死亡无关紧要”，更不能当作鼓励绝望或自伤的材料。",
+    "risk_tags": [
+      "self_harm"
+    ],
+    "tags": [
+      "局外人",
+      "死亡",
+      "世界",
+      "荒诞",
+      "默尔索"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不以此贬低证人证言或人格证据；真实程序须依循证据规则与交叉质证。",
+    "title": "塞莱斯特的善意证词为何不足够",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第二部第三章：证人出庭）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter009.html（第二部第三章：证人出庭）"
+      }
+    ],
+    "id": "camus-090",
+    "version": "1.2",
+    "content": "餐馆老板塞莱斯特在庭审中以朴素的好感为默尔索作证，却无法抵消法庭已形成的道德叙事。这个虚构片段说明，真实的人际善意未必自动转化为制度中被认可的证据；反过来，个人好感也不能替代事实审查。理解一个人需要生活见证与可验证材料的互相校正，而非只押注其中一方。",
+    "risk_tags": [
+      "legal"
+    ],
+    "tags": [
+      "局外人",
+      "塞莱斯特",
+      "证词",
+      "善意",
+      "制度"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "现实暴力风险应优先远离现场、联系当地紧急服务或安全资源，不以小说框架代替安全计划。",
+    "title": "马松家午餐后的关系升级",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第一部第六章：马松家与冲突）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter006.html（第一部第六章：马松家与冲突）"
+      }
+    ],
+    "id": "camus-091",
+    "version": "1.2",
+    "content": "默尔索原本只是与玛丽共度周末，却在雷蒙、马松和阿拉伯人的紧张关系中被带到海滩冲突现场。小说把重大后果写成一连串看似普通的社交接受、同行和停留，而不是单一戏剧性决定。这个案例适合检查：当朋友间已有报复、控制或暴力信号时，自己是否正在因图省事而进入危险场域，并忽略退出或求助的时机。",
+    "risk_tags": [
+      "violence"
+    ],
+    "tags": [
+      "局外人",
+      "海滩",
+      "关系网络",
+      "升级",
+      "风险"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把职业犹豫诊断为人格缺陷；现实选择还需考虑资源、关系与长期后果。",
+    "title": "办公室升迁与无差别选择",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "（第一部第五章：巴黎工作机会）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter005.html（第一部第五章：巴黎工作机会）"
+      }
+    ],
+    "id": "camus-092",
+    "version": "1.2",
+    "content": "老板提出调往巴黎、开始新生活的机会，默尔索以“都一样”的态度回应；小说没有把这种无欲望直接判为美德或罪过，而让它与周围人追求上升、爱情和改变的愿望相碰撞。这个虚构案例可用来辨认：价值尚未澄清时的悬置，是否正在保护自由，还是正在把重要选择的后果交给别人和惯性决定。",
+    "risk_tags": [],
+    "tags": [
+      "局外人",
+      "工作",
+      "选择",
+      "冷漠",
+      "价值"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不将沉默一概视为同意、无辜或拒绝；具体沟通与法律场景须遵循明确规则。",
+    "title": "默尔索的沉默并非透明自白",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "叙述与审讯",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter001.html、OPS/chapter008.html—chapter010.html（叙述与审讯）"
+      }
+    ],
+    "id": "camus-093",
+    "version": "1.2",
+    "content": "默尔索常以简短、直接的方式回答，旁人却不断从沉默和字面之外补出动机；他的坦率没有让他被准确理解。这个虚构案例提醒，所谓“只说事实”并不保证沟通中立：权力、场景、语言能力和听者的期待都会参与解释。重要对话中，既要避免替他人脑补，也要给当事人补充背景、澄清误解和提出异议的机会。",
+    "risk_tags": [
+      "legal"
+    ],
+    "tags": [
+      "局外人",
+      "沉默",
+      "沟通",
+      "误读",
+      "权力"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把文学情节当成医学预警规则；真实健康异常应咨询合格专业人员和当地卫生机构。",
+    "title": "死鼠作为异常信号而非可笑插曲",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第一部：死鼠与初发病例）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0005.xhtml（第一部：死鼠与初发病例）"
+      }
+    ],
+    "id": "camus-094",
+    "version": "1.2",
+    "content": "奥兰城最初出现死鼠时，多数人把它当成麻烦、谣言或清洁问题；里厄注意到数量、分布和随后的人类症状发生了变化。这个虚构案例强调，早期异常往往不具备戏剧性，因而容易被日常习惯吞没。面对潜在风险，先记录可观察趋势、比较变化速度并上报适当主体，比急于断言或若无其事更有价值。",
+    "risk_tags": [
+      "medical",
+      "public_policy"
+    ],
+    "tags": [
+      "鼠疫",
+      "里厄",
+      "死鼠",
+      "早期信号",
+      "观察"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不据此绕过公共卫生授权、证据标准或法定信息发布程序。",
+    "title": "疾病命名延迟的行政代价",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第一部：确认疫情与市政会议）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0005.xhtml（第一部：确认疫情与市政会议）"
+      }
+    ],
+    "id": "camus-095",
+    "version": "1.2",
+    "content": "面对快速死亡和相似症状，市政人员担心使用“鼠疫”一词会引发恐慌与经济后果；里厄则强调，争论名称不应拖延必要的防护。小说案例的重点不是所有风险都应立刻公开最高警报，而是名称、体面和程序可能带来行动延误。风险沟通应说明已知、未知和暂行措施，并把延迟本身的代价纳入判断。",
+    "risk_tags": [
+      "medical",
+      "public_policy"
+    ],
+    "tags": [
+      "鼠疫",
+      "里厄",
+      "命名",
+      "风险沟通",
+      "行政"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "现实限制措施的合法性、必要性与比例性应由事实、权利框架和有权机构审查。",
+    "title": "封城把私人离别变成共同经验",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第二部：城门关闭与离别）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0001.xhtml（第二部：城门关闭与离别）"
+      }
+    ],
+    "id": "camus-096",
+    "version": "1.2",
+    "content": "城门突然关闭后，恋人、亲属和旅客发现原先短暂的分别无法撤回；个人思念不再只是私事，而成为整座城市共享的放逐感。这个虚构场景说明，公共危机会改变亲密关系的时间尺度，也会把“特殊例外”的请求推入资源和风险的共同约束。理解共同责任时，不该嘲笑离别的痛苦，也不能假装每个例外都没有外部成本。",
+    "risk_tags": [
+      "public_policy",
+      "grief"
+    ],
+    "tags": [
+      "鼠疫",
+      "封城",
+      "离别",
+      "共同经验",
+      "例外"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把记录者自动当成可靠权威；需交叉核实来源并注意隐私与受害者尊严。",
+    "title": "塔鲁的记录与不急于站队",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "、（塔鲁笔记与疫城观察）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0005.xhtml、Section0002.xhtml（塔鲁笔记与疫城观察）"
+      }
+    ],
+    "id": "camus-097",
+    "version": "1.2",
+    "content": "塔鲁以旁观者的笔记记录奥兰人的习惯、官员的话语和灾难中的细节；他的观察既不等于中立真相，也不是冷眼旁观的许可证。作为虚构案例，它提示人在混乱中保留记录、区分所见与推断，可以抵抗集体遗忘和口号化叙事；但记录若不转向对受害者和行动者的责任，也可能只是审美化他人的困境。",
+    "risk_tags": [
+      "grief"
+    ],
+    "tags": [
+      "鼠疫",
+      "塔鲁",
+      "记录",
+      "见证",
+      "旁观"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不用于鼓励过劳或越权医疗；现实照护工作应遵守授权、防护、轮班和资源条件。",
+    "title": "里厄的职业语言拒绝英雄化",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "—（里厄的诊治与防疫）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0001.xhtml—Section0003.xhtml（里厄的诊治与防疫）"
+      }
+    ],
+    "id": "camus-098",
+    "version": "1.2",
+    "content": "里厄多次把自己的选择称为“做本分”，而不是伟大牺牲；他知道治疗未必成功，仍持续诊治、报告和组织。小说将这种克制放在高死亡率和疲劳背景下：不许诺胜利，也不以无力感停止工作。该案例适合把宏大善意拆回可执行职责，但不能把“本分”变成要求任何人无限承担、无视休息或专业边界的命令。",
+    "risk_tags": [
+      "medical"
+    ],
+    "tags": [
+      "鼠疫",
+      "里厄",
+      "职业责任",
+      "反英雄",
+      "照料"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把行政劳动自动视为有效；应结合结果、受影响者反馈与专业要求评估。",
+    "title": "格朗的微小工作与公共可见性",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "、（格朗与防疫事务）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0001.xhtml、Section0002.xhtml（格朗与防疫事务）"
+      }
+    ],
+    "id": "camus-099",
+    "version": "1.2",
+    "content": "格朗既反复修改一部难以完成的小说开头，也在疫情中承担统计、登记和行政联络等琐碎工作。小说没有把他塑造成救世主，却让这些重复劳动成为共同应对的一部分。这个虚构案例提醒，公共行动常依赖不耀眼的记录、协调和维护；其价值不靠壮烈证明。但繁琐程序若遮住病人与实际伤害，也需要被重新检视。",
+    "risk_tags": [
+      "public_policy"
+    ],
+    "tags": [
+      "鼠疫",
+      "格朗",
+      "统计",
+      "日常劳动",
+      "公共行动"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把此卡用于否定宗教信仰或哀伤意义；应尊重信念，同时避免伤害受苦者。",
+    "title": "帕纳鲁的首次布道与灾难归因",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第二部：帕纳鲁首次布道）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0001.xhtml（第二部：帕纳鲁首次布道）"
+      }
+    ],
+    "id": "camus-100",
+    "version": "1.2",
+    "content": "帕纳鲁在首次布道中把鼠疫解释为集体罪过与神的惩罚，语言给予灾难一个整齐的道德图式；与此同时，小说持续呈现具体病人的疼痛、隔离和死亡。这个虚构对照提示，解释苦难可能给旁观者秩序感，却可能把受害者变成教训材料。任何宏大归因都应先经受一个检验：它是否增加了照料、事实和责任，还是替代了它们。",
+    "risk_tags": [
+      "grief"
+    ],
+    "tags": [
+      "鼠疫",
+      "帕纳鲁",
+      "布道",
+      "苦难",
+      "归因"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "现实出行、隔离或边境问题涉及法律与安全要求，不能仅凭文学案例决定。",
+    "title": "朗贝尔逃离计划中的爱情与外部性",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "、（朗贝尔的离城尝试）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0001.xhtml、Section0002.xhtml（朗贝尔的离城尝试）"
+      }
+    ],
+    "id": "camus-101",
+    "version": "1.2",
+    "content": "朗贝尔被困奥兰后，先通过官僚渠道、再借地下关系寻求离城，他与爱人的分离被小说认真呈现，并未被简单称作自私。与此同时，他的离开需要穿过封锁与他人的风险。这个虚构案例将个人幸福与公共后果并置：两者都是真实事实。讨论例外时，应问谁承担风险、规则如何一致、是否存在更少伤害的替代方案。",
+    "risk_tags": [
+      "legal",
+      "public_policy"
+    ],
+    "tags": [
+      "鼠疫",
+      "朗贝尔",
+      "爱情",
+      "逃离",
+      "公共风险"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把个人牺牲浪漫化或强加给他人；现实选择需尊重自主、家庭义务与安全条件。",
+    "title": "朗贝尔留下不是对幸福的否定",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第三部：朗贝尔决定留下）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0002.xhtml（第三部：朗贝尔决定留下）"
+      }
+    ],
+    "id": "camus-102",
+    "version": "1.2",
+    "content": "在逃离机会即将实现时，朗贝尔选择留在城中参与防疫队。他的决定并不证明爱情不重要，恰恰因为分离的痛苦未被取消，选择才有伦理重量。这个虚构案例可防止两种简化：把留下说成纯粹高尚，或把离开说成纯粹自私。更有用的是说明当事人看见了哪些共同风险，并承担了何种可见代价。",
+    "risk_tags": [
+      "relationships",
+      "grief"
+    ],
+    "tags": [
+      "鼠疫",
+      "朗贝尔",
+      "留下",
+      "团结",
+      "代价"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "医疗、救援和志愿服务须遵守培训、授权、防护和当地安全规则。",
+    "title": "卫生队将抽象团结变成岗位",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "—（卫生防疫队的组织）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0001.xhtml—Section0002.xhtml（卫生防疫队的组织）"
+      }
+    ],
+    "id": "camus-103",
+    "version": "1.2",
+    "content": "塔鲁发起卫生防疫队后，里厄、格朗和其他市民用登记、运送、隔离、诊治和组织等不同工作参与。小说中的团结不是一句集体口号，而是分工、训练、疲劳和风险管理。这个虚构案例提示，面对共同问题，可先寻找与能力、授权和防护相称的位置；若把热情当作资格，或把无偿奉献当作无限资源，团结会反过来消耗人。",
+    "risk_tags": [
+      "medical",
+      "public_policy"
+    ],
+    "tags": [
+      "鼠疫",
+      "塔鲁",
+      "卫生队",
+      "分工",
+      "团结"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "涉及现实儿童死亡、创伤或丧亲时，应优先关怀与专业支持，不以哲学辩论回应。",
+    "title": "儿童之死对一切整齐解释的压力测试",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第四部：奥通之子患病与死亡）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0003.xhtml（第四部：奥通之子患病与死亡）"
+      }
+    ],
+    "id": "camus-104",
+    "version": "1.2",
+    "content": "菲利普·奥通的儿子在漫长痛苦中死去，里厄、塔鲁和帕纳鲁共同见证。这个虚构场景不让任何一方轻易获胜：医学无力、宗教解释和道德抗议都被具体痛苦逼问。它适合用作解释体系的压力测试：若一种说法面对无辜者受苦时只能要求旁人接受，它可能缺少照料与谦卑；但哀伤也不必被迫立刻转化为理论。",
+    "risk_tags": [
+      "grief",
+      "medical"
+    ],
+    "tags": [
+      "鼠疫",
+      "儿童之死",
+      "无辜",
+      "哀伤",
+      "解释"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不据此推断所有宗教人士或信徒的立场；现实信仰实践具有多样性。",
+    "title": "帕纳鲁的第二次布道与不确定信念",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第四部：帕纳鲁第二次布道）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0003.xhtml（第四部：帕纳鲁第二次布道）"
+      }
+    ],
+    "id": "camus-105",
+    "version": "1.2",
+    "content": "经历儿童死亡后，帕纳鲁的第二次布道不再以旁观者姿态宣告惩罚，而转向与受苦者共同承担、却仍保留信仰的艰难语言。小说并未把这种转变处理成确定答案。这个虚构案例提示，成熟的信念可能因反例而改变措辞、承认困惑；它不要求人放弃信仰，而要求任何信念面对具体痛苦时少一点审判他人、多一点共同承担。",
+    "risk_tags": [
+      "grief"
+    ],
+    "tags": [
+      "鼠疫",
+      "帕纳鲁",
+      "信仰",
+      "转变",
+      "不确定性"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不将道德自省用于自我惩罚、替代事实调查或模糊直接施害责任。",
+    "title": "塔鲁把鼠疫理解为参与伤害的警觉",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第四部：塔鲁的自述）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0003.xhtml（第四部：塔鲁的自述）"
+      }
+    ],
+    "id": "camus-106",
+    "version": "1.2",
+    "content": "塔鲁向里厄讲述自己如何因反对处决与暴力而警惕每个人都可能以顺从、语言或制度参与“鼠疫”。这是一段虚构人物的伦理自省，不是把所有人等同于施害者。它可用于审问自己的便利是否建立在他人受损之上，并寻找较少伤害的行动；若把它扩张成无差别自责，则会遮蔽真实责任者、权力差异和可行的修复。",
+    "risk_tags": [
+      "violence",
+      "grief"
+    ],
+    "tags": [
+      "鼠疫",
+      "塔鲁",
+      "暴力",
+      "自省",
+      "共谋"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把灾难中的焦虑或适应自动视为恶意；对违法和市场行为须依事实与适用法律判断。",
+    "title": "科塔尔在灾难中的逆向获益",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "—（科塔尔与疫城经济）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0002.xhtml—Section0004.xhtml（科塔尔与疫城经济）"
+      }
+    ],
+    "id": "camus-107",
+    "version": "1.2",
+    "content": "科塔尔原先害怕被追查；疫城封闭后，普遍的不安反而让他感到安全，并借混乱从事投机与走私。这个虚构人物提示，灾难并不天然产生团结：有人会因他人的限制、稀缺或恐慌而获益。分析危机中的政策和互助时，除赞美善意外，还要查谁得到不透明的特权、谁被困在风险里，以及监督如何防止伤害被商业化。",
+    "risk_tags": [
+      "legal",
+      "public_policy"
+    ],
+    "tags": [
+      "鼠疫",
+      "科塔尔",
+      "投机",
+      "危机",
+      "激励"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不以文学案例诊断倦怠或抑郁；持续功能受损时应寻求合格的医疗或心理支持。",
+    "title": "疫城疲惫如何制造道德冷漠",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第四部：疫城高峰期的疲惫）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0003.xhtml（第四部：疫城高峰期的疲惫）"
+      }
+    ],
+    "id": "camus-108",
+    "version": "1.2",
+    "content": "长期封闭、死亡统计和重复防护使里厄及其同伴逐渐疲惫，小说写到人们对消息麻木、对数字失去感受。这个虚构案例把冷漠视为压力下的耗竭信号，而非立即等同于品格败坏。共同工作需要有意识地安排轮换、休息、复盘和重新接触具体人的处境；否则“坚持”可能变成让照料者和受害者一起被消耗。",
+    "risk_tags": [
+      "medical"
+    ],
+    "tags": [
+      "鼠疫",
+      "疲惫",
+      "麻木",
+      "照料",
+      "恢复"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不把小说的病菌隐喻直接套用到具体群体、疾病或现实危机；需基于可靠事实判断。",
+    "title": "鼠疫退去后仍需保留记忆",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《鼠疫》",
+        "edition": "上海译文出版社，2013，ISBN 9787532761753；当前 EPUB 元数据未注明译者",
+        "locator": "（第五部：疫情消退与结尾）",
+        "evidence_type": "fictional-case",
+        "internal_locator": "EPUB/xhtml/Section0004.xhtml（第五部：疫情消退与结尾）"
+      }
+    ],
+    "id": "camus-109",
+    "version": "1.2",
+    "content": "疫情消退、城门重开时，人们急于团聚和庆祝；叙述者却提醒病菌并未被永久消灭，灾难的记忆也不应被胜利叙事抹去。这个虚构结尾不是要求永久恐惧，而是要求在恢复日常时保存记录、承认失去、修补制度漏洞。真正的结束不只是数字下降，也包括让曾经受损的人不被从公共记忆中删去。",
+    "risk_tags": [
+      "medical",
+      "grief"
+    ],
+    "tags": [
+      "鼠疫",
+      "记忆",
+      "恢复",
+      "警惕",
+      "叙述者"
+    ],
+    "updated_at": "2026-08-03"
+  },
+  {
+    "caveat": "不提供养老、监护或家庭法律建议；具体照料安排应评估当事人意愿、安全与可用支持。",
+    "title": "养老院安排与孝道表演的分离",
+    "evidence_type": "fictional-case",
+    "sources": [
+      {
+        "work": "《局外人》",
+        "edition": "柳鸣九译，上海译文出版社，ISBN 9787532761760",
+        "locator": "养老院叙述与庭审引用",
+        "evidence_type": "fictional-case",
+        "internal_locator": "OPS/chapter001.html、OPS/chapter009.html（养老院叙述与庭审引用）"
+      }
+    ],
+    "id": "camus-110",
+    "version": "1.2",
+    "content": "默尔索把母亲送进养老院，院长说明其工资和照料条件难以支撑独自赡养，母亲在院内也有同伴；这些现实安排后来却在庭审中被简化为不孝的标记。这个虚构案例提示，照料决策应区分资源、需求、陪伴与实际质量，不能只以是否符合某种可见孝道仪式裁决。但现实约束也不能成为停止探望或忽略照料质量的借口。",
+    "risk_tags": [
+      "legal",
+      "grief"
+    ],
+    "tags": [
+      "局外人",
+      "养老院",
+      "照料",
+      "孝道",
+      "资源"
+    ],
+    "updated_at": "2026-08-03"
+  }
+]

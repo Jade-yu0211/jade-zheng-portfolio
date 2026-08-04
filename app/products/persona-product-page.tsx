@@ -9,8 +9,10 @@ type PersonaProductPageProps = {
   avatar: string;
   intro: string;
   suggestions: string[];
-  pendingReply: string;
+  pendingReply?: string;
   note: string;
+  apiPath?: string;
+  knowledgeStatus?: "connected" | "pending";
 };
 
 export default function PersonaProductPage({
@@ -22,6 +24,8 @@ export default function PersonaProductPage({
   suggestions,
   pendingReply,
   note,
+  apiPath,
+  knowledgeStatus,
 }: PersonaProductPageProps) {
   return (
     <main id={`${slug}-page`}>
@@ -46,6 +50,8 @@ export default function PersonaProductPage({
             suggestions={suggestions}
             pendingReply={pendingReply}
             note={note}
+            apiPath={apiPath}
+            knowledgeStatus={knowledgeStatus}
           />
         </section>
 
