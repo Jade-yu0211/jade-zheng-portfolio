@@ -126,7 +126,20 @@ test("keeps page scroll chaining and hides internal research metadata", async ()
   ]) {
     const systemPrompt = await readFile(new URL(path, import.meta.url), "utf8");
     assert.match(systemPrompt, /不得向访客展示知识卡/);
-    assert.match(systemPrompt, /不提供或暗示具体中文译本/);
+    assert.match(systemPrompt, /不得披露具体中文版本信息/);
     assert.match(systemPrompt, /绝不出现在访客可见的回答中/);
   }
+
+  const camusPrompt = await readFile(
+    new URL("../app/camus/system-prompt.ts", import.meta.url),
+    "utf8",
+  );
+  assert.match(camusPrompt, /《西西弗神话》《反抗者》《鼠疫》《局外人》的外文原作/);
+
+  const adlerPrompt = await readFile(
+    new URL("../app/adler/system-prompt.ts", import.meta.url),
+    "utf8",
+  );
+  assert.match(adlerPrompt, /《自卑与超越》《理解人性》《儿童教育心理学》的外文原作/);
+  assert.doesNotMatch(adlerPrompt, /《生活的科学》/);
 });
