@@ -1228,7 +1228,7 @@ select {
   flex-direction: column;
   gap: 16px;
   overflow-y: auto;
-  overscroll-behavior: contain;
+  overscroll-behavior-y: auto;
   scrollbar-gutter: stable;
   scrollbar-width: thin;
   scrollbar-color: var(--mint-strong) #f8f5e8;

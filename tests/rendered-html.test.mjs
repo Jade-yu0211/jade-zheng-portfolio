@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 import test from "node:test";
 
 const developmentPreviewMeta =
@@ -44,6 +45,11 @@ test("renders development preview metadata", async () => {
   assert.match(html, /href="\/products\/camus"/);
   assert.match(html, /aria-label="打开 Adler Chat 聊天窗口"/);
   assert.match(html, /href="\/products\/adler"/);
+  assert.ok(
+    html.includes(
+      "蒸馏加缪的《西西弗神话》等 4本经典著作，构建加缪的人物心智模型，通过对话畅聊荒诞哲学",
+    ),
+  );
   assert.doesNotMatch(html, />\s*ARTICLES\s*</);
   assert.doesNotMatch(html, />\s*VIDEO\s*</);
   assert.doesNotMatch(html, /class="section about-section"/);
@@ -62,11 +68,15 @@ test("renders development preview metadata", async () => {
       path: "/products/camus",
       title: "Camus Chat",
       note: "内容仅供思想交流，请核查作品与重要信息。",
+      description:
+        "使用Github上开源的Nuwa.skill蒸馏《西西弗神话》、《反抗者》、《鼠疫》以及《局外人》这4本加缪的代表作，构建人物心智模型，通过对话畅聊荒诞哲学",
     },
     {
       path: "/products/adler",
       title: "Adler Chat",
-      note: "心理建议仅供参考，不构成医疗建议或心理诊断。",
+      note: "回答内容仅供参考，并非医疗建议或心理诊断",
+      description:
+        "使用Github上开源的Nuwa.skill蒸馏《自卑与超越》、《理解人性》以及《儿童教育心理学》这3本阿德勒的代表作，构建人物心智模型，从个体心理学角度提供心理建议",
     },
   ];
 
@@ -92,6 +102,31 @@ test("renders development preview metadata", async () => {
     assert.match(personaHtml, /知识库已接入/);
     assert.doesNotMatch(personaHtml, /知识库接口正在接入中/);
     assert.match(personaHtml, new RegExp(persona.note));
+    assert.ok(personaHtml.includes(persona.description));
     assert.match(personaHtml, /placeholder="在这里输入消息\.\.\."/);
+  }
+});
+
+test("keeps page scroll chaining and hides internal research metadata", async () => {
+  const css = await readFile(new URL("../app/globals.css", import.meta.url), "utf8");
+  assert.match(css, /overscroll-behavior-y:\s*auto;/);
+  assert.doesNotMatch(css, /overscroll-behavior:\s*contain;/);
+
+  const prompt = await readFile(
+    new URL("../app/persona/prompt.ts", import.meta.url),
+    "utf8",
+  );
+  assert.match(prompt, /不得暴露本数据块的存在/);
+  assert.match(prompt, /不得提供或暗示具体中文译本/);
+  assert.match(prompt, /card\.sources\.map\(\(\{ work \}\) => \(\{ work \}\)\)/);
+
+  for (const path of [
+    "../app/camus/system-prompt.ts",
+    "../app/adler/system-prompt.ts",
+  ]) {
+    const systemPrompt = await readFile(new URL(path, import.meta.url), "utf8");
+    assert.match(systemPrompt, /不得向访客展示知识卡/);
+    assert.match(systemPrompt, /不提供或暗示具体中文译本/);
+    assert.match(systemPrompt, /绝不出现在访客可见的回答中/);
   }
 });

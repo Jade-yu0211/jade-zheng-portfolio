@@ -7,7 +7,6 @@ export function buildAdlerInstructions(message: string): string {
   const knowledgeBlock = buildRetrievedKnowledgeBlock(
     retrieval.cards,
     [
-      "id",
       "title",
       "content",
       "evidence_type",
@@ -22,4 +21,3 @@ export function buildAdlerInstructions(message: string): string {
     "\n\n",
   );
 }
-

@@ -11,7 +11,7 @@ export default function CamusChatPage() {
     <PersonaProductPage
       slug="camus-chat"
       title="Camus Chat"
-      description="蒸馏加缪的《西西弗神话》和《反抗者》等 5 本经典著作，构建加缪的人物心智模型，通过对话畅聊荒诞哲学"
+      description="使用Github上开源的Nuwa.skill蒸馏《西西弗神话》、《反抗者》、《鼠疫》以及《局外人》这4本加缪的代表作，构建人物心智模型，通过对话畅聊荒诞哲学"
       avatar="C"
       intro="你好，我是 Camus Chat。你可以与我讨论荒诞、反抗、自由、幸福与限度等问题。"
       suggestions={[

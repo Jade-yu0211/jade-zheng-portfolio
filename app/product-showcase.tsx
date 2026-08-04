@@ -32,7 +32,7 @@ const products: ProductPreview[] = [
     href: "/products/camus",
     tags: ["AI问答", "人物心智模型", "荒诞哲学"],
     description:
-      "蒸馏加缪的《西西弗神话》和《反抗者》等 5 本经典著作，构建加缪的人物心智模型，通过对话畅聊荒诞哲学",
+      "蒸馏加缪的《西西弗神话》等 4本经典著作，构建加缪的人物心智模型，通过对话畅聊荒诞哲学",
     messages: [
       { role: "user", text: "如果人生没有终极意义，为什么还要起床？" },
       {

@@ -6,7 +6,7 @@ export function buildCamusInstructions(message: string): string {
   const retrieval = retrieveCamusKnowledge(message);
   const knowledgeBlock = buildRetrievedKnowledgeBlock(
     retrieval.cards,
-    ["id", "title", "content", "evidence_type", "caveat", "sources"],
+    ["title", "content", "evidence_type", "caveat", "sources"],
     retrieval.sufficient,
   );
 
@@ -14,4 +14,3 @@ export function buildCamusInstructions(message: string): string {
     "\n\n",
   );
 }
-
