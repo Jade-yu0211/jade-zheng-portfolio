@@ -2,6 +2,8 @@
 
 import { FormEvent, KeyboardEvent, useEffect, useRef, useState } from "react";
 
+import { useAutoResizeTextarea } from "./use-auto-resize-textarea";
+
 type ChatMessage = {
   id: number;
   role: "assistant" | "user";
@@ -157,6 +159,7 @@ export default function PersonaChatInterface({
   const messagesPanelRef = useRef<HTMLDivElement>(null);
   const abortControllerRef = useRef<AbortController | null>(null);
   const inFlightRef = useRef(false);
+  const textareaRef = useAutoResizeTextarea(input);
 
   useEffect(() => {
     const messagesPanel = messagesPanelRef.current;
@@ -362,6 +365,7 @@ export default function PersonaChatInterface({
 
       <form className="chat-composer" onSubmit={handleSubmit}>
         <textarea
+          ref={textareaRef}
           aria-label="输入聊天消息"
           placeholder="在这里输入消息..."
           rows={1}

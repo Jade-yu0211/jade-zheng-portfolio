@@ -111,6 +111,24 @@ test("keeps page scroll chaining and hides internal research metadata", async ()
   const css = await readFile(new URL("../app/globals.css", import.meta.url), "utf8");
   assert.match(css, /overscroll-behavior-y:\s*auto;/);
   assert.doesNotMatch(css, /overscroll-behavior:\s*contain;/);
+  assert.match(css, /\.chat-composer textarea[\s\S]*?max-height:\s*118px;/);
+  assert.match(css, /\.chat-composer textarea[\s\S]*?overflow-y:\s*hidden;/);
+
+  const autoResize = await readFile(
+    new URL("../app/products/use-auto-resize-textarea.ts", import.meta.url),
+    "utf8",
+  );
+  assert.match(autoResize, /MAX_VISIBLE_LINES\s*=\s*5/);
+  assert.match(autoResize, /textarea\.scrollHeight\s*>\s*maxHeight/);
+
+  for (const path of [
+    "../app/products/chat-interface.tsx",
+    "../app/products/persona-chat-interface.tsx",
+  ]) {
+    const chatInterface = await readFile(new URL(path, import.meta.url), "utf8");
+    assert.match(chatInterface, /useAutoResizeTextarea\(input\)/);
+    assert.match(chatInterface, /<textarea[\s\S]*?ref=\{textareaRef\}/);
+  }
 
   const prompt = await readFile(
     new URL("../app/persona/prompt.ts", import.meta.url),
