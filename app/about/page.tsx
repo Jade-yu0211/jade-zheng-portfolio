@@ -94,7 +94,7 @@ export default function AboutPage() {
 
               <section aria-labelledby="ai-coding">
                 <h2 id="ai-coding">AI编程</h2>
-                <p>这个个人网站是我 Vibe coding 的第一个作品！</p>
+                <p>这个个人网站是我 Vibe Coding 的第一个作品！</p>
               </section>
             </div>
           </article>

@@ -45,7 +45,7 @@ test("renders development preview metadata", async () => {
   assert.match(html, /href="\/products\/camus"/);
   assert.match(html, /aria-label="打开 Adler Chat 聊天窗口"/);
   assert.match(html, /href="\/products\/adler"/);
-  assert.match(html, /兴趣爱好：阅读、健身、vibe coding/);
+  assert.match(html, /兴趣爱好：阅读、健身、Vibe Coding/);
   assert.doesNotMatch(html, /兴趣爱好：阅读、健身、AI编程/);
   assert.ok(
     html.includes(
